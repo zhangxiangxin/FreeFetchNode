@@ -8,6 +8,8 @@ jobs:
   main:
     runs-on: ubuntu-latest
     env:
+      # time zone
+      TZ: Asia/Shanghai
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       DDAL_EMAIL: ${{ secrets.DDAL_EMAIL }}
       DDAL_PASSWORD: ${{ secrets.DDAL_PASSWORD }}
