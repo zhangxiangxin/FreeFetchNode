@@ -1,5 +1,3 @@
-[maossr.top]
-
 [ayucloud.services]
 auth_path  user
 auto_invite  F
@@ -8,80 +6,57 @@ email  xhejewsx852@spam4.me
 last_checkin  2025-01-19 11:19:06.762007+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.201G  2025-01-20 11:19:05+08:00  (剩余 1.201G 23:59:50.245020)
+sub_info  0B  1.201G  2025-01-20 11:19:05+08:00  (剩余 1.201G 21:22:58.849689)
 sub_url  https://network.ayucloud.nl/link/jhL78RLok1eEou0y?clash=1
 time  2025-01-19 11:19:07.497715+08:00
 type  sspanel
 
-[kan.gar.ooo]
-email_domain  freedom
-name  Kangaroo✦Network
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ceebxyrkc893@lista.cc): {'message': '验证码有误'}
-
-[console.ly520.me]
-
-[sockboom.link]
-name  Loading...
+[cc.dabai.in#大白]
+auto_invite  F
+buy  shop=31
+email  fojlgwcg699@gmail.com
+last_checkin  2025-01-19 13:56:04.297350+08:00
+name  大白
+node_n  7
+sub_info  0B  1T  2025-02-18 13:56:04+08:00  (剩余 1T 29 days, 23:57:55.073915)
+sub_url  https://cc.dabai.in/link/3BzHzRMouX6WEnqc?sub=3
+time  2025-01-19 13:56:05.483077+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(bgkeuyze298@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
-[cyanmori.com]
+[cooc.cloud#小白云]
 
-[www.ckcloud.xyz]
-
-[fastestcloud.xyz]
-buy  pass
-email  jddknxz871@gmail.com
-name  FastFly
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=fc2b578f43cd3e481512cac59c854904
-time  2025-01-19 11:18:51.372028+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[biubiufast.com]
-
-[giaoyun.xyz]
-
-[vipxgyun.com]
-
-[iqiaqia.xyz]
-
-[mgnet.vip]
+[mgnet.vip#mgnet]
 auto_invite  F
 buy  pass
-email  zobkpxmg525@gmail.com
-last_checkin  2025-01-19 11:18:51.026020+08:00
+email  gctvbamo680@gmail.com
+last_checkin  2025-01-19 13:56:03.196521+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.508G  2025-01-21 12:18:50+08:00  (剩余 5.508G 2 days, 0:59:56.124593)
-sub_url  https://www.mgnet.sbs/link/3xVuYAs3anHyNgHw?sub=3
-time  2025-01-19 11:18:51.482453+08:00
+sub_info  0B  5.532G  2025-01-21 14:56:01+08:00  (剩余 5.532G 2 days, 0:59:54.801156)
+sub_url  https://www.mgnet.sbs/link/VTBLQ7bgwzYsjQag?sub=3
+time  2025-01-19 13:56:03.638653+08:00
 type  sspanel
 
-[cryxr.xyz]
-name  探索者
-type  v2board
-更新订阅链接/续费续签失败  注册失败(nhevxukbv177@555.anztyy.shop): 邮箱后缀不处于白名单中
-
-[vpiv.app]
-
-[ziyun.cyou]
-name  紫云VPN服务商
+[nova.live#Novalive]
+name  NovaLive
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(kvhhftxfd707@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="120"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "ziyun.cyou",cType: \'non-interactive\',cRay: \'9043adfc9e5b0600\',cH: \'l2YS.26rmKIf7qBBFJxsaYTgMVevHxoFKYvGEjlbL_0-1737256729-1.2.1.1-edKcWB1bXtlfB0J66XsX1pagEtAJPvFGjvR81FoCQ_RgtBl30_cFeM7M3wfEYVJP\',cUPMDTk: "\\/auth\\/register?__cf_chl_tk=cYBkZQt2E0RXgBjc.fMmpfQxIx4oq5DpIQJNocknW2c-1737256729-1.0.1.1-gaO75ntNHjiNxY1dg2Sxw6FVzBF8HNsn0DrYWM74qcg",cFPWv: \'g\',cITimeS: \'1737256729\',cTTimeMs: \'1000\',cMTimeMs: \'120000\',cTplC: 0,cTplV: 5,cTplB: \'cf\',cK: "",fa: "\\/auth\\/register?__cf_chl_f_tk=cYBkZQt2E0RXgBjc.fMmpfQxIx4oq5DpIQJNocknW2c-1737256729-1.0.1.1-gaO75ntNHjiNxY1dg2Sxw6FVzBF8HNsn0DrYWM74qcg",md: "c6vJfgVy.l3bcs7aVJo_iRQFx04MaOs4xBwnrHkUI_U-1737256729-1.2.1.1-MCWPtWNze2kXGLBydyl8t6VqrpiTIP3QQmgRGUITqRZp8pOOUADZ6oXgTM1FN7BDAmO.a71BogzNXwSqBtV5nEny9Yh7kNbOEsaN5Rc.zhHB10haiaM.y6cMSruM3c8tItC640e3_KAB3MY3tESYaPbsEcIrGFvs0bwEqx19g8xBkWhsnKrbguJs2O5uMZMEspviJIroXke9UFZPVUeNvPgY60pabAABwPa.E8I62kqBk10EAEXjnuIKhwRuxNPlYoZ4DGH1PGENt8zY8nBXNr1LxhRbzERUOrqO1kI3c17_95RffzfL2jUHLEVjr7seIeje8NWb0ZpSRowMmjO3i0aqJ9MSEY5uTOR_j_EYxH.5nZ_kysgGzG4lzO7Qjm_Q1LP2o2gTPxQU_XQEIsxA0N.pp5H9M.sPlmXU.jBpD28tfIjEAV5m8IhjJpuIZDcvkd0yzSV1VSkQxWOjiLwHH7MeeJzTAAqxnOVxb9Mw6WhDUT0H4NZGN62ESw8bOtURATEzC3krO82fLfrSIj831tg4yRCp_CbbjF4Lx1sETTICykGYrQi_B_3ZVzZVnYI6O0Tr0jLlR5y4PgQ4CLt6SUy5HdG6jJ.QO40eWLht24rcIvcp86in0p1R1RPDLN0T0jQzWAjz_wwDy.4TQnzmSBUcRooUza_sMIeCehWiijMtEJ3TIZRr4xbRRAKUVgOq.v0LWBxsnVpG9XmimLvRnobwOb.uoLZONYEKWbuXHovmZ.e6zOJAT7oaSq.m.VTRCMsxMa_JevlNQDWqRHqvaRI92ALQOORzhzfMWrAX9zE04Ju16O5C610SCbZWkAv2Ci2h246tbVSAMGfviTnB3CeXccVvWiAB6GFysHTMqqJWAzAVNS8IuhSs6U21izdks2moktC0IaFl3WYEVrsIN4RRAtYaKok.ijmFXc_zA8Wv3T9z8JJ1bp7ukwMM4lRwqbCrTw8KJQTiCAW9YQMpoSQJPHRNrOVVi.kaaJ0IRxcM8Bv9NJmNGgYXxG0hWodQQm_XblUXy.lB0QAvX83fZGWVmovopTT8AySAfBYxDUjJlZNuxDkw5wcPIf0AzAB56l5.r.LmEWGQ0OHW8kwrX_50pipi1VPzLNBzRHHHap37OI..pqFIsBxNFe6kxFGrCpWzmAypiI6WOK3DP3j_XO2oQgmKmObhMKXvSyiCvniHLbYwLtf2jRaSJgoOc61WsyVJPGQhgK13bisZ2c1XbOv8qmJ6XSvnlnqlfqBr8StJt1Nh7vnTCe._66EebNnRmwBrwN9kKGR7QKQ0dsfSoap8rbC7.cqqfcRBYmPr45mqlUjoUuOMiBiJaXqHajYeexWOEYJ5okp3aKYdGoFPXT51j1ylBpUtI600jHCYVBIYBhnOH.Ouum92Mj4nSyri2UuRX9O0HP3maTPjhIwBdmrZRHJGPb0xL6RwpZMwkvX4EBvcNjIxv4LKxQmdx4GoAjqnp23kMgpcCtxDN_0uVAduU3fnVVLs_Xh8lhyIMSyDL8H2QrBdmNDhZMCjEYP7iaZqUVNMfEQ0tm_zzVtpc3pP5bP88DUNhPv7D2CeGPb5q77O.gmGTEBVgwYjEF7kzIwPOpx8igQZI01TPpaWsZTpRwSBanOIUf6AQKDIcKfOkBYGSO4eY3SdGJDFJZFolWuL8zyTFyI254J0fw_.zb4XANramg.8wf99TXqGlSWBJB8PPuSopYCtd.KXXxJ6T8xcVDRt_0TKPfDuq5aL9yssHkKEV85Nd2Uy7AqM0K5GEz4B00vm9dNB3cwFFuPwucZY2Y6xEfRlbICjlnOebg",mdrd: "qlzntDsf3oLu5KfhGvxV6ZvbAxVHpIIz8BV7ZSEyudc-1737256729-1.2.1.1-fRQGgnrmzguxoSh3KLZEER3XZNs7Jt79g3nLSfVw5UZJZFvZGhkcw5hAxiq5D2dSMSs1CvmbexMcZMG1VzZ7g_5ubwZS78zS68QLMk_wMZoEC5clGA7knL4Wll._ySvRtoL9Re15IAo_XA5x.pXhFr8qScFkMFVsre_a.zME9DCmhmFe1DVtIxloGxyi82jBkR3ZUJjYx8gmvudsVixx1yTicdo.E94ktM74OCh70iYEWG3rw25tcoCYzD_glPI8dKpvEsw8GMrBNREuS30YxPEFrA4XUA7mgXivvqHtjEvmYY9Yg7Fyk2cV4yD3ZH6_7lpriGWGvjAwj_QOp2xNMax6vzub0RkuJ3CVqGumVyidunri6hSNPpULWrz3rY4OZBYOXIypxglY3wEQUnoeG7IAO6CBK0_0p6ElRV0Gf6HwGvWQIACzMsIlXv6PVX.QNnwE.PEWGS7LL.p6ZMCBoRYhpUYA.C7lPAs.gWR3I5WMcPfF_mRWt.Jj7FjBr_a8yyOxK_tAaHOocTtaOfJg_w9Ly04xXOrxrXPqQHmqt0a3B3uX6gltbkD9Ux6GOcQ5K207_gKnY9Mb0wjsSkRqvRLfu8fJc7Q9k4I5quxDo4rZfrQpofyeB6bIty33K.xxDgiIEZBwEi1._k.igIZ5FFGtTcewa_IREDju4MW1EXo2kail8qY3b45F_imi490.UHHIYoJ7kHjUkepo23v.IJQX5dJGX.L1koH72t25vrD_7N2ALVJ87g0BPcXcaLM.xFczzQqmIhbAQwNufDFqF.u1Na5Zzlkx0Mynesf5as9_bMKupNyW5.Y4wzRE.Pua__39G.N_CEZkiwkvp_ZS7izR2x.n9aW7PonnD_hymz.u29cOtLnTc_SmkGLi6.YTmG5l_Jc1tGcMrUWowSFDI7KezWGbyaG_E5qQ9Gj.CUJk.wvq3ydhh.EmGjExyVI6WGtBbtPyTpZdj6UJdp7CTcABjGEblk.Z9dVHFwQHbTKdvwSzRSXE27Y9Id.i84Cp2uliGE6uu_YpAS.pjbjsazw_CUysejjBZKZmg3xWxa33EmMaXofMX4utT4p8R8Ds..2yVfGiQqxQjadVNPZawR.jy6nqMW9pr90irveYmnrQHdaJoExxGfgQ74tCspGlglWn1OpFX38HNhDkdFHPZKzy6k.p8oEtH2wgE2svyb9zlonN7JVM07muDfx8USs952xD8ACmoc9RwlMzdcC9G2t_kbuoMt6Lc0U8fI94fHPBWoDFSBbgiCd_BES0CtPDxKDGGS1CC9ZjjkjvE5w0QesiSnWkv2_u_N_0XQLa588nlhPATaMrlkjlB7mWwxNH7Y3N20B6r5n6UifNNQQSyvdDeZStFGDWmeOu1w3tK1GdS8amBAyExABHZV9JY3Do0rGTMV7PPthRcRXKXLvuE_YbGwlIMr0OMnMCyznScYi51sAXaQY7dvxsBQKXCfaEIJ69ZQu9AGVufxBpg5cTKHi6rz0ZfuYMgxUBftgG5D3PFBWaZ_aVZdOdPIldxo9LAAFBgRrKmTSPRxLoiaGOTGA9P98B2maO.ehQi4mhCIy.lFHgAS0dAanHuzZELnIRmyp5vbT2BcxlbCNq3.4wkx5JNJD5eBS8RzMDtlDW0w_EOCxCWvz9Ab9zorJsTKItjtKjwU3G76x3YRJphv7YM..ZvdmbzfJYZPOUk0DEVubY6lkWiRymKJEnqeBf67BMrL3mdL.uugiQzyClilF1nhF5NIsXRtPakvOcH6AhYC1vZ057AHAwcFvMg4V2OX.Ijz9LLpovufjWmLacFEaEblYPFDaXXAofsHSgY_.LOpAPBoMPC2HHPnOt1DLxBfsRBsFNi5ouaV5aOIkLiqOOfarmhYxOi.1fIXxEyAYRMEeSOSP3xfWG43YHTXwqzSnLFm7Ic8wPSnt8HYyITO0FXzYmb735qkUVyC1nlr5u6HhVMeyVSOfq0EuBMvihbh1lmeIZanBSfU_D2LcNLmVYgjjkmSAco65U42opqb9_frL9U7jgIR2sMInM2o2Ggu3tZPjfT1RBtLvtySycx8_uNz6NYg.puy1R8U4sO5bZbnJ_FWxoIROXGf5oyM05hEwjPAd64rtg1n8cuR3kJcsac6dqvJEgA_Fg6QlYlQ_8dc7k2lE.5o8qgS_13FGAIgVpFTC4KbAMwWYyHPAJJ4B4feZ.VJsOWXWTFWOPIIjYX00ABiBmYSeDFqxuswtAtYX5ZYoAq5oHYcTfdunKHDxP0UtDZislmtd7hxTmWCLSysbf5ZTBvaeqRKabiW6tx_VXkHWlFf.t7FhmPbdeny55AN2XLI9didbcGW8GQ.TXz_Iz2JxQ05_Cqzth4AJk38nNydTIAhlNFxhx1w3i4xEwtw"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9043adfc9e5b0600\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/auth\\/register?__cf_chl_rt_tk=cYBkZQt2E0RXgBjc.fMmpfQxIx4oq5DpIQJNocknW2c-1737256729-1.0.1.1-gaO75ntNHjiNxY1dg2Sxw6FVzBF8HNsn0DrYWM74qcg" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ydulcpf526@xiaoyaoemail.cc","success":"false"}'
 
-[lm.laomaoyun.me]
+[uuvpn.cloud:1080#UUVPN]
 
-[my.bfhk.xyz]
+[www.duguletian.com#独孤乐天]
+auto_invite  F
+email  iessida36@mxl001.win
+last_checkin  2025-01-19 13:56:07.563130+08:00
+name  独孤乐天
+node_n  6
+sub_info  0B  1.041G  2025-01-20 13:56:06+08:00  (剩余 1.041G 23:59:56.968788)
+sub_url  https://www.duguletian.com/link/WkVSafwHmAvkgjoj?sub=3
+time  2025-01-19 13:56:08.187210+08:00
+type  sspanel
 
-[store.kakocloud.pro]
-api_host  directstore.kakocloud.pro
-name  Kako Cloud
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"cwxfiof980@555.66liu.shop","success":"false"}'
-
-[v2link.org]
-
-[cfcloud.cyou]
+[www.flybar4.cc]
+banned_domains  lista.cc
+name  飞翔吧
+type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xplqozzf827@lista.cc)
