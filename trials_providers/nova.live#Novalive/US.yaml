@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.202.42.37, port: 443, type: trojan, password: 32d2c283-12d5-30d1-8848-68549697b480, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 32d2c283-12d5-30d1-8848-68549697b480, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 32d2c283-12d5-30d1-8848-68549697b480, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
