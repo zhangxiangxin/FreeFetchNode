@@ -6,7 +6,7 @@ email  iwhjjnd233@ipiso.tmmad.com
 last_checkin  2025-01-20 11:43:12.612111+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.014G  2025-01-21 11:43:12+08:00  (剩余 1.014G 20:10:42.567402)
+sub_info  0B  1.014G  2025-01-21 11:43:12+08:00  (剩余 1.014G 19:03:15.368035)
 sub_url  https://network.ayucloud.nl/link/pVK8nUglqctKdvJG?clash=1
 time  2025-01-20 11:43:13.384932+08:00
 type  sspanel
@@ -18,7 +18,7 @@ email  fojlgwcg699@gmail.com
 last_checkin  2025-01-20 00:37:01.247747+08:00
 name  大白
 node_n  7
-sub_info  161.2M  1T  2025-02-18 13:56:04+08:00  (剩余 1024G 28 days, 22:23:33.068596)
+sub_info  161.2M  1T  2025-02-18 13:56:04+08:00  (剩余 1024G 28 days, 21:16:12.502647)
 sub_url  https://cc.dabai.in/link/3BzHzRMouX6WEnqc?sub=3
 time  2025-01-19 13:56:05.483077+08:00
 type  sspanel
@@ -28,22 +28,22 @@ api_host  uujiasu.com
 buy  pass
 email  bjivdon564@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-01-21 15:32:32+08:00  (剩余 1G 23:59:50.086344)
+sub_info  2.38M  1G  2025-01-21 15:32:32+08:00  (剩余 1022M 22:52:45.997368)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=b58391cd9f555fad9c56ad857df436c0
 time  2025-01-20 15:32:32.926264+08:00
 type  v2board
 保存base64/clash订阅失败  netloc 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMjEwMDhhZS01MGZkLTQzYmEtYThhMS0xOTdhZDhiYWU4NDM@最新官网：uuvpn.cloud:1080' contains invalid characters under NFKC normalization
 
 [2.flybar20.cc]
-banned_domains  tmail.ws  tmpmail.org
-email  kaknplrb383@ipiso.tmmad.com
-invite_code  xJTJ  10000
-last_checkin  2025-01-20 00:37:01.248756+08:00
+banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net
+email  rctagid367@555.anztyy.shop
+invite_code  frVQ  10000
+last_checkin  2025-01-20 16:45:35.612805+08:00
 name  飞翔吧
 node_n  47
-sub_info  476.7K  10.27G  2025-01-20 16:34:36+08:00  (剩余 10.27G 1:01:54.278426)
-sub_url  http://175.178.9.20/link/AiBp2UOIF9PI2yfZ?sub=3
-time  2025-01-19 16:34:39.561897+08:00
+sub_info  0B  10.19G  2025-01-21 16:45:34+08:00  (剩余 10.19G 23:59:51.501589)
+sub_url  http://175.178.9.20/link/pjo5l4YtNgL58NJo?sub=3
+time  2025-01-20 16:45:37.003085+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -52,21 +52,26 @@ email  uxatqclmw926@jkd.tmmad.com
 last_checkin  2025-01-20 09:55:53.432122+08:00
 name  独孤乐天
 node_n  6
-sub_info  51.85K  1.017G  2025-01-21 09:55:52+08:00  (剩余 1.017G 18:23:21.068414)
+sub_info  51.85K  1.017G  2025-01-21 09:55:52+08:00  (剩余 1.017G 17:16:05.616293)
 sub_url  https://www.duguletian.com/link/zRgeIQZ39rrgiqbu?sub=3
 time  2025-01-20 09:55:54.016174+08:00
 type  sspanel
 
 [nova.live#Novalive]
 auto_invite  F
-banned_domains  nespressopixie.com
+banned_domains  nespressopixie.com  snapmail.cc
 buy  pass
 email  afvqbllq1@guerrillamailblock.com
 last_checkin  2025-01-20 14:42:15.115582+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.054G  2025-01-20 14:42:14+08:00  (剩余 1.054G -1 day, 23:08:40.637161)
+sub_info  0B  1.054G  2025-01-20 14:42:14+08:00  (剩余 1.054G -1 day, 22:01:17.246950)
 sub_url  https://new.gfw.news/link/OxDaK3Thuxj42Yqc?sub=3
 time  2025-01-20 14:42:15.553199+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(fwwnddmlo965@nespressopixie.com)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(wvcnlikz420@snapmail.cc)
+
+[mogufan.com]
+name  蘑菇饭
+type  v2board
+更新订阅链接/续费续签失败  注册失败(kbqqoohv277@gmail.com): 'NoneType' object is not subscriptable
