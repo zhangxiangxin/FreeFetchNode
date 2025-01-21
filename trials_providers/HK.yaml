@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - uu加速首页, server: jscm1.yunnode.win, port: 31672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
-- {name: 🇭🇰 香港02 - uu加速首页, server: jscm1.yunnode.win, port: 31675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
-- {name: 🇭🇰 香港03 - uu加速首页, server: jscm1.yunnode.win, port: 31679, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
-- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
-- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: jscm1.yunnode.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: jscm1.yunnode.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: jscm1.yunnode.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
+- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: c21008ae-50fd-43ba-a8a1-197ad8bae843, udp: true}
 - {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: e2d65859-1b7b-30e8-be8a-ffd8e9c01d1a, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: e2d65859-1b7b-30e8-be8a-ffd8e9c01d1a, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: e2d65859-1b7b-30e8-be8a-ffd8e9c01d1a, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
