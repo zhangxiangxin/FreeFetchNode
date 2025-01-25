@@ -6,7 +6,7 @@ email  uualcfjt548@guerrillamail.org
 last_checkin  2025-01-25 00:39:55.859307+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.792G  2025-01-25 21:34:43+08:00  (剩余 1.792G 6:56:15.805113)
+sub_info  0B  1.792G  2025-01-25 21:34:43+08:00  (剩余 1.792G 6:02:43.745139)
 sub_url  https://network.ayucloud.nl/link/5bOGIt7kNpdHVRbU?clash=1
 time  2025-01-24 21:34:44.640999+08:00
 type  sspanel
@@ -18,7 +18,7 @@ email  vniudlfs869@gmail.com
 last_checkin  2025-01-25 12:38:34.754628+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-02-24 12:38:34+08:00  (剩余 1T 29 days, 22:00:07.946979)
+sub_info  0B  1T  2025-02-24 12:38:34+08:00  (剩余 1T 29 days, 21:06:37.384515)
 sub_url  https://cc.dabai.in/link/2RYA84HvhXuq2SQG?sub=3
 time  2025-01-25 12:38:35.743635+08:00
 type  sspanel
@@ -28,7 +28,7 @@ api_host  uujiasu.com
 buy  pass
 email  alacqpdn13@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-01-25 16:38:28+08:00  (剩余 1G 1:59:49.555316)
+sub_info  0B  1G  2025-01-25 16:38:28+08:00  (剩余 1G 1:06:29.464535)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=4082a3208124b2ffb46be48a153c9783
 time  2025-01-24 16:38:29.439918+08:00
 type  v2board
@@ -45,6 +45,9 @@ sub_info  0B  10.14G  2025-01-26 14:38:30+08:00  (剩余 10.14G 23:59:44.390362)
 sub_url  http://175.178.9.20/link/o05CLm2M6VW0dYuT?sub=3
 time  2025-01-25 14:38:33.506094+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -52,22 +55,21 @@ email  dcwswbbm552@555.66liu.shop
 last_checkin  2025-01-25 10:51:11.828886+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.007G  2025-01-26 10:51:11+08:00  (剩余 1.007G 20:12:46.554331)
+sub_info  0B  1.007G  2025-01-26 10:51:11+08:00  (剩余 1.007G 19:19:10.163897)
 sub_url  https://www.duguletian.com/link/8DWcPNGpgzXzkj5F?sub=3
 time  2025-01-25 10:51:12.601881+08:00
 type  sspanel
 
 [nova.live#Novalive]
 auto_invite  F
-banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc
+banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc
 buy  pass
 email  cnafcnyrm344@442587.xyz
 last_checkin  2025-01-25 13:36:18.056782+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.08G  2025-01-25 13:36:17+08:00  (剩余 1.08G -1 day, 22:57:51.459418)
+sub_info  0B  1.077G  2025-01-25 13:36:17+08:00  (剩余 1.077G -1 day, 22:03:01.974268)
 sub_url  https://new.gfw.news/link/snCXmTg0Sba4TAb3?sub=3
 time  2025-01-25 13:36:18.534779+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  获取邮箱验证码超时(glicpmbsy325@lista.cc)
