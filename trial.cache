@@ -6,7 +6,7 @@ email  uualcfjt548@guerrillamail.org
 last_checkin  2025-01-25 00:39:55.859307+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.792G  2025-01-25 21:34:43+08:00  (剩余 1.792G 2:02:22.080718)
+sub_info  0B  1.792G  2025-01-25 21:34:43+08:00  (剩余 1.792G 0:44:15.097527)
 sub_url  https://network.ayucloud.nl/link/5bOGIt7kNpdHVRbU?clash=1
 time  2025-01-24 21:34:44.640999+08:00
 type  sspanel
@@ -18,7 +18,7 @@ email  vniudlfs869@gmail.com
 last_checkin  2025-01-25 12:38:34.754628+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-02-24 12:38:34+08:00  (剩余 1T 29 days, 17:05:50.785373)
+sub_info  0B  1T  2025-02-24 12:38:34+08:00  (剩余 1T 29 days, 15:48:25.853498)
 sub_url  https://cc.dabai.in/link/2RYA84HvhXuq2SQG?sub=3
 time  2025-01-25 12:38:35.743635+08:00
 type  sspanel
@@ -33,6 +33,7 @@ sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=4082a3208124b2ffb4
 time  2025-01-24 16:38:29.439918+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新旧订阅失败  {'message': '未登录或登陆已过期'}
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc
@@ -41,7 +42,7 @@ invite_code  bWKj  10000
 last_checkin  2025-01-25 14:38:32.188150+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.14G  2025-01-26 14:38:30+08:00  (剩余 10.14G 19:06:08.431746)
+sub_info  0B  10.14G  2025-01-26 14:38:30+08:00  (剩余 10.14G 17:48:24.756722)
 sub_url  http://175.178.9.20/link/o05CLm2M6VW0dYuT?sub=3
 time  2025-01-25 14:38:33.506094+08:00
 type  sspanel
@@ -52,7 +53,7 @@ email  dcwswbbm552@555.66liu.shop
 last_checkin  2025-01-25 10:51:11.828886+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.007G  2025-01-26 10:51:11+08:00  (剩余 1.007G 15:18:28.558972)
+sub_info  0B  1.007G  2025-01-26 10:51:11+08:00  (剩余 1.007G 14:00:56.438272)
 sub_url  https://www.duguletian.com/link/8DWcPNGpgzXzkj5F?sub=3
 time  2025-01-25 10:51:12.601881+08:00
 type  sspanel
@@ -61,12 +62,11 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc
 buy  pass
-email  atuuowum342@youxiang.dev
-last_checkin  2025-01-25 19:32:32.564020+08:00
+email  rnsuexs351@lplso.tmmad.com
+last_checkin  2025-01-25 20:50:24.647746+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.05G  2025-01-25 19:32:32+08:00  (剩余 1.05G -1 day, 23:59:57.071787)
-sub_url  https://new.gfw.news/link/fUuX7tFYlkXKlddi?sub=3
-time  2025-01-25 19:32:33.080101+08:00
+sub_info  0B  1.19G  2025-01-25 20:50:24+08:00  (剩余 1.19G -1 day, 23:59:50.750276)
+sub_url  https://new.gfw.news/link/tcHYDUrxn63iDuJr?sub=3
+time  2025-01-25 20:50:25.254675+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
