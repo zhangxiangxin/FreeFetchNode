@@ -1,6 +1,7 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
+banned_domains  lista.cc
 buy  pass
 email  lkhantikc747@bccto.cc
 last_checkin  2025-01-26 00:39:13.224803+08:00
@@ -10,6 +11,9 @@ sub_info  0B  1.027G  2025-01-27 00:39:12+08:00  (剩余 1.027G 11:04:16.961851)
 sub_url  https://network.ayucloud.nl/link/A39VbyFybpiVaIKj?clash=1
 time  2025-01-26 00:39:14.235398+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(vlhwwgckk61@lista.cc)
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -18,7 +22,7 @@ email  vniudlfs869@gmail.com
 last_checkin  2025-01-26 00:39:05.528039+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-02-24 12:38:34+08:00  (剩余 1T 28 days, 23:03:39.201967)
+sub_info  0B  1T  2025-02-24 12:38:34+08:00  (剩余 1T 28 days, 21:59:42.769190)
 sub_url  https://cc.dabai.in/link/2RYA84HvhXuq2SQG?sub=3
 time  2025-01-25 12:38:35.743635+08:00
 type  sspanel
@@ -28,7 +32,7 @@ api_host  uujiasu.com
 buy  pass
 email  rvwyfkv985@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-01-26 16:36:32+08:00  (剩余 1G 3:01:30.988600)
+sub_info  0B  1G  2025-01-26 16:36:32+08:00  (剩余 1G 1:57:36.240035)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=4082a3208124b2ffb46be48a153c9783
 time  2025-01-24 16:38:29.439918+08:00
 type  v2board
@@ -41,7 +45,7 @@ invite_code  WK4e  10000
 last_checkin  2025-01-26 03:32:28.121395+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.13G  2025-01-27 03:32:26+08:00  (剩余 10.13G 13:57:23.769363)
+sub_info  0B  10.13G  2025-01-27 03:32:26+08:00  (剩余 10.13G 12:53:25.188287)
 sub_url  http://175.178.9.20/link/CO03lALaJ6oDTEYn?sub=3
 time  2025-01-26 03:32:29.366108+08:00
 type  sspanel
@@ -52,7 +56,7 @@ email  grsztff553@442587.xyz
 last_checkin  2025-01-26 10:57:13.110797+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.044G  2025-01-27 10:57:12+08:00  (剩余 1.044G 21:22:18.415634)
+sub_info  0B  1.044G  2025-01-27 10:57:12+08:00  (剩余 1.044G 20:17:51.284288)
 sub_url  https://www.duguletian.com/link/hOx2mhbSxXftsc1S?sub=3
 time  2025-01-26 10:57:13.873088+08:00
 type  sspanel
@@ -61,11 +65,11 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc
 buy  pass
-email  kknexait683@spam4.me
-last_checkin  2025-01-26 13:35:18.708400+08:00
+email  kczzfchds859@guerrillamail.net
+last_checkin  2025-01-26 14:39:19.360419+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.121G  2025-01-26 13:35:18+08:00  (剩余 1.121G -1 day, 23:59:56.801444)
-sub_url  https://new.gfw.news/link/YGvvcjCT5HgswYG1?sub=3
-time  2025-01-26 13:35:19.299339+08:00
+sub_info  0B  1.079G  2025-01-26 14:39:19+08:00  (剩余 1.079G -1 day, 23:59:24.468314)
+sub_url  https://new.gfw.news/link/Y94A7XhREMkrGhc0?sub=3
+time  2025-01-26 14:39:19.883682+08:00
 type  sspanel
