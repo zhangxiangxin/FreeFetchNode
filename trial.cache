@@ -7,7 +7,7 @@ email  cqurpeu663@guerrillamail.com
 last_checkin  2025-01-30 06:35:51.683317+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.104G  2025-01-31 06:35:51+08:00  (剩余 1.104G 11:03:32.089366)
+sub_info  0B  1.104G  2025-01-31 06:35:51+08:00  (剩余 1.104G 9:41:50.148056)
 sub_url  https://network.ayucloud.nl/link/LpAbV8utuXPpnixM?clash=1
 time  2025-01-30 06:35:52.459572+08:00
 type  sspanel
@@ -15,13 +15,13 @@ type  sspanel
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  xvldhgvtd190@gmail.com
-last_checkin  2025-01-30 05:32:16.336565+08:00
+email  jbuczxxbw140@gmail.com
+last_checkin  2025-01-30 20:53:59.699792+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-01 05:32:16+08:00  (剩余 1T 29 days, 9:59:54.730172)
-sub_url  https://cc.dabai.in/link/Rw91GX03R5WtaqMz?sub=3
-time  2025-01-30 05:32:17.509933+08:00
+sub_info  0B  1T  2025-03-01 20:53:59+08:00  (剩余 1T 29 days, 23:59:54.963757)
+sub_url  https://cc.dabai.in/link/x5OjYD0lB6AK6jZ8?sub=3
+time  2025-01-30 20:54:00.706011+08:00
 type  sspanel
 
 [uuvpn.cloud#UUVPN]
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  coqrjpm332@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-01-31 16:37:29+08:00  (剩余 1G 21:05:12.614471)
+sub_info  0B  1G  2025-01-31 16:37:29+08:00  (剩余 1G 19:43:20.090863)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=2a8d629ccb2609006bc703b7dd9f5d96
 time  2025-01-30 16:37:29.686723+08:00
 type  v2board
@@ -42,7 +42,7 @@ invite_code  aZE1  10000
 last_checkin  2025-01-30 16:37:46.432190+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.13G  2025-01-31 16:37:45+08:00  (剩余 10.13G 21:05:06.318483)
+sub_info  0B  10.13G  2025-01-31 16:37:45+08:00  (剩余 10.13G 19:43:44.518597)
 sub_url  http://175.178.9.20/link/SToNSSd2E7ARUfbT?sub=3
 time  2025-01-30 16:37:47.765471+08:00
 type  sspanel
@@ -57,17 +57,18 @@ sub_info  0B  1.045G  2025-01-31 12:38:38+08:00  (剩余 1.045G 17:06:21.665261)
 sub_url  https://www.duguletian.com/link/2wE2dghkMZvFOtHA?sub=3
 time  2025-01-30 12:38:39.848196+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
-banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com
+banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop
 buy  pass
 email  mmclipy637@965.tmmad.com
 last_checkin  2025-01-30 15:32:31.760491+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.11G  2025-01-30 15:32:31+08:00  (剩余 1.11G -1 day, 20:00:11.403463)
+sub_info  0B  1.11G  2025-01-30 15:32:31+08:00  (剩余 1.11G -1 day, 18:37:23.884387)
 sub_url  https://new.gfw.news/link/o9cTB2eQ1qij64wj?sub=3
 time  2025-01-30 15:32:32.232157+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  获取邮箱验证码超时(rshgntyo967@555.anztyy.shop)
