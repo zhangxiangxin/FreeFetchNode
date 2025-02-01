@@ -3,25 +3,25 @@ auth_path  user
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc
 buy  pass
-email  grkhnmw544@guerrillamail.org
-last_checkin  2025-02-01 01:33:33.694737+08:00
+email  zpksvjef726@jkb.tmmad.com
+last_checkin  2025-02-01 14:39:46.400751+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.067G  2025-02-02 01:33:33+08:00  (剩余 1.067G 11:59:23.752171)
-sub_url  https://network.ayucloud.nl/link/7UpHL622o5cwaOJp?clash=1
-time  2025-02-01 01:33:34.564684+08:00
+sub_info  0B  1.065G  2025-02-02 14:39:46+08:00  (剩余 1.065G 23:59:55.817114)
+sub_url  https://network.ayucloud.nl/link/AaLhfnFipdytMY4y?clash=1
+time  2025-02-01 14:39:47.146251+08:00
 type  sspanel
 
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  gzszazy151@gmail.com
-last_checkin  2025-02-01 00:40:27.040458+08:00
+email  eohkdvnb742@gmail.com
+last_checkin  2025-02-01 14:39:40.243554+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-03 00:40:26+08:00  (剩余 1T 29 days, 11:06:17.849403)
-sub_url  https://cc.dabai.in/link/DshYC6LFltt5f509?sub=3
-time  2025-02-01 00:40:28.340732+08:00
+sub_info  0B  1T  2025-03-03 14:39:40+08:00  (剩余 1T 29 days, 23:59:55.380499)
+sub_url  https://cc.dabai.in/link/Yfa8RqE4TA3SU8iP?sub=3
+time  2025-02-01 14:39:41.296535+08:00
 type  sspanel
 
 [uuvpn.cloud#UUVPN]
@@ -29,11 +29,11 @@ api_host  uujiasu.com
 buy  pass
 email  sktrpwrk596@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-02-01 16:37:50+08:00  (剩余 1G 3:03:18.879954)
+sub_info  0B  1G  2025-02-01 16:37:50+08:00  (剩余 1G 1:58:10.055776)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=49e4de1fe78941fcdebf40a8eae3e478
 time  2025-01-31 16:37:51.023019+08:00
 type  v2board
-保存base64/clash订阅失败  netloc 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzA4Njg5Ny04YzcyLTRlNmYtOWE5Zi0zYWRlMzBiM2EwMWI@最新官网：uuvpn.cloud:1080' contains invalid characters under NFKC normalization
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net
@@ -42,24 +42,22 @@ invite_code  k3LG  10000
 last_checkin  2025-02-01 12:37:35.817632+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.13G  2025-02-02 12:37:34+08:00  (剩余 10.13G 23:03:24.831850)
+sub_info  0B  10.13G  2025-02-02 12:37:34+08:00  (剩余 10.13G 21:57:53.234328)
 sub_url  http://175.178.9.20/link/7jD5g0VTtGl718EU?sub=3
 time  2025-02-01 12:37:37.117966+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc
-email  xpdyiss480@guerrillamail.org
-last_checkin  2025-02-01 00:40:23.757759+08:00
+email  uuymkmkcr688@spam4.me
+last_checkin  2025-02-01 14:39:55.738450+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.073G  2025-02-01 14:42:15+08:00  (剩余 1.073G 2:02:47.811970)
-sub_url  https://www.duguletian.com/link/20iOgytZFn8Ic51x?sub=3
-time  2025-01-31 14:42:17.025082+08:00
+sub_info  0B  1.01G  2025-02-02 14:39:54+08:00  (剩余 1.01G 23:59:55.557544)
+sub_url  https://www.duguletian.com/link/GCwILap049cgsWqy?sub=3
+time  2025-02-01 14:39:56.344482+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
@@ -69,7 +67,8 @@ email  lwtislkrs701@555.cvrmpr.shop
 last_checkin  2025-02-01 13:34:37.758986+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.191G  2025-02-01 13:34:37+08:00  (剩余 1.191G -1 day, 23:59:54.733208)
+sub_info  0B  1.191G  2025-02-01 13:34:37+08:00  (剩余 1.191G -1 day, 22:54:54.573648)
 sub_url  https://new.gfw.news/link/7ycy8JymWj9aAVEo?sub=3
 time  2025-02-01 13:34:38.224265+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"tmfuxgyd30@mail.wvwvw.tech","success":"false"}'
