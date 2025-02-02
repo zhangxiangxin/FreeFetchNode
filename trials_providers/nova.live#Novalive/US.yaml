@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000高速 - NovaLive, server: 34.220.132.151, port: 443, type: trojan, password: d306df85-1f44-3a49-bc2a-ddb2502cb607, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: d306df85-1f44-3a49-bc2a-ddb2502cb607, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: d306df85-1f44-3a49-bc2a-ddb2502cb607, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 34.220.132.151, port: 443, type: trojan, password: b5096937-5999-36e8-aeb0-36cce9e99ccd, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: b5096937-5999-36e8-aeb0-36cce9e99ccd, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: b5096937-5999-36e8-aeb0-36cce9e99ccd, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
