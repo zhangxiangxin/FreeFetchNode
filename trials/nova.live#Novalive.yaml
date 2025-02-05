@@ -89,11 +89,11 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.78.173.41, port: 443, type: trojan, password: 6b34bdf1-18a7-3dc2-9c71-d5c4593dbc65, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: 6b34bdf1-18a7-3dc2-9c71-d5c4593dbc65, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 34.211.189.88, port: 443, type: trojan, password: 6b34bdf1-18a7-3dc2-9c71-d5c4593dbc65, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 6b34bdf1-18a7-3dc2-9c71-d5c4593dbc65, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 6b34bdf1-18a7-3dc2-9c71-d5c4593dbc65, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.78.173.41, port: 443, type: trojan, password: 7908af4d-4cf9-3fa7-941b-51b6cd740827, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: 7908af4d-4cf9-3fa7-941b-51b6cd740827, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 34.211.189.88, port: 443, type: trojan, password: 7908af4d-4cf9-3fa7-941b-51b6cd740827, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 7908af4d-4cf9-3fa7-941b-51b6cd740827, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 7908af4d-4cf9-3fa7-941b-51b6cd740827, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -129,22 +129,6 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kkgithub.com,DIRECT
-- DOMAIN-SUFFIX,bgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,dgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,fgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,hgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,igithub.xyz,DIRECT
-- DOMAIN-SUFFIX,jgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,lgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,4git.xyz,DIRECT
-- DOMAIN-SUFFIX,5git.xyz,DIRECT
-- DOMAIN-SUFFIX,6git.xyz,DIRECT
-- DOMAIN-SUFFIX,mgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,ngithub.xyz,DIRECT
-- DOMAIN-SUFFIX,ogithub.xyz,DIRECT
-- DOMAIN-SUFFIX,pgithub.xyz,DIRECT
-- DOMAIN,hub.whtrys.space,DIRECT
 - DOMAIN-SUFFIX,arx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
