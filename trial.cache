@@ -11,7 +11,9 @@ sub_info  0B  1.691G  2025-02-07 05:34:38+08:00  (剩余 1.691G 0:01:59.753418)
 sub_url  https://network.ayucloud.nl/link/jk1m6w7qDuHpAQHe?clash=1
 time  2025-02-06 05:34:39.256301+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"zyowhhlqe508@x866.cc","success":"false"}'
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(ruvcuqtj810@moakt.co): 邮箱后缀已被拉黑
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -20,18 +22,17 @@ email  qmyuixw373@gmail.com
 last_checkin  2025-02-07 00:40:11.938134+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-08 18:38:26+08:00  (剩余 1T 29 days, 14:04:17.406139)
+sub_info  0B  1T  2025-03-08 18:38:26+08:00  (剩余 1T 29 days, 12:01:54.520006)
 sub_url  https://cc.dabai.in/link/v25ocZrM8z8TgeTw?sub=3
 time  2025-02-06 18:38:28.126812+08:00
 type  sspanel
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (521 '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>cc.dabai.in | 521: Web server is down</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Web server is down</span>\n <span class="code-label">Error code 521</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=cc.dabai.in" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2025-02-06 21:32:49 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=cc.dabai.in" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">Chicago</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=cc.dabai.in" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">cc.dabai.in</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The web server is not returning a connection. As a result, the web page is not displaying.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>\n <p><span>Contact your hosting provider letting them know your web server is not responding.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171916-Error-521">Additional troubleshooting information</a>.</p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90de40cbeeed1141</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">172.183.172.14</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=cc.dabai.in" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n')
 
 [uuvpn.cloud#UUVPN]
 api_host  uujiasu.com
 buy  pass
 email  rxwtesjeu559@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-02-07 17:34:05+08:00  (剩余 1G 12:01:24.448712)
+sub_info  0B  1G  2025-02-07 17:34:05+08:00  (剩余 1G 10:57:28.341976)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=e6600e35132c83d9a2b58810de30e78e
 time  2025-02-06 17:34:06.529660+08:00
 type  v2board
@@ -44,7 +45,7 @@ invite_code  cGnz  9999
 last_checkin  2025-02-07 00:40:21.181429+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.13G  2025-02-08 00:40:21+08:00  (剩余 10.13G 19:07:49.706836)
+sub_info  0B  10.13G  2025-02-08 00:40:21+08:00  (剩余 10.13G 18:03:48.615100)
 sub_url  http://175.178.9.20/link/g4DYJbWbqtxJhfxQ?sub=3
 time  2025-02-07 00:40:22.481721+08:00
 type  sspanel
@@ -56,21 +57,20 @@ email  gbdbima715@x866.cc
 last_checkin  2025-02-07 00:40:11.941450+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.035G  2025-02-07 15:33:02+08:00  (剩余 1.035G 10:58:54.223644)
+sub_info  0B  1.035G  2025-02-07 15:33:02+08:00  (剩余 1.035G 8:56:20.534720)
 sub_url  https://www.duguletian.com/link/oRHsfgVUhBgN1OIo?sub=3
 time  2025-02-06 15:33:05.263606+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live
 buy  pass
-email  edilfhm757@965.tmmad.com
-last_checkin  2025-02-07 05:32:46.096948+08:00
+email  iwtwaao957@jkb.tmmad.com
+last_checkin  2025-02-07 06:36:41.539649+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.189G  2025-02-07 05:32:45+08:00  (剩余 1.189G -1 day, 23:59:55.087714)
-sub_url  https://new.gfw.news/link/DTEqx8oFninbcTmS?sub=3
-time  2025-02-07 05:32:46.722440+08:00
+sub_info  0B  1.195G  2025-02-07 06:36:41+08:00  (剩余 1.195G -1 day, 23:59:57.464207)
+sub_url  https://new.gfw.news/link/Fb0hEjw61Y94BFkc?sub=3
+time  2025-02-07 06:36:42.371278+08:00
 type  sspanel
