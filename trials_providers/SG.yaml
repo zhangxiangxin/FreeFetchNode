@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03 - uu加速首页, server: jsb.tangu.win, port: 31640, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
-- {name: 🇸🇬 新加坡01 - uu加速首页, server: jsb.tangu.win, port: 31636, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
-- {name: 🇸🇬 新加坡02 - uu加速首页, server: jsb.tangu.win, port: 31738, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, tfo: true, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, tfo: true, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, tfo: true, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, tfo: true, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, tfo: true, type: trojan, password: f457f790-cc99-3b0f-bad9-bed1030a970a, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: jsb.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: jsb.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: jsb.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
 - {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: a24df106344.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9037, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: a24df106344.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 902, type: ss, cipher: aes-128-gcm, password: ayuc211, plugin: obfs, plugin-opts: {mode: http, host: a24df106344.download.windowsupdate.com}, udp: true}
