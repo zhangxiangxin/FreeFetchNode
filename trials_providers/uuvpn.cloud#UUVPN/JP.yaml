@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本01 - uu加速首页, server: jsb.tangu.win, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
