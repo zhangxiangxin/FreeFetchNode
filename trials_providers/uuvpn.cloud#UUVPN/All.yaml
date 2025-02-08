@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 最新官网：www.uuvpn.life - uu加速首页, server: 最新官网：uuvpn.cloud, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
+- {name: ℹ️ 最新官网：uujiasu.com - uu加速首页, server: 最新官网：uujiasu.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
 - {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
 - {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
 - {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: c8e9b231-2143-467d-a701-677be89293ab, udp: true}
