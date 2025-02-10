@@ -9,8 +9,29 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -28,10 +49,16 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🇯🇵 ‍日本
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -39,6 +66,30 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 - 独孤乐天
+  - 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id003
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id002
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id003
 proxies:
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: 3d85ffd1-075e-3f7e-a922-6f4d12ec7eb1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: 3d85ffd1-075e-3f7e-a922-6f4d12ec7eb1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
