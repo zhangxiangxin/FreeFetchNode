@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000高速 - NovaLive, server: 34.219.248.179, port: 443, type: trojan, password: 1111f8f6-04c4-3656-b64c-ca722148dbcd, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 1111f8f6-04c4-3656-b64c-ca722148dbcd, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 1111f8f6-04c4-3656-b64c-ca722148dbcd, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 34.219.248.179, port: 443, type: trojan, password: 7ad76277-eb4e-376d-b124-85651f6645b2, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 7ad76277-eb4e-376d-b124-85651f6645b2, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 7ad76277-eb4e-376d-b124-85651f6645b2, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
