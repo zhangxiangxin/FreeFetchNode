@@ -3,13 +3,13 @@ auth_path  user
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc
 buy  pass
-email  mqhnubyxq311@lplso.tmmad.com
-last_checkin  2025-02-11 16:39:12.357193+08:00
+email  usngujvg77@442587.xyz
+last_checkin  2025-02-11 21:37:16.945340+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.144G  2025-02-12 16:39:11+08:00  (剩余 1.144G 19:43:12.269572)
-sub_url  https://network.ayucloud.nl/link/9XXOObRFBLkLdW9C?clash=1
-time  2025-02-11 16:39:13.282173+08:00
+sub_info  0B  1.059G  2025-02-12 21:37:16+08:00  (剩余 1.059G 23:59:50.678710)
+sub_url  https://network.ayucloud.nl/link/lchqtG3sMqUsX2sc?clash=1
+time  2025-02-11 21:37:17.863333+08:00
 type  sspanel
 
 [cc.dabai.in#大白]
@@ -19,7 +19,7 @@ email  sdlmdgl149@gmail.com
 last_checkin  2025-02-11 11:38:26.039088+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-13 11:38:25+08:00  (剩余 1T 29 days, 14:42:26.923939)
+sub_info  0B  1T  2025-03-13 11:38:25+08:00  (剩余 1T 29 days, 14:01:12.137917)
 sub_url  https://cc.dabai.in/link/SI23FhxVIILK5A3J?sub=3
 time  2025-02-11 11:38:27.347657+08:00
 type  sspanel
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  uqdtrus422@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-02-12 19:32:25+08:00  (剩余 1G 22:36:24.728242)
+sub_info  0B  1G  2025-02-12 19:32:25+08:00  (剩余 1G 21:55:13.407845)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=5b538035f69cbc49a5bf826edd64376d
 time  2025-02-11 19:32:25.806352+08:00
 type  v2board
@@ -42,7 +42,7 @@ invite_code  q7tt  10000
 last_checkin  2025-02-11 17:34:38.770469+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.19G  2025-02-12 17:34:37+08:00  (剩余 10.19G 20:38:37.805967)
+sub_info  0B  10.19G  2025-02-12 17:34:37+08:00  (剩余 10.19G 19:57:22.049777)
 sub_url  http://175.178.9.20/link/5cZHbb4VbnRXYR1F?sub=3
 time  2025-02-11 17:34:39.945252+08:00
 type  sspanel
@@ -50,15 +50,14 @@ type  sspanel
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc  psnator.com
-email  qfhvaxs406@ipiso.tmmad.com
-last_checkin  2025-02-11 00:40:44.144075+08:00
+email  tejbcjq650@51788.top
+last_checkin  2025-02-11 21:37:30.845603+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.073G  2025-02-11 18:39:36+08:00  (剩余 1.073G -1 day, 23:58:18.860637)
-sub_url  https://www.duguletian.com/link/YZW9nmcyiH14ao5b?sub=3
-time  2025-02-10 18:39:37.856214+08:00
+sub_info  0B  1.037G  2025-02-12 21:37:29+08:00  (剩余 1.037G 23:59:55.655288)
+sub_url  https://www.duguletian.com/link/KipWpvBjtDtygZ6B?sub=3
+time  2025-02-11 21:37:31.606364+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
@@ -68,7 +67,8 @@ email  zfqegomz919@teihu.com
 last_checkin  2025-02-11 20:56:33.905552+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.093G  2025-02-11 20:56:33+08:00  (剩余 1.093G -1 day, 23:59:44.975118)
+sub_info  0B  1.093G  2025-02-11 20:56:33+08:00  (剩余 1.093G -1 day, 23:19:20.096083)
 sub_url  https://new.gfw.news/link/z4lVKFTLMUIfcTdu?sub=3
 time  2025-02-11 20:56:34.377339+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"tbnwerggv117@555.66liu.shop","success":"false"}'
