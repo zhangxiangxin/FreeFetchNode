@@ -33,6 +33,11 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 香港01 - uu加速首页
+  - 🇭🇰 香港02 - uu加速首页
+  - 🇭🇰 香港03 - uu加速首页
+  - 🇭🇰 香港06-备用 - uu加速首页
+  - 🇭🇰 香港05-备用 - uu加速首页
   - 🇭🇰 广港•香港309•专线 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 中转•香港307•高速 - 飞翔吧
@@ -61,6 +66,7 @@ proxy-groups:
   - 🇭🇰 Video 香港C-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港I-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港II-标准 - AyucLouD-Services
+  - 🇹🇼 台湾01 - uu加速首页
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -87,6 +93,9 @@ proxy-groups:
   - 🇹🇼 Video 台湾D-标准 - AyucLouD-Services
   - 🇹🇼 Video 台湾E-解锁 - AyucLouD-Services
   - 🇹🇼 Web 台湾I-标准 - AyucLouD-Services
+  - 🇸🇬 新加坡03 - uu加速首页
+  - 🇸🇬 新加坡01 - uu加速首页
+  - 🇸🇬 新加坡02 - uu加速首页
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
@@ -106,6 +115,7 @@ proxy-groups:
   - 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services
   - 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services
   - 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services
+  - 🇯🇵 日本01 - uu加速首页
   - 🇯🇵 日本 AWS *3 - 独孤乐天
   - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
   - 🇯🇵 日本 AWS3 *3 - 独孤乐天
@@ -152,6 +162,9 @@ proxy-groups:
   - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
   - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
   - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇸 美国02 - uu加速首页
+  - 🇺🇸 美国01 - uu加速首页
+  - 🇺🇸 美国04 - uu加速首页
   - 🇺🇸 美国 AWS *1 - 独孤乐天
   - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
   - 🇺🇸 中转•美国295•高速 - 飞翔吧
@@ -185,6 +198,12 @@ proxy-groups:
   - 🇺🇸 US000高速 - NovaLive
   - 🇺🇸 US180|CN2GIA - NovaLive
   - 🇺🇸 US181|CN2GIA - NovaLive
+  - ℹ️ 最新官网：uujiasu.com - uu加速首页
+  - ℹ️ x 代表使用倍率 - uu加速首页
+  - ℹ️ 用不了，请更新订阅 - uu加速首页
+  - ℹ️ 永久地址请查看活动公告 - uu加速首页
+  - 🇬🇧 英国02 - uu加速首页
+  - 🇻🇳 越南01 - uu加速首页
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
   - 🇰🇷 广港•韩国264•高速 - 飞翔吧
   - 🇬🇧 中转•英国267•高速 - 飞翔吧
@@ -294,6 +313,11 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 香港01 - uu加速首页
+  - 🇭🇰 香港02 - uu加速首页
+  - 🇭🇰 香港03 - uu加速首页
+  - 🇭🇰 香港06-备用 - uu加速首页
+  - 🇭🇰 香港05-备用 - uu加速首页
   - 🇭🇰 广港•香港309•专线 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 中转•香港307•高速 - 飞翔吧
@@ -328,6 +352,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
+  - 🇹🇼 台湾01 - uu加速首页
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -360,6 +385,11 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
+  - 🇭🇰 香港01 - uu加速首页
+  - 🇭🇰 香港02 - uu加速首页
+  - 🇭🇰 香港03 - uu加速首页
+  - 🇭🇰 香港06-备用 - uu加速首页
+  - 🇭🇰 香港05-备用 - uu加速首页
   - 🇭🇰 广港•香港309•专线 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 中转•香港307•高速 - 飞翔吧
@@ -388,6 +418,7 @@ proxy-groups:
   - 🇭🇰 Video 香港C-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港I-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港II-标准 - AyucLouD-Services
+  - 🇹🇼 台湾01 - uu加速首页
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -420,6 +451,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
+  - 🇸🇬 新加坡03 - uu加速首页
+  - 🇸🇬 新加坡01 - uu加速首页
+  - 🇸🇬 新加坡02 - uu加速首页
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
@@ -445,6 +479,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id006
+  - 🇯🇵 日本01 - uu加速首页
   - 🇯🇵 日本 AWS *3 - 独孤乐天
   - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
   - 🇯🇵 日本 AWS3 *3 - 独孤乐天
@@ -497,6 +532,9 @@ proxy-groups:
   - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
   - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
   - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇸 美国02 - uu加速首页
+  - 🇺🇸 美国01 - uu加速首页
+  - 🇺🇸 美国04 - uu加速首页
   - 🇺🇸 美国 AWS *1 - 独孤乐天
   - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
   - 🇺🇸 中转•美国295•高速 - 飞翔吧
@@ -536,6 +574,12 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
+  - ℹ️ 最新官网：uujiasu.com - uu加速首页
+  - ℹ️ x 代表使用倍率 - uu加速首页
+  - ℹ️ 用不了，请更新订阅 - uu加速首页
+  - ℹ️ 永久地址请查看活动公告 - uu加速首页
+  - 🇬🇧 英国02 - uu加速首页
+  - 🇻🇳 越南01 - uu加速首页
   - 🇰🇷 广港•韩国263•高速 - 飞翔吧
   - 🇰🇷 广港•韩国264•高速 - 飞翔吧
   - 🇬🇧 中转•英国267•高速 - 飞翔吧
@@ -612,13 +656,32 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link01.top, port: 2082, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.105.87, headers: {Host: 100-26-200-200.s4.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2086, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.116.222, headers: {Host: 100-32-108-30.s1.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 2052, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.81.34, headers: {Host: 100-242-118-147.s1.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 2086, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.239.194, headers: {Host: 100-72-169-196.s4.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.cn-db.top, port: 80, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.116.28, headers: {Host: 100-113-208-95.s1.cn-db.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s5.db-link02.top, port: 80, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.140.63, headers: {Host: 100-63-63-55.s5.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.db-link02.top, port: 2086, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.14.142, headers: {Host: 100-53-249-79.s2.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 8080, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.123.156, headers: {Host: 100-243-17-195.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 2086, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.50.14, headers: {Host: 100-160-87-228.s1.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2052, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.66.32, headers: {Host: 100-31-200-134.s2.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 8880, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.58.20, headers: {Host: 100-22-213-227.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s4.cn-db.top, port: 80, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.137.194, headers: {Host: 100-196-119-33.s4.cn-db.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s4.db-link01.top, port: 80, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.219.34, headers: {Host: 100-36-97-122.s4.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s5.cn-db.top, port: 2095, type: vmess, uuid: 58146f33-a91b-3631-8e25-b2ebfcb270b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.30.170, headers: {Host: 100-130-45-192.s5.cn-db.top}}, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: gy.tangu.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: gy.tangu.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: gy.tangu.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: ℹ️ 最新官网：uujiasu.com - uu加速首页, server: 最新官网：uujiasu.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇬🇧 英国02 - uu加速首页, server: gy.tangu.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇻🇳 越南01 - uu加速首页, server: gy.tangu.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇯🇵 日本01 - uu加速首页, server: gy.tangu.win, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇺🇸 美国02 - uu加速首页, server: gy.tangu.win, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇺🇸 美国01 - uu加速首页, server: gy.tangu.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇺🇸 美国04 - uu加速首页, server: gy.tangu.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 486a0fc4-d55d-47cb-8640-9e2962564235, udp: true}
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: c9ef6913-55e9-3305-8fa4-4b28ba610a6c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: c9ef6913-55e9-3305-8fa4-4b28ba610a6c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: c9ef6913-55e9-3305-8fa4-4b28ba610a6c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
@@ -813,11 +876,11 @@ proxies:
 - {name: 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9038, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f157d106607.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 19999, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: f157d106607.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f157d106607.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, type: trojan, password: 96262a44-cc2f-3c5a-a5d8-8b8c1241b15e, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: 96262a44-cc2f-3c5a-a5d8-8b8c1241b15e, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 34.219.248.179, port: 443, type: trojan, password: 96262a44-cc2f-3c5a-a5d8-8b8c1241b15e, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 96262a44-cc2f-3c5a-a5d8-8b8c1241b15e, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 96262a44-cc2f-3c5a-a5d8-8b8c1241b15e, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, type: trojan, password: ae7955a2-c255-32ee-ae9d-c82c2a334c43, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: ae7955a2-c255-32ee-ae9d-c82c2a334c43, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 34.219.248.179, port: 443, type: trojan, password: ae7955a2-c255-32ee-ae9d-c82c2a334c43, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: ae7955a2-c255-32ee-ae9d-c82c2a334c43, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: ae7955a2-c255-32ee-ae9d-c82c2a334c43, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
