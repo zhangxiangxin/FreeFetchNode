@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 AK 01 - M1NET, server: relay01.m5vip.net, port: 33501, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇹🇼 台湾 AK 03 - M1NET, server: relay03.m5vip.net, port: 35761, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇹🇼 台湾 AK 02 - M1NET, server: relay02.m5vip.net, port: 53989, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇹🇼 台湾  AK 04 - M1NET, server: relay04.m5vip.net, port: 46144, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇹🇼 台湾 CH 03 - M1NET, server: relay03.m5vip.net, port: 35857, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇹🇼 台湾 CH 04 - M1NET, server: relay04.m5vip.net, port: 41114, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇹🇼 台湾 CH 01 - M1NET, server: relay01.m5vip.net, port: 12590, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇹🇼 台湾 CH 02 - M1NET, server: relay02.m5vip.net, port: 17476, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇹🇼 台湾 AK 01 - M1NET, server: relay01.m5vip.net, port: 33501, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇹🇼 台湾 AK 03 - M1NET, server: relay03.m5vip.net, port: 35761, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇹🇼 台湾 AK 02 - M1NET, server: relay02.m5vip.net, port: 53989, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇹🇼 台湾  AK 04 - M1NET, server: relay04.m5vip.net, port: 46144, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇹🇼 台湾 CH 03 - M1NET, server: relay03.m5vip.net, port: 35857, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇹🇼 台湾 CH 04 - M1NET, server: relay04.m5vip.net, port: 41114, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇹🇼 台湾 CH 01 - M1NET, server: relay01.m5vip.net, port: 12590, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇹🇼 台湾 CH 02 - M1NET, server: relay02.m5vip.net, port: 17476, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
