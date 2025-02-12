@@ -3,13 +3,13 @@ auth_path  user
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc
 buy  pass
-email  usngujvg77@442587.xyz
-last_checkin  2025-02-12 00:42:42.086736+08:00
+email  ydvxqqid383@guerrillamail.net
+last_checkin  2025-02-12 13:36:33.327790+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  590.3K  1.716G  2025-02-12 21:37:16+08:00  (剩余 1.715G 8:58:28.237609)
-sub_url  https://network.ayucloud.nl/link/lchqtG3sMqUsX2sc?clash=1
-time  2025-02-11 21:37:17.863333+08:00
+sub_info  0B  1.111G  2025-02-13 13:36:32+08:00  (剩余 1.111G 23:59:52.843074)
+sub_url  https://network.ayucloud.nl/link/gtfmzA10OO61dWcj?clash=1
+time  2025-02-12 13:36:34.248614+08:00
 type  sspanel
 
 [cc.dabai.in#大白]
@@ -19,17 +19,18 @@ email  ajhwvghoo562@gmail.com
 last_checkin  2025-02-12 09:55:41.382107+08:00
 name  大白
 node_n  7
-sub_info  19.78K  1T  2025-03-14 09:55:41+08:00  (剩余 1T 29 days, 21:16:52.806276)
+sub_info  19.78K  1T  2025-03-14 09:55:41+08:00  (剩余 1T 29 days, 20:19:24.712952)
 sub_url  https://cc.dabai.in/link/ozsl0sPAchFNSNPt?sub=3
 time  2025-02-12 09:55:42.661057+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
 
 [uuvpn.cloud#UUVPN]
 api_host  uujiasu.com
 buy  pass
 email  uqdtrus422@gmail.com
 name  uu加速首页
-sub_info  9.295K  1G  2025-02-12 19:32:25+08:00  (剩余 1024M 6:53:36.149177)
+sub_info  9.295K  1G  2025-02-12 19:32:25+08:00  (剩余 1024M 5:56:07.672055)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=5b538035f69cbc49a5bf826edd64376d
 time  2025-02-11 19:32:25.806352+08:00
 type  v2board
@@ -42,7 +43,7 @@ invite_code  qrB4  10000
 last_checkin  2025-02-12 11:37:40.223398+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.12G  2025-02-13 11:37:38+08:00  (剩余 10.12G 22:58:49.235531)
+sub_info  0B  10.12G  2025-02-13 11:37:38+08:00  (剩余 10.12G 22:01:19.763892)
 sub_url  http://175.178.9.20/link/IuRPz714nV5NEgMZ?sub=3
 time  2025-02-12 11:37:41.743607+08:00
 type  sspanel
@@ -58,16 +59,17 @@ sub_info  29.59K  1.064G  2025-02-12 21:37:29+08:00  (剩余 1.064G 8:58:34.7727
 sub_url  https://www.duguletian.com/link/KipWpvBjtDtygZ6B?sub=3
 time  2025-02-11 21:37:31.606364+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live
 buy  pass
-email  pazptrs776@lplso.tmmad.com
-last_checkin  2025-02-12 12:39:04.790035+08:00
+email  irzqxrh577@jkb.tmmad.com
+last_checkin  2025-02-12 13:36:25.772829+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.153G  2025-02-12 12:39:04+08:00  (剩余 1.153G -1 day, 23:59:47.679947)
-sub_url  https://new.gfw.news/link/LOnmToxM9h3AYCEm?sub=3
-time  2025-02-12 12:39:05.495801+08:00
+sub_info  0B  1.161G  2025-02-12 13:36:25+08:00  (剩余 1.161G -1 day, 23:59:56.082273)
+sub_url  https://new.gfw.news/link/aXKF5TujREh0qiw4?sub=3
+time  2025-02-12 13:36:26.260666+08:00
 type  sspanel
