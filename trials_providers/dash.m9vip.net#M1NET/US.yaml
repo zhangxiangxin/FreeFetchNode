@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 BA 03 - M1NET, server: relay03.m5vip.net, port: 10441, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇺🇸 美国 BA 04 - M1NET, server: relay04.m5vip.net, port: 10681, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇺🇸 美国 BA 01 - M1NET, server: relay01.m5vip.net, port: 49166, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇺🇸 美国 BA 02 - M1NET, server: relay02.m5vip.net, port: 57234, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇺🇸 美国 AK 03 - M1NET, server: relay03.m5vip.net, port: 50727, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇺🇸 美国 AK 04 - M1NET, server: relay04.m5vip.net, port: 35033, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇺🇸 美国 AK 01 - M1NET, server: relay01.m5vip.net, port: 32699, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇺🇸 美国 AK 02 - M1NET, server: relay02.m5vip.net, port: 29394, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇺🇸 美国 BA 03 - M1NET, server: relay03.m5vip.net, port: 10441, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇺🇸 美国 BA 04 - M1NET, server: relay04.m5vip.net, port: 10681, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇺🇸 美国 BA 01 - M1NET, server: relay01.m5vip.net, port: 49166, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇺🇸 美国 BA 02 - M1NET, server: relay02.m5vip.net, port: 57234, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇺🇸 美国 AK 03 - M1NET, server: relay03.m5vip.net, port: 50727, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇺🇸 美国 AK 04 - M1NET, server: relay04.m5vip.net, port: 35033, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇺🇸 美国 AK 01 - M1NET, server: relay01.m5vip.net, port: 32699, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇺🇸 美国 AK 02 - M1NET, server: relay02.m5vip.net, port: 29394, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
