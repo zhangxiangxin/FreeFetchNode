@@ -17,14 +17,14 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 767526ff-c7c5-340a-915c-7ef4376c41ab, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 767526ff-c7c5-340a-915c-7ef4376c41ab, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 767526ff-c7c5-340a-915c-7ef4376c41ab, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AK 01 - M1NET, server: relay01.m5vip.net, port: 35347, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇯🇵 日本 AK 03 - M1NET, server: relay03.m5vip.net, port: 14645, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇯🇵 日本 AK 02 - M1NET, server: relay02.m5vip.net, port: 19561, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇯🇵 日本 AK 04 - M1NET, server: relay04.m5vip.net, port: 16701, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇯🇵 日本 CH 01 - M1NET, server: relay01.m5vip.net, port: 40047, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇯🇵 日本 CH 02 - M1NET, server: relay02.m5vip.net, port: 12401, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇯🇵 日本 CH 03 - M1NET, server: relay03.m5vip.net, port: 26509, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
-- {name: 🇯🇵 日本 CH 04 - M1NET, server: relay04.m5vip.net, port: 16604, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇯🇵 日本 AK 01 - M1NET, server: relay01.m5vip.net, port: 35347, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇯🇵 日本 AK 03 - M1NET, server: relay03.m5vip.net, port: 14645, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇯🇵 日本 AK 02 - M1NET, server: relay02.m5vip.net, port: 19561, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇯🇵 日本 AK 04 - M1NET, server: relay04.m5vip.net, port: 16701, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇯🇵 日本 CH 01 - M1NET, server: relay01.m5vip.net, port: 40047, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇯🇵 日本 CH 02 - M1NET, server: relay02.m5vip.net, port: 12401, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇯🇵 日本 CH 03 - M1NET, server: relay03.m5vip.net, port: 26509, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
+- {name: 🇯🇵 日本 CH 04 - M1NET, server: relay04.m5vip.net, port: 16604, type: ss, cipher: chacha20-ietf-poly1305, password: d897f5b0-789c-40dd-88a7-ed11c3d49b16, udp: true}
 - {name: 🇯🇵 Game 日本01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9059, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f157d106607.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9062, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f157d106607.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 819, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f157d106607.download.windowsupdate.com}, udp: true}
