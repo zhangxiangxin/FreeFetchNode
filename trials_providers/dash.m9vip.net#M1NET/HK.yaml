@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 DU 01 - M1NET, server: relay01.m5vip.net, port: 17643, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2f4e96-08dc-454c-b5fd-6affd7a05d54, udp: true}
-- {name: 🇭🇰 香港 DU 02 - M1NET, server: relay02.m5vip.net, port: 12792, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2f4e96-08dc-454c-b5fd-6affd7a05d54, udp: true}
-- {name: 🇭🇰 香港 DU 04 - M1NET, server: relay04.m5vip.net, port: 49306, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2f4e96-08dc-454c-b5fd-6affd7a05d54, udp: true}
-- {name: 🇭🇰 香港 DU 03 - M1NET, server: relay03.m5vip.net, port: 17984, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2f4e96-08dc-454c-b5fd-6affd7a05d54, udp: true}
-- {name: 🇭🇰 香港 BA 03 - M1NET, server: relay03.m5vip.net, port: 32243, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2f4e96-08dc-454c-b5fd-6affd7a05d54, udp: true}
-- {name: 🇭🇰 香港 BA 04 - M1NET, server: relay04.m5vip.net, port: 49076, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2f4e96-08dc-454c-b5fd-6affd7a05d54, udp: true}
-- {name: 🇭🇰 香港 BA 01 - M1NET, server: relay01.m5vip.net, port: 29880, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2f4e96-08dc-454c-b5fd-6affd7a05d54, udp: true}
-- {name: 🇭🇰 香港 BA 02 - M1NET, server: relay02.m5vip.net, port: 23571, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 0d2f4e96-08dc-454c-b5fd-6affd7a05d54, udp: true}
+- {name: 🇭🇰 香港 DU 01 - M1NET, server: relay01.m5vip.net, port: 17643, type: ss, cipher: chacha20-ietf-poly1305, password: 997e45c8-256e-44c5-b225-ce7ac5961a65, udp: true}
+- {name: 🇭🇰 香港 DU 02 - M1NET, server: relay02.m5vip.net, port: 12792, type: ss, cipher: chacha20-ietf-poly1305, password: 997e45c8-256e-44c5-b225-ce7ac5961a65, udp: true}
+- {name: 🇭🇰 香港 DU 04 - M1NET, server: relay04.m5vip.net, port: 49306, type: ss, cipher: chacha20-ietf-poly1305, password: 997e45c8-256e-44c5-b225-ce7ac5961a65, udp: true}
+- {name: 🇭🇰 香港 DU 03 - M1NET, server: relay03.m5vip.net, port: 17984, type: ss, cipher: chacha20-ietf-poly1305, password: 997e45c8-256e-44c5-b225-ce7ac5961a65, udp: true}
+- {name: 🇭🇰 香港 BA 03 - M1NET, server: relay03.m5vip.net, port: 32243, type: ss, cipher: chacha20-ietf-poly1305, password: 997e45c8-256e-44c5-b225-ce7ac5961a65, udp: true}
+- {name: 🇭🇰 香港 BA 04 - M1NET, server: relay04.m5vip.net, port: 49076, type: ss, cipher: chacha20-ietf-poly1305, password: 997e45c8-256e-44c5-b225-ce7ac5961a65, udp: true}
+- {name: 🇭🇰 香港 BA 01 - M1NET, server: relay01.m5vip.net, port: 29880, type: ss, cipher: chacha20-ietf-poly1305, password: 997e45c8-256e-44c5-b225-ce7ac5961a65, udp: true}
+- {name: 🇭🇰 香港 BA 02 - M1NET, server: relay02.m5vip.net, port: 23571, type: ss, cipher: chacha20-ietf-poly1305, password: 997e45c8-256e-44c5-b225-ce7ac5961a65, udp: true}
