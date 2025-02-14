@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000高速 - NovaLive, server: 54.203.165.227, port: 443, tfo: true, type: trojan, password: 0bcc3c52-cf1d-35b4-a2b9-58201ca1fb07, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, tfo: true, type: trojan, password: 0bcc3c52-cf1d-35b4-a2b9-58201ca1fb07, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, tfo: true, type: trojan, password: 0bcc3c52-cf1d-35b4-a2b9-58201ca1fb07, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.203.165.227, port: 443, type: trojan, password: da37352b-8c77-3c36-ac9f-758b47c9232d, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: da37352b-8c77-3c36-ac9f-758b47c9232d, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: da37352b-8c77-3c36-ac9f-758b47c9232d, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
