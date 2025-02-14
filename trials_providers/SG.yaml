@@ -4,19 +4,19 @@ proxies:
 - {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: bca18e56-b5be-40d5-886b-84d429a0e677, udp: true}
 - {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: bca18e56-b5be-40d5-886b-84d429a0e677, udp: true}
 - {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: bca18e56-b5be-40d5-886b-84d429a0e677, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 2e2af26c-4373-3669-b903-1a8c712ab6fc, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 2e2af26c-4373-3669-b903-1a8c712ab6fc, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 2e2af26c-4373-3669-b903-1a8c712ab6fc, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 2e2af26c-4373-3669-b903-1a8c712ab6fc, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 2e2af26c-4373-3669-b903-1a8c712ab6fc, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 CH 03 - M1NET, server: relay03.m5vip.net, port: 19706, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇸🇬 新加坡 CH 04 - M1NET, server: relay04.m5vip.net, port: 47936, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇸🇬 新加坡 CH 01 - M1NET, server: relay01.m5vip.net, port: 36597, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇸🇬 新加坡 CH 02 - M1NET, server: relay02.m5vip.net, port: 54286, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇸🇬 新加坡 BA 03 - M1NET, server: relay03.m5vip.net, port: 29670, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇸🇬 新加坡 BA 02 - M1NET, server: relay02.m5vip.net, port: 37252, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇸🇬 新加坡 BA 04 - M1NET, server: relay04.m5vip.net, port: 26648, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇸🇬 新加坡 BA 01 - M1NET, server: relay01.m5vip.net, port: 38519, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: b747c1e4-3463-3c11-9a82-eda8088634b1, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: b747c1e4-3463-3c11-9a82-eda8088634b1, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: b747c1e4-3463-3c11-9a82-eda8088634b1, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: b747c1e4-3463-3c11-9a82-eda8088634b1, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: b747c1e4-3463-3c11-9a82-eda8088634b1, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 CH 03 - M1NET, server: relay03.m5vip.net, port: 19706, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇸🇬 新加坡 CH 04 - M1NET, server: relay04.m5vip.net, port: 47936, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇸🇬 新加坡 CH 01 - M1NET, server: relay01.m5vip.net, port: 36597, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇸🇬 新加坡 CH 02 - M1NET, server: relay02.m5vip.net, port: 54286, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇸🇬 新加坡 BA 03 - M1NET, server: relay03.m5vip.net, port: 29670, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇸🇬 新加坡 BA 02 - M1NET, server: relay02.m5vip.net, port: 37252, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇸🇬 新加坡 BA 04 - M1NET, server: relay04.m5vip.net, port: 26648, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇸🇬 新加坡 BA 01 - M1NET, server: relay01.m5vip.net, port: 38519, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
 - {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 45dfc106680.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9037, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 45dfc106680.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 902, type: ss, cipher: aes-128-gcm, password: ayuc211, plugin: obfs, plugin-opts: {mode: http, host: 45dfc106680.download.windowsupdate.com}, udp: true}

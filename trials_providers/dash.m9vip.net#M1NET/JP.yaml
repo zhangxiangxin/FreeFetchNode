@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 AK 01 - M1NET, server: relay01.m5vip.net, port: 35347, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇯🇵 日本 AK 03 - M1NET, server: relay03.m5vip.net, port: 14645, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇯🇵 日本 AK 02 - M1NET, server: relay02.m5vip.net, port: 19561, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇯🇵 日本 AK 04 - M1NET, server: relay04.m5vip.net, port: 16701, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇯🇵 日本 CH 01 - M1NET, server: relay01.m5vip.net, port: 40047, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇯🇵 日本 CH 02 - M1NET, server: relay02.m5vip.net, port: 12401, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇯🇵 日本 CH 03 - M1NET, server: relay03.m5vip.net, port: 26509, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
-- {name: 🇯🇵 日本 CH 04 - M1NET, server: relay04.m5vip.net, port: 16604, type: ss, cipher: chacha20-ietf-poly1305, password: 550dde2f-111a-47e9-b601-89210b103d75, udp: true}
+- {name: 🇯🇵 日本 AK 01 - M1NET, server: relay01.m5vip.net, port: 35347, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇯🇵 日本 AK 03 - M1NET, server: relay03.m5vip.net, port: 14645, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇯🇵 日本 AK 02 - M1NET, server: relay02.m5vip.net, port: 19561, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇯🇵 日本 AK 04 - M1NET, server: relay04.m5vip.net, port: 16701, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇯🇵 日本 CH 01 - M1NET, server: relay01.m5vip.net, port: 40047, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇯🇵 日本 CH 02 - M1NET, server: relay02.m5vip.net, port: 12401, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇯🇵 日本 CH 03 - M1NET, server: relay03.m5vip.net, port: 26509, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
+- {name: 🇯🇵 日本 CH 04 - M1NET, server: relay04.m5vip.net, port: 16604, type: ss, cipher: chacha20-ietf-poly1305, password: 7782238f-ad58-4140-8bf3-66c22b9a9e33, udp: true}
