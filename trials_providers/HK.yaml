@@ -15,14 +15,14 @@ proxies:
 - {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 031013ba-8e77-3511-8537-1b986af2c1bc, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 031013ba-8e77-3511-8537-1b986af2c1bc, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 031013ba-8e77-3511-8537-1b986af2c1bc, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 DU 01 - M1NET, server: relay01.m5vip.net, port: 17643, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇭🇰 香港 DU 02 - M1NET, server: relay02.m5vip.net, port: 12792, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇭🇰 香港 DU 04 - M1NET, server: relay04.m5vip.net, port: 49306, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇭🇰 香港 DU 03 - M1NET, server: relay03.m5vip.net, port: 17984, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇭🇰 香港 BA 03 - M1NET, server: relay03.m5vip.net, port: 32243, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇭🇰 香港 BA 04 - M1NET, server: relay04.m5vip.net, port: 49076, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇭🇰 香港 BA 01 - M1NET, server: relay01.m5vip.net, port: 29880, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇭🇰 香港 BA 02 - M1NET, server: relay02.m5vip.net, port: 23571, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
+- {name: 🇭🇰 香港 DU 01 - M1NET, server: relay01.m5vip.net, port: 17643, type: ss, cipher: chacha20-ietf-poly1305, password: 83d052be-08e7-4d19-98c5-22b859385243, udp: true}
+- {name: 🇭🇰 香港 DU 02 - M1NET, server: relay02.m5vip.net, port: 12792, type: ss, cipher: chacha20-ietf-poly1305, password: 83d052be-08e7-4d19-98c5-22b859385243, udp: true}
+- {name: 🇭🇰 香港 DU 04 - M1NET, server: relay04.m5vip.net, port: 49306, type: ss, cipher: chacha20-ietf-poly1305, password: 83d052be-08e7-4d19-98c5-22b859385243, udp: true}
+- {name: 🇭🇰 香港 DU 03 - M1NET, server: relay03.m5vip.net, port: 17984, type: ss, cipher: chacha20-ietf-poly1305, password: 83d052be-08e7-4d19-98c5-22b859385243, udp: true}
+- {name: 🇭🇰 香港 BA 03 - M1NET, server: relay03.m5vip.net, port: 32243, type: ss, cipher: chacha20-ietf-poly1305, password: 83d052be-08e7-4d19-98c5-22b859385243, udp: true}
+- {name: 🇭🇰 香港 BA 04 - M1NET, server: relay04.m5vip.net, port: 49076, type: ss, cipher: chacha20-ietf-poly1305, password: 83d052be-08e7-4d19-98c5-22b859385243, udp: true}
+- {name: 🇭🇰 香港 BA 01 - M1NET, server: relay01.m5vip.net, port: 29880, type: ss, cipher: chacha20-ietf-poly1305, password: 83d052be-08e7-4d19-98c5-22b859385243, udp: true}
+- {name: 🇭🇰 香港 BA 02 - M1NET, server: relay02.m5vip.net, port: 23571, type: ss, cipher: chacha20-ietf-poly1305, password: 83d052be-08e7-4d19-98c5-22b859385243, udp: true}
 - {name: 🇭🇰 Game 香港01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 824, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: 4bd58106709.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9054, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 4bd58106709.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9063, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 4bd58106709.download.windowsupdate.com}, udp: true}
