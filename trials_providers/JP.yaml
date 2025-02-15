@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01 - uu加速首页, server: gy.tangu.win, port: 31652, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: eab9e920-6bc5-4eb0-8e48-9d4973d59ade, udp: true}
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: bd673253-3b57-389a-88a1-4a07c1764f9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: bd673253-3b57-389a-88a1-4a07c1764f9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: bd673253-3b57-389a-88a1-4a07c1764f9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: bd673253-3b57-389a-88a1-4a07c1764f9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - uu加速首页, server: gy.tangu.win, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: eab9e920-6bc5-4eb0-8e48-9d4973d59ade, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, tfo: true, type: vmess, uuid: bd673253-3b57-389a-88a1-4a07c1764f9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, tfo: true, type: vmess, uuid: bd673253-3b57-389a-88a1-4a07c1764f9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, tfo: true, type: vmess, uuid: bd673253-3b57-389a-88a1-4a07c1764f9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, tfo: true, type: vmess, uuid: bd673253-3b57-389a-88a1-4a07c1764f9e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 031013ba-8e77-3511-8537-1b986af2c1bc, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 031013ba-8e77-3511-8537-1b986af2c1bc, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 031013ba-8e77-3511-8537-1b986af2c1bc, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
