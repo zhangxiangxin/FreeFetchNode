@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇬🇧 英国 BA 02 - M1NET, server: relay02.m5vip.net, port: 30982, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇩🇪 德国 BA 03 - M1NET, server: relay03.m5vip.net, port: 49973, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
-- {name: 🇱🇺 卢森堡 BT/PT 专用 - M1NET, server: relay02.m5vip.net, port: 12959, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
+- {name: 🇬🇧 英国 BA 02 - M1NET, server: relay02.m5vip.net, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
+- {name: 🇩🇪 德国 BA 03 - M1NET, server: relay03.m5vip.net, port: 49973, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
+- {name: 🇱🇺 卢森堡 BT/PT 专用 - M1NET, server: relay02.m5vip.net, port: 12959, type: ss, cipher: chacha20-ietf-poly1305, password: 9668fa4f-efb5-4166-b5df-7f2f1e56868f, udp: true}
