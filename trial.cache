@@ -7,7 +7,7 @@ email  gegryyx907@teihu.com
 last_checkin  2025-02-16 11:03:05.151517+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.124G  2025-02-17 11:03:04+08:00  (剩余 1.124G 20:23:36.806544)
+sub_info  0B  1.124G  2025-02-17 11:03:04+08:00  (剩余 1.124G 19:30:58.957411)
 sub_url  https://network.ayucloud.nl/link/sTH6jxQ7gZ1A8Sa4?clash=1
 time  2025-02-16 11:03:06.094629+08:00
 type  sspanel
@@ -15,21 +15,23 @@ type  sspanel
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  gyhdozdq461@gmail.com
-last_checkin  2025-02-16 14:39:25.999448+08:00
+email  taajaaw394@gmail.com
+last_checkin  2025-02-16 15:32:06.275733+08:00
 name  大白
 node_n  7
 sub_info  0B  1T  2025-03-18 14:39:25+08:00  (剩余 1T 29 days, 23:59:29.341325)
-sub_url  https://cc.dabai.in/link/VZo18nYMc0B6G3PK?sub=3
-time  2025-02-16 14:39:27.138137+08:00
+sub_url  https://cc.dabai.in/link/N2G87KhSuKOkOJjv?sub=3
+time  2025-02-16 15:32:07.749720+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
+保存订阅信息失败  no sub info
 
 [uuvpn.cloud#UUVPN]
 api_host  uujiasu.com
 buy  pass
 email  lvxsanhf945@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-02-17 00:39:29+08:00  (剩余 1G 10:00:02.256550)
+sub_info  0B  1G  2025-02-17 00:39:29+08:00  (剩余 1G 9:07:22.158362)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=29c03ec478708dd4f0a12dc7bd425ee8
 time  2025-02-16 00:39:30.350461+08:00
 type  v2board
@@ -42,7 +44,7 @@ invite_code  MDv0  10000
 last_checkin  2025-02-16 13:35:07.114407+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.19G  2025-02-17 13:35:05+08:00  (剩余 10.19G 22:55:38.389105)
+sub_info  0B  10.19G  2025-02-17 13:35:05+08:00  (剩余 10.19G 22:02:58.720281)
 sub_url  http://175.178.9.20/link/YYmViJFQHNA21Spa?sub=3
 time  2025-02-16 13:35:08.545654+08:00
 type  sspanel
@@ -58,27 +60,28 @@ sub_info  0B  1.08G  2025-02-16 23:34:14+08:00  (剩余 1.08G 8:54:43.734731)
 sub_url  https://www.duguletian.com/link/ELOSIGNCzDHPkOox?sub=3
 time  2025-02-15 23:34:15.685008+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live
 buy  pass
-email  zspmgquys523@mail.shouyou789.com
-last_checkin  2025-02-16 14:39:44.745044+08:00
+email  rbiahhjj367@mxl001.win
+last_checkin  2025-02-16 15:32:16.125659+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.184G  2025-02-16 14:39:44+08:00  (剩余 1.184G -1 day, 23:59:56.807746)
-sub_url  https://new.gfw.news/link/P5bH4t9LDcxVlLxY?sub=3
-time  2025-02-16 14:39:45.298009+08:00
+sub_info  0B  1.167G  2025-02-16 15:32:15+08:00  (剩余 1.167G -1 day, 23:59:55.346581)
+sub_url  https://new.gfw.news/link/8ggDq6AQHUAvwbF6?sub=3
+time  2025-02-16 15:32:16.590189+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
 buy  pass
-email  xrnifhaua33@gmail.com
+email  fbazsbohi420@gmail.com
 name  M1NET
 node_n  43
-sub_info  0B  2G  2025-02-16 16:07:38+08:00  (剩余 2G 1:28:12.504451)
-sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=caa98c29be6757aa508aa5679141f620
-time  2025-02-16 10:07:38.955727+08:00
+sub_info  0B  2G  2025-02-16 21:32:06+08:00  (剩余 2G 5:59:55.261864)
+sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=1aff8c4dca355ef21ca60dc1846e47a3
+time  2025-02-16 15:32:06.913787+08:00
 type  v2board
