@@ -3,25 +3,27 @@ auth_path  user
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc  555.vtnli.shop
 buy  pass
-email  zwficfmrw564@jkd.tmmad.com
-last_checkin  2025-02-17 11:40:37.025267+08:00
+email  tlkfhra311@youxiang.dev
+last_checkin  2025-02-17 15:33:03.597909+08:00
 name  AyucLouD-Services
 node_n  99
 sub_info  0B  1.123G  2025-02-18 11:40:36+08:00  (剩余 1.123G 20:57:55.534990)
-sub_url  https://network.ayucloud.nl/link/rwXYk64t1d7kK6Q4?clash=1
-time  2025-02-17 11:40:37.961584+08:00
+sub_url  https://network.ayucloud.nl/link/NIR7imTejevmrbXb?clash=1
+time  2025-02-17 15:33:04.455517+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
+保存订阅信息失败  no sub info
 
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  sdlkuhinn27@gmail.com
-last_checkin  2025-02-17 14:42:29.183460+08:00
+email  ursrnxr699@gmail.com
+last_checkin  2025-02-17 15:33:48.597323+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-19 14:42:29+08:00  (剩余 1T 29 days, 23:59:51.968942)
-sub_url  https://cc.dabai.in/link/WDLJV9yfSAWfE5GO?sub=3
-time  2025-02-17 14:42:30.337833+08:00
+sub_info  0B  1T  2025-03-19 15:33:48+08:00  (剩余 1T 29 days, 23:59:56.966648)
+sub_url  https://cc.dabai.in/link/Lsq0mzNAOr5eNIBf?sub=3
+time  2025-02-17 15:33:49.542888+08:00
 type  sspanel
 
 [uuvpn.cloud#UUVPN]
@@ -34,6 +36,7 @@ sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=29c03ec478708dd4f0
 time  2025-02-16 00:39:30.350461+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
+更新旧订阅失败  {'message': '未登录或登陆已过期'}
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc
@@ -42,7 +45,7 @@ invite_code  MDv0  9999
 last_checkin  2025-02-17 03:32:37.640224+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.14G  2025-02-18 03:32:37+08:00  (剩余 10.14G 12:49:55.926204)
+sub_info  0B  10.14G  2025-02-18 03:32:37+08:00  (剩余 10.14G 11:59:47.909858)
 sub_url  http://175.178.9.20/link/CIUBy9wcTjXZScpk?sub=3
 time  2025-02-17 03:32:38.820815+08:00
 type  sspanel
@@ -54,7 +57,7 @@ email  jgxifztby143@zz.witvc.shop
 last_checkin  2025-02-17 00:38:00.857215+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.061G  2025-02-17 23:32:18+08:00  (剩余 1.061G 8:49:47.399888)
+sub_info  0B  1.061G  2025-02-17 23:32:18+08:00  (剩余 1.061G 7:59:29.924652)
 sub_url  https://www.duguletian.com/link/NhJh1BeEk1lAfmjd?sub=3
 time  2025-02-16 23:32:19.969298+08:00
 type  sspanel
@@ -63,23 +66,22 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live
 buy  pass
-email  xqcyicm271@555.66liu.shop
-last_checkin  2025-02-17 13:38:11.507894+08:00
+email  kcojvyge142@bccto.cc
+last_checkin  2025-02-17 15:33:00.823178+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.103G  2025-02-17 13:38:11+08:00  (剩余 1.103G -1 day, 22:55:02.081813)
-sub_url  https://new.gfw.news/link/fbXySRUQ2HgPdT0p?sub=3
-time  2025-02-17 13:38:11.999781+08:00
+sub_info  0B  1.141G  2025-02-17 15:33:00+08:00  (剩余 1.141G -1 day, 23:59:56.509448)
+sub_url  https://new.gfw.news/link/jfMPQZnuGADPYnxr?sub=3
+time  2025-02-17 15:33:01.505213+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
 buy  pass
-email  xfmvikdao211@gmail.com
+email  wgmpalg628@gmail.com
 name  M1NET
 node_n  43
-sub_info  0B  2G  2025-02-17 15:59:45+08:00  (剩余 2G 1:17:15.232206)
-sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=016100f6a1663e6ad89064f79e545a92
-time  2025-02-17 09:59:45.481929+08:00
+sub_info  0B  2G  2025-02-17 21:32:55+08:00  (剩余 2G 5:59:42.347597)
+sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382
+time  2025-02-17 15:32:55.495244+08:00
 type  v2board
