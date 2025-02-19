@@ -8,25 +8,25 @@ proxies:
 - {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.db-link01.top, port: 2086, type: vmess, uuid: bc7c0d07-90d7-35d7-a4f9-2ff3de0e5940, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.22.185, headers: {Host: 100-109-34-41.s1.db-link01.top}}, udp: true}
 - {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.cn-db.top, port: 2052, type: vmess, uuid: bc7c0d07-90d7-35d7-a4f9-2ff3de0e5940, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.101.95, headers: {Host: 100-1-99-202.s1.cn-db.top}}, udp: true}
 - {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s1.db-link02.top, port: 2086, type: vmess, uuid: bc7c0d07-90d7-35d7-a4f9-2ff3de0e5940, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.38.67, headers: {Host: 100-255-248-175.s1.db-link02.top}}, udp: true}
-- {name: ℹ️ 最新官网：uujiasu.com - uu加速首页, server: 最新官网：uujiasu.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇺🇸 美国02 - uu加速首页, server: gy.tangu.win, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇭🇰 香港01 - uu加速首页, server: gy.tangu.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇭🇰 香港02 - uu加速首页, server: gy.tangu.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇺🇸 美国01 - uu加速首页, server: gy.tangu.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇬🇧 英国02 - uu加速首页, server: gy.tangu.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇭🇰 香港03 - uu加速首页, server: gy.tangu.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇻🇳 越南01 - uu加速首页, server: gy.tangu.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇺🇸 美国04 - uu加速首页, server: gy.tangu.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
-- {name: 🇯🇵 日本01 - uu加速首页, server: gy.tangu.win, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 8d31c090-ab01-4b0e-8727-597eec627a0a, udp: true}
+- {name: ℹ️ 最新官网：uujiasu.com - uu加速首页, server: 最新官网：uujiasu.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇺🇸 美国02 - uu加速首页, server: gy.tangu.win, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: gy.tangu.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: gy.tangu.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇺🇸 美国01 - uu加速首页, server: gy.tangu.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇬🇧 英国02 - uu加速首页, server: gy.tangu.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: gy.tangu.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇻🇳 越南01 - uu加速首页, server: gy.tangu.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇺🇸 美国04 - uu加速首页, server: gy.tangu.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇯🇵 日本01 - uu加速首页, server: gy.tangu.win, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: 8840089a-1105-3a00-9b45-1682a2038257, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: 8840089a-1105-3a00-9b45-1682a2038257, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: 8840089a-1105-3a00-9b45-1682a2038257, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
