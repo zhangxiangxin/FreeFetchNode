@@ -7,7 +7,7 @@ email  nhpjosjta624@442587.xyz
 last_checkin  2025-02-20 00:41:19.576743+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.772G  2025-02-20 15:32:32+08:00  (剩余 1.772G 12:00:03.107259)
+sub_info  0B  1.772G  2025-02-20 15:32:32+08:00  (剩余 1.772G 10:57:13.165171)
 sub_url  https://network.ayucloud.nl/link/k8Ti1ANCwzYJohBd?clash=1
 time  2025-02-19 15:32:33.407421+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  erdbhcao868@gmail.com
 last_checkin  2025-02-20 01:35:50.417566+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-22 01:35:50+08:00  (剩余 1T 29 days, 22:03:18.996888)
+sub_info  0B  1T  2025-03-22 01:35:50+08:00  (剩余 1T 29 days, 21:00:32.355676)
 sub_url  https://cc.dabai.in/link/5laqsd2T0FgP0HG7?sub=3
 time  2025-02-20 01:35:51.639938+08:00
 type  sspanel
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  lulirtta389@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-02-21 01:35:53+08:00  (剩余 1G 22:03:25.642305)
+sub_info  0B  1G  2025-02-21 01:35:53+08:00  (剩余 1G 21:00:32.864194)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=41a718b622256372689e910e7784393c
 time  2025-02-20 01:35:54.392014+08:00
 type  v2board
@@ -42,7 +42,7 @@ invite_code  2wqz  10000
 last_checkin  2025-02-20 00:41:19.578801+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.27G  2025-02-20 18:39:24+08:00  (剩余 10.27G 15:06:57.176103)
+sub_info  0B  10.27G  2025-02-20 18:39:24+08:00  (剩余 10.27G 14:04:06.148693)
 sub_url  http://175.178.9.20/link/13mc6yccxtgyXp5i?sub=3
 time  2025-02-19 18:39:27.215268+08:00
 type  sspanel
@@ -54,7 +54,7 @@ email  ughbodfs72@wfes.site
 last_checkin  2025-02-20 00:41:19.579231+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.062G  2025-02-20 23:35:38+08:00  (剩余 1.062G 20:03:11.550419)
+sub_info  0B  1.062G  2025-02-20 23:35:38+08:00  (剩余 1.062G 19:00:21.910144)
 sub_url  https://www.duguletian.com/link/jJnc0c7qWwSxTEDS?sub=3
 time  2025-02-19 23:35:40.118190+08:00
 type  sspanel
@@ -63,13 +63,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live
 buy  pass
-email  futqvwi411@qwer.usphms.shop
-last_checkin  2025-02-20 03:34:36.700109+08:00
+email  hzsdoale413@zz.witvc.shop
+last_checkin  2025-02-20 04:35:32.447430+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.106G  2025-02-20 03:34:36+08:00  (剩余 1.106G -1 day, 23:59:57.072097)
-sub_url  https://new.gfw.news/link/CbyfN6mDjjg0BnJZ?sub=3
-time  2025-02-20 03:34:37.315532+08:00
+sub_info  0B  1.095G  2025-02-20 04:35:32+08:00  (剩余 1.095G -1 day, 23:59:57.736909)
+sub_url  https://new.gfw.news/link/rs0gCbyUTVSK1wfm?sub=3
+time  2025-02-20 04:35:32.928753+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -78,9 +78,9 @@ buy  pass
 email  wgmpalg628@gmail.com
 name  M1NET
 node_n  43
-sub_info  0B  2G  2025-02-17 21:32:55+08:00  (剩余 2G -3 days, 17:58:26.454553)
+sub_info  0B  2G  2025-02-17 21:32:55+08:00  (剩余 2G -3 days, 16:57:31.436461)
 sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
-更新订阅链接/续费续签失败  发送邮箱验证码失败(pedfkmn276@bareed.ws): {'message': '邮箱后缀不处于白名单中'}
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
