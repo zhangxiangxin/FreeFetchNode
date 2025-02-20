@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 8b09833c-70ee-42cd-8917-6c693fae78e5, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 3c677257-e4e3-44f1-bc8e-54114c81d1c2, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: b4f9d4b3-69b4-33a8-b18c-bc08613d0992, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: b4f9d4b3-69b4-33a8-b18c-bc08613d0992, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: b4f9d4b3-69b4-33a8-b18c-bc08613d0992, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
