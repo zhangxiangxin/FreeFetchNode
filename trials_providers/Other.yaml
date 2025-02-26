@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 最新官网：uujiasu.com - uu加速首页, server: 最新官网：uujiasu.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
-- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
-- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
-- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
-- {name: 🇬🇧 英国02 - uu加速首页, server: gy.tangu.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
-- {name: 🇻🇳 越南01 - uu加速首页, server: gy.tangu.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
+- {name: ℹ️ 最新官网：uujiasu.com - uu加速首页, server: 最新官网：uujiasu.com, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
+- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
+- {name: 🇬🇧 英国02 - uu加速首页, server: gy.tangu.win, port: 31648, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
+- {name: 🇻🇳 越南01 - uu加速首页, server: gy.tangu.win, port: 31660, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5ca22ba3-f17a-44b5-aff4-1134849c9757, udp: true}
 - {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 1b5da3bf-cecd-3ac6-8958-4daacc616abb, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 1b5da3bf-cecd-3ac6-8958-4daacc616abb, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 1b5da3bf-cecd-3ac6-8958-4daacc616abb, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
