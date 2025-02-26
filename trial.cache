@@ -7,7 +7,7 @@ email  uixklks931@linshiyou.com
 last_checkin  2025-02-26 06:37:48.056346+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.176G  2025-02-27 06:37:47+08:00  (剩余 1.176G 9:40:50.792515)
+sub_info  0B  1.176G  2025-02-27 06:37:47+08:00  (剩余 1.176G 8:59:14.901699)
 sub_url  https://network.ayucloud.nl/link/x7Qnts1XDNNeM2u3?clash=1
 time  2025-02-26 06:37:48.897814+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  wgdfdoz544@gmail.com
 last_checkin  2025-02-26 00:42:46.418197+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-25 22:35:08+08:00  (剩余 1T 27 days, 1:38:12.494520)
+sub_info  0B  1T  2025-03-25 22:35:08+08:00  (剩余 1T 27 days, 0:56:37.186629)
 sub_url  https://cc.dabai.in/link/0fobgI938N54ONJM?sub=3
 time  2025-02-23 22:35:09.935235+08:00
 type  sspanel
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  eagwkgxf70@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-02-27 02:42:42+08:00  (剩余 1G 5:45:46.890563)
+sub_info  0B  1G  2025-02-27 02:42:42+08:00  (剩余 1G 5:04:09.498736)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=d6c6869faaa788e0e5940356c94e956e
 time  2025-02-26 02:42:42.872514+08:00
 type  v2board
@@ -42,7 +42,7 @@ invite_code  nobb  9999
 last_checkin  2025-02-26 07:32:27.322968+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.16G  2025-02-27 07:32:27+08:00  (剩余 10.16G 10:35:28.260334)
+sub_info  0B  10.16G  2025-02-27 07:32:27+08:00  (剩余 10.16G 9:53:55.459659)
 sub_url  http://175.178.9.20/link/8UUGYIi1hIVuZ65i?sub=3
 time  2025-02-26 07:32:28.696189+08:00
 type  sspanel
@@ -54,7 +54,7 @@ email  kgqwenrfg497@guerrillamail.net
 last_checkin  2025-02-26 03:32:48.297088+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.015G  2025-02-27 03:32:47+08:00  (剩余 1.015G 6:35:46.633170)
+sub_info  0B  1.015G  2025-02-27 03:32:47+08:00  (剩余 1.015G 5:54:10.570657)
 sub_url  https://www.duguletian.com/link/6TF6ffos5rmeonwi?sub=3
 time  2025-02-26 03:32:49.123693+08:00
 type  sspanel
@@ -67,10 +67,11 @@ email  yaoxgxcs672@guerrillamail.biz
 last_checkin  2025-02-26 20:57:34.517875+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.11G  2025-02-26 20:57:34+08:00  (剩余 1.11G -1 day, 23:59:57.723673)
+sub_info  0B  1.11G  2025-02-26 20:57:34+08:00  (剩余 1.11G -1 day, 23:18:54.165756)
 sub_url  https://new.gfw.news/link/Gk0QIqr8Jj2WlPHb?sub=3
 time  2025-02-26 20:57:35.024768+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -78,9 +79,9 @@ buy  pass
 email  wgmpalg628@gmail.com
 name  M1NET
 node_n  43
-sub_info  0B  2G  2025-02-17 21:32:55+08:00  (剩余 2G -9 days, 0:33:48.548399)
+sub_info  0B  2G  2025-02-17 21:32:55+08:00  (剩余 2G -10 days, 23:54:14.028794)
 sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  发送邮箱验证码失败(plvtsyt568@grr.la): {'message': '邮箱后缀不处于白名单中'}
