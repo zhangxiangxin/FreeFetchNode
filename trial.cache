@@ -7,12 +7,10 @@ email  ahotked249@teihu.com
 last_checkin  2025-02-28 21:38:18.279522+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.749G  2025-02-28 21:39:03+08:00  (剩余 1.749G 0:42:57.144322)
+sub_info  0B  1.062G  2025-03-01 21:38:17+08:00  (剩余 1.062G 23:00:28.256517)
 sub_url  https://network.ayucloud.nl/link/wEflB8i0EpoqSrkM?clash=1
 time  2025-02-28 21:38:19.214658+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -21,7 +19,7 @@ email  esendyesq725@gmail.com
 last_checkin  2025-02-28 04:36:19.511251+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-03-30 04:36:19+08:00  (剩余 1T 29 days, 6:58:37.077209)
+sub_info  0B  1T  2025-03-30 04:36:19+08:00  (剩余 1T 29 days, 5:58:27.528700)
 sub_url  https://cc.dabai.in/link/v3zgo6rMUkMdMV7o?sub=3
 time  2025-02-28 04:36:20.765930+08:00
 type  sspanel
@@ -31,22 +29,22 @@ api_host  uujiasu.com
 buy  pass
 email  iwpjogc873@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-01 02:42:35+08:00  (剩余 1G 5:04:58.039109)
+sub_info  0B  1G  2025-03-01 02:42:35+08:00  (剩余 1G 4:04:47.264991)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=2f9368c9e205aa31b1daee94d4df9eb6
 time  2025-02-28 02:42:36.189326+08:00
 type  v2board
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 2, column 1: 	top.location="http://ww1.tsutsu ... ^ (line: 2)
+保存base64/clash订阅失败  netloc 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NDE0M2I4Yi1jZDVkLTQ4NzAtYTFkYi1kYjI5YWQ4NjcwMzY@最新官网：uujiasu.com:1080' contains invalid characters under NFKC normalization
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc
-email  bmymjzt480@lpl1so.tmmad.com
-invite_code  sY5R  10000
-last_checkin  2025-02-28 00:43:07.297546+08:00
+email  bxejjai614@rgzx.tmmad.com
+invite_code  sY5R  9999
+last_checkin  2025-02-28 22:37:52.932582+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.17G  2025-03-01 00:43:05+08:00  (剩余 10.17G 3:05:19.920818)
-sub_url  http://175.178.9.20/link/A65yncpGlqZKNDUr?sub=3
-time  2025-02-28 00:43:08.456876+08:00
+sub_info  0B  10.17G  2025-03-01 22:37:52+08:00  (剩余 10.17G 23:59:49.226133)
+sub_url  http://175.178.9.20/link/eRstAtxXjsImg3Up?sub=3
+time  2025-02-28 22:37:54.328071+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -60,18 +58,19 @@ sub_info  0B  1.007G  2025-03-01 03:32:44+08:00  (剩余 1.007G 5:55:06.782225)
 sub_url  https://www.duguletian.com/link/ClZRsTC625fP89o7?sub=3
 time  2025-02-28 03:32:46.013438+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net
 buy  pass
-email  utmfolch181@rgzx.tmmad.com
-last_checkin  2025-02-28 21:37:54.007816+08:00
+email  ezkwrkewc687@guerrillamail.biz
+last_checkin  2025-02-28 22:38:29.038301+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.155G  2025-02-28 21:37:53+08:00  (剩余 1.155G -1 day, 23:59:40.293110)
-sub_url  https://new.gfw.news/link/ELFBa4xXcC1phuPp?sub=3
-time  2025-02-28 21:37:54.521159+08:00
+sub_info  0B  1.038G  2025-02-28 22:38:28+08:00  (剩余 1.038G -1 day, 23:59:55.979229)
+sub_url  https://new.gfw.news/link/kZZeLdvGui5rFvMq?sub=3
+time  2025-02-28 22:38:29.543893+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
