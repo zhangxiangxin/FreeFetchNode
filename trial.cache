@@ -7,7 +7,7 @@ email  rwhvxxq709@lplso.tmmad.com
 last_checkin  2025-03-02 01:32:32.623958+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.114G  2025-03-03 01:32:32+08:00  (剩余 1.114G 19:59:32.562806)
+sub_info  0B  1.114G  2025-03-03 01:32:32+08:00  (剩余 1.114G 18:57:07.704868)
 sub_url  https://network.ayucloud.nl/link/DOCJJoa9ysdTVjiD?clash=1
 time  2025-03-02 01:32:33.572766+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  cvderyz942@gmail.com
 last_checkin  2025-03-02 00:38:44.802898+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-01 00:38:44+08:00  (剩余 1T 29 days, 19:05:46.080027)
+sub_info  0B  1T  2025-04-01 00:38:44+08:00  (剩余 1T 29 days, 18:03:23.932196)
 sub_url  https://cc.dabai.in/link/H5Q8sUgbzSzC3qG8?sub=3
 time  2025-03-02 00:38:45.984835+08:00
 type  sspanel
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  ltphgop862@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-03 02:39:38+08:00  (剩余 1G 21:06:09.107409)
+sub_info  0B  1G  2025-03-03 02:39:38+08:00  (剩余 1G 20:02:36.680212)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=2dd512f35a0b2a44ebd75fdd1f7fd144
 time  2025-03-02 02:39:39.367754+08:00
 type  v2board
@@ -46,6 +46,9 @@ sub_info  437.8K  10.26G  2025-03-02 06:37:11+08:00  (剩余 10.26G 1:01:44.2440
 sub_url  http://175.178.9.20/link/P2SNHuAjyg2CMZw1?sub=3
 time  2025-03-01 06:37:13.852553+08:00
 type  sspanel
+保存base64/clash订阅失败  while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 2, column 1: 	top.location="http://ww1.tsutsu ... ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -54,7 +57,7 @@ email  jxsnhab376@jkd.tmmad.com
 last_checkin  2025-03-02 03:32:29.676158+08:00
 name  独孤乐天
 node_n  6
-sub_info  0B  1.016G  2025-03-03 03:32:28+08:00  (剩余 1.016G 21:57:32.312434)
+sub_info  0B  1.016G  2025-03-03 03:32:28+08:00  (剩余 1.016G 20:56:56.491426)
 sub_url  https://www.duguletian.com/link/tyATJsaBdIH1ymF3?sub=3
 time  2025-03-02 03:32:30.347300+08:00
 type  sspanel
@@ -63,13 +66,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net
 buy  pass
-email  zoobubdd672@guerrillamail.net
-last_checkin  2025-03-02 05:33:18.945537+08:00
+email  pukfsdz541@top.co.mom
+last_checkin  2025-03-02 06:35:49.068862+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.101G  2025-03-02 05:33:18+08:00  (剩余 1.101G -1 day, 23:57:57.072097)
-sub_url  https://new.gfw.news/link/fqwinXYQyc6QlhCV?sub=3
-time  2025-03-02 05:33:19.431090+08:00
+sub_info  0B  1.156G  2025-03-02 06:35:48+08:00  (剩余 1.156G -1 day, 23:59:09.745826)
+sub_url  https://new.gfw.news/link/eALm3vX3Ypyp4Low?sub=3
+time  2025-03-02 06:35:49.694985+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -83,4 +86,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7feb2c20f640>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcfe361a7d0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
