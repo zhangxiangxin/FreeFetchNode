@@ -9,7 +9,7 @@ proxies:
 - {name: 🇹🇼 台湾 CH 04 - M1NET, server: relay04.m5vip.net, port: 41114, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 01 - M1NET, server: relay01.m5vip.net, port: 12590, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 02 - M1NET, server: relay02.m5vip.net, port: 17476, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: cb778530-7ab9-468f-8e26-4430ccadb781, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: bd045d6f-9994-437b-a14f-9373ac11e86f, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 2c369107440.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 2c369107440.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 2c369107440.download.windowsupdate.com}, udp: true}
