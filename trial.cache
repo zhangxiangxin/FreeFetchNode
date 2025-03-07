@@ -7,7 +7,7 @@ email  rckcvpgaq241@lplso.tmmad.com
 last_checkin  2025-03-08 00:41:58.420202+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.111G  2025-03-09 00:41:58+08:00  (剩余 1.111G 20:07:39.111146)
+sub_info  0B  1.111G  2025-03-09 00:41:58+08:00  (剩余 1.111G 19:09:34.916220)
 sub_url  https://network.ayucloud.nl/link/6NnwxUeLyvtSWgQm?clash=1
 time  2025-03-08 00:41:59.315115+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  wzbdsnk626@gmail.com
 last_checkin  2025-03-08 00:41:49.878340+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-06 11:43:33+08:00  (剩余 1T 29 days, 7:09:18.836060)
+sub_info  0B  1T  2025-04-06 11:43:33+08:00  (剩余 1T 29 days, 6:11:20.371934)
 sub_url  https://cc.dabai.in/link/2CmLmjzilQQt20mg?sub=3
 time  2025-03-07 11:43:34.944153+08:00
 type  sspanel
@@ -27,14 +27,13 @@ type  sspanel
 [uuvpn.cloud#UUVPN]
 api_host  uujiasu.com
 buy  pass
-email  lmqxucr670@gmail.com
+email  pcwscsfk386@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-08 04:36:29+08:00  (剩余 1G 0:02:02.840847)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=258ed6c90d8400f5c5180b304825db62
-time  2025-03-06 04:37:15.375961+08:00
+sub_info  0B  1G  2025-03-09 05:32:26+08:00  (剩余 1G 23:59:54.312936)
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=41909db24d3e4f6daabe338aac8774fd
+time  2025-03-08 05:32:27.708774+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(cszlero534@gmail.com): 遇到了些问题，我们正在进行处理
+保存base64/clash订阅失败  netloc 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNWRlMWVjYi0xNzIxLTQxZDAtOWVjZC0xOWIwMGQyYzE3NjQ@最新官网：uujiasu.com:1080' contains invalid characters under NFKC normalization
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc
@@ -43,7 +42,7 @@ invite_code  KmEn  9997
 last_checkin  2025-03-08 04:34:22.327965+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.15G  2025-03-09 04:34:22+08:00  (剩余 10.15G 23:59:55.795045)
+sub_info  0B  10.15G  2025-03-09 04:34:22+08:00  (剩余 10.15G 23:02:08.136161)
 sub_url  http://175.178.9.20/link/XSsFVJ4mF9Lt9mC6?sub=3
 time  2025-03-08 04:34:24.048436+08:00
 type  sspanel
@@ -55,7 +54,7 @@ email  dxkbfhxfd864@965.tmmad.com
 last_checkin  2025-03-08 00:41:49.879837+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.044G  2025-03-08 21:40:04+08:00  (剩余 1.044G 17:05:48.261132)
+sub_info  0B  1.044G  2025-03-08 21:40:04+08:00  (剩余 1.044G 16:07:50.960886)
 sub_url  https://www.duguletian.com/link/UN6DMDxX7Tk0ROeg?sub=3
 time  2025-03-07 21:40:05.677200+08:00
 type  sspanel
@@ -68,7 +67,7 @@ email  avqswcdw614@rgzx.tmmad.com
 last_checkin  2025-03-08 01:35:25.261712+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.174G  2025-03-08 01:35:24+08:00  (剩余 1.174G -1 day, 21:01:06.877210)
+sub_info  0B  1.174G  2025-03-08 01:35:24+08:00  (剩余 1.174G -1 day, 20:03:01.060489)
 sub_url  https://new.gfw.news/link/NSIroHHeI7Sr5jxV?sub=3
 time  2025-03-08 01:35:25.884734+08:00
 type  sspanel
@@ -85,4 +84,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3918cb9ea0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8a6cbecfa0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
