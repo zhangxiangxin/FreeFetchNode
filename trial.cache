@@ -7,7 +7,7 @@ email  rckcvpgaq241@lplso.tmmad.com
 last_checkin  2025-03-08 00:41:58.420202+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  154.4M  1.111G  2025-03-09 00:41:58+08:00  (剩余 983.6M 13:59:14.500575)
+sub_info  155.2M  1.111G  2025-03-09 00:41:58+08:00  (剩余 982.8M 13:09:42.707614)
 sub_url  https://network.ayucloud.nl/link/6NnwxUeLyvtSWgQm?clash=1
 time  2025-03-08 00:41:59.315115+08:00
 type  sspanel
@@ -19,17 +19,18 @@ email  wzbdsnk626@gmail.com
 last_checkin  2025-03-08 00:41:49.878340+08:00
 name  大白
 node_n  7
-sub_info  57.56K  1T  2025-04-06 11:43:33+08:00  (剩余 1T 29 days, 1:00:49.572181)
+sub_info  107.6K  1T  2025-04-06 11:43:33+08:00  (剩余 1T 29 days, 0:11:24.364716)
 sub_url  https://cc.dabai.in/link/2CmLmjzilQQt20mg?sub=3
 time  2025-03-07 11:43:34.944153+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 9, column 1: 	background: url('//d38psrni17bv ... ^ (line: 9)
 
 [uuvpn.cloud#UUVPN]
 api_host  uujiasu.com
 buy  pass
 email  pcwscsfk386@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-09 05:32:26+08:00  (剩余 1G 18:49:42.782260)
+sub_info  17.34K  1G  2025-03-09 05:32:26+08:00  (剩余 1024M 18:00:12.297372)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=41909db24d3e4f6daabe338aac8774fd
 time  2025-03-08 05:32:27.708774+08:00
 type  v2board
@@ -42,7 +43,7 @@ invite_code  KmEn  9997
 last_checkin  2025-03-08 04:34:22.327965+08:00
 name  飞翔吧
 node_n  46
-sub_info  222.5K  10.15G  2025-03-09 04:34:22+08:00  (剩余 10.15G 17:51:28.168897)
+sub_info  398K  10.15G  2025-03-09 04:34:22+08:00  (剩余 10.15G 17:02:12.343863)
 sub_url  http://175.178.9.20/link/XSsFVJ4mF9Lt9mC6?sub=3
 time  2025-03-08 04:34:24.048436+08:00
 type  sspanel
@@ -54,7 +55,7 @@ email  dxkbfhxfd864@965.tmmad.com
 last_checkin  2025-03-08 00:41:49.879837+08:00
 name  独孤乐天
 node_n  4
-sub_info  338.8M  1.044G  2025-03-08 21:40:04+08:00  (剩余 730.2M 10:57:21.022627)
+sub_info  394.4M  1.044G  2025-03-08 21:40:04+08:00  (剩余 674.6M 10:07:50.552122)
 sub_url  https://www.duguletian.com/link/UN6DMDxX7Tk0ROeg?sub=3
 time  2025-03-07 21:40:05.677200+08:00
 type  sspanel
@@ -67,10 +68,11 @@ email  fyvgkghi749@guerrillamail.org
 last_checkin  2025-03-08 10:43:05.947197+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.129G  2025-03-08 10:43:05+08:00  (剩余 1.129G -1 day, 23:59:56.333279)
+sub_info  248.8K  1.129G  2025-03-08 10:43:05+08:00  (剩余 1.129G -1 day, 23:10:35.371845)
 sub_url  https://new.gfw.news/link/Jbnfgq9hR4e5FSeC?sub=3
 time  2025-03-08 10:43:06.962668+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -83,4 +85,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f62e0662590>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f926038b310>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
