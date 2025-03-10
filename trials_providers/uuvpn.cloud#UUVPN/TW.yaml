@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 4c5789a1-a6c7-46de-b5bc-79095f2459e3, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 4c5789a1-a6c7-46de-b5bc-79095f2459e3, udp: true}
