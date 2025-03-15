@@ -9,9 +9,9 @@ proxies:
 - {name: 🇸🇬 新加坡 BA 02 - M1NET, server: relay02.m5vip.net, port: 37252, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇸🇬 新加坡 BA 04 - M1NET, server: relay04.m5vip.net, port: 26648, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇸🇬 新加坡 BA 01 - M1NET, server: relay01.m5vip.net, port: 38519, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cfc3e9c9-ba23-4468-8588-df7c9398c567, udp: true}
-- {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cfc3e9c9-ba23-4468-8588-df7c9398c567, udp: true}
-- {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: cfc3e9c9-ba23-4468-8588-df7c9398c567, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: cfc3e9c9-ba23-4468-8588-df7c9398c567, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: cfc3e9c9-ba23-4468-8588-df7c9398c567, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: cfc3e9c9-ba23-4468-8588-df7c9398c567, udp: true}
 - {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: ff5fc108041.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9037, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: ff5fc108041.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 902, type: ss, cipher: aes-128-gcm, password: ayuc211, plugin: obfs, plugin-opts: {mode: http, host: ff5fc108041.download.windowsupdate.com}, udp: true}
