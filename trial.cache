@@ -1,7 +1,7 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  lista.cc  snapmail.cc  555.vtnli.shop  xxxhi.cc  zz.wgfkq.shop  spam4.me
+banned_domains  lista.cc  snapmail.cc  555.vtnli.shop  xxxhi.cc  zz.wgfkq.shop  spam4.me  psnator.com
 buy  pass
 email  ouhzbhe260@442587.xyz
 last_checkin  2025-03-18 01:36:40.213260+08:00
@@ -11,6 +11,9 @@ sub_info  0B  1.021G  2025-03-19 01:36:39+08:00  (剩余 1.021G 20:59:46.007328)
 sub_url  https://network.ayucloud.nl/link/fgOFMvlp3IXoVyk6?clash=1
 time  2025-03-18 01:36:40.977224+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ofxohkkz967@psnator.com)
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -19,7 +22,7 @@ email  zumqwvdv918@gmail.com
 last_checkin  2025-03-18 04:36:52.880899+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-17 04:36:52+08:00  (剩余 1T 29 days, 23:59:56.475166)
+sub_info  0B  1T  2025-04-17 04:36:52+08:00  (剩余 1T 29 days, 23:03:11.801455)
 sub_url  https://cc.dabai.in/link/YBvco2G4E4DjEefv?sub=3
 time  2025-03-18 04:36:54.059474+08:00
 type  sspanel
@@ -29,7 +32,7 @@ api_host  uujiasu.com
 buy  pass
 email  bwqyrjai930@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-18 11:09:13+08:00  (剩余 1G 6:32:19.707280)
+sub_info  0B  1G  2025-03-18 11:09:13+08:00  (剩余 1G 5:35:33.213906)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=c710a3ce7f5d2709af9cfe2766bbc8f3
 time  2025-03-17 11:09:13.710389+08:00
 type  v2board
@@ -42,7 +45,7 @@ invite_code  hjkr  9999
 last_checkin  2025-03-18 03:32:58.214925+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.14G  2025-03-19 03:32:58+08:00  (剩余 10.14G 22:55:59.032900)
+sub_info  0B  10.14G  2025-03-19 03:32:58+08:00  (剩余 10.14G 21:59:15.033914)
 sub_url  http://175.178.9.20/link/Eu0NpwIJV7vmwg0B?sub=3
 time  2025-03-18 03:32:59.496144+08:00
 type  sspanel
@@ -59,18 +62,19 @@ sub_url  https://www.duguletian.com/link/TzpTnwhu1svGqfzX?sub=3
 time  2025-03-17 13:37:40.348621+08:00
 type  sspanel
 保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com
 buy  pass
-email  knwrrmgfg430@bookmorpho.cfd
-last_checkin  2025-03-18 04:37:03.740117+08:00
+email  dhnidkrf150@spam4.me
+last_checkin  2025-03-18 05:34:09.549429+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.192G  2025-03-18 04:37:03+08:00  (剩余 1.192G -1 day, 23:59:56.701841)
-sub_url  https://new.gfw.news/link/hktAvDWBwsZgHFF4?sub=3
-time  2025-03-18 04:37:04.419092+08:00
+sub_info  0B  1.059G  2025-03-18 05:34:09+08:00  (剩余 1.059G -1 day, 23:59:57.590590)
+sub_url  https://new.gfw.news/link/XR2saWGEnDredo0b?sub=3
+time  2025-03-18 05:34:10.087763+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -84,4 +88,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9c799a7340>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f293040ac50>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
