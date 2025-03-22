@@ -11,6 +11,9 @@ sub_info  0B  1.06G  2025-03-23 11:07:58+08:00  (剩余 1.06G 16:27:44.894505)
 sub_url  https://network.ayucloud.nl/link/9rynkxskxbKvGOz6?clash=1
 time  2025-03-22 11:07:59.973435+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(eiptwyfby592@tmpmail.net): 邮箱后缀已被拉黑
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -19,7 +22,7 @@ email  lqgasuhjw171@gmail.com
 last_checkin  2025-03-22 18:40:12.807131+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-21 18:40:12+08:00  (剩余 1T 29 days, 23:59:56.201373)
+sub_info  0B  1T  2025-04-21 18:40:12+08:00  (剩余 1T 29 days, 23:07:52.313963)
 sub_url  https://cc.dabai.in/link/2T7CifMZ2wL918FJ?sub=3
 time  2025-03-22 18:40:13.898368+08:00
 type  sspanel
@@ -29,7 +32,7 @@ api_host  uujiasu.com
 buy  pass
 email  loijvcmui541@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-23 11:07:53+08:00  (剩余 1G 16:27:42.062294)
+sub_info  0B  1G  2025-03-23 11:07:53+08:00  (剩余 1G 15:35:32.160010)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=5d588750d9bfe1181564d528f46883d3
 time  2025-03-22 11:07:54.327852+08:00
 type  v2board
@@ -42,11 +45,10 @@ invite_code  AsJ0  9998
 last_checkin  2025-03-22 17:33:27.934059+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.12G  2025-03-23 17:33:27+08:00  (剩余 10.12G 22:53:16.432389)
+sub_info  0B  10.12G  2025-03-23 17:33:27+08:00  (剩余 10.12G 22:01:04.696259)
 sub_url  http://175.178.9.20/link/Tbjm6b9PSbuSch3G?sub=3
 time  2025-03-22 17:33:29.213300+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -55,7 +57,7 @@ email  vrgiuqu316@top.co.mom
 last_checkin  2025-03-22 18:40:15.887034+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.047G  2025-03-23 18:40:15+08:00  (剩余 1.047G 23:59:54.143016)
+sub_info  0B  1.047G  2025-03-23 18:40:15+08:00  (剩余 1.047G 23:07:54.639870)
 sub_url  https://www.duguletian.com/link/Ajk0hEVdhYPYHWnp?sub=3
 time  2025-03-22 18:40:16.524436+08:00
 type  sspanel
@@ -64,13 +66,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com
 buy  pass
-email  zunubxv875@bccto.cc
-last_checkin  2025-03-22 18:40:38.419835+08:00
+email  fqhblhxn320@sharklasers.com
+last_checkin  2025-03-22 19:32:45.942488+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.132G  2025-03-22 18:40:38+08:00  (剩余 1.132G -1 day, 23:59:57.014655)
-sub_url  https://new.gfw.news/link/8Smj1MmpMbz4Fr5U?sub=3
-time  2025-03-22 18:40:39.021998+08:00
+sub_info  0B  1.055G  2025-03-22 19:32:45+08:00  (剩余 1.055G -1 day, 23:59:50.202308)
+sub_url  https://new.gfw.news/link/bOhk696YTc0cgjHv?sub=3
+time  2025-03-22 19:32:46.540893+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -84,4 +86,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f946426dc30>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8bfc7c4070>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
