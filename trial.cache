@@ -7,7 +7,7 @@ email  gnxmgsr41@youxiang.dev
 last_checkin  2025-03-22 11:07:58.836612+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  3.077K  1.06G  2025-03-23 11:07:58+08:00  (剩余 1.06G 12:32:06.500147)
+sub_info  3.077K  1.06G  2025-03-23 11:07:58+08:00  (剩余 1.06G 11:34:47.865694)
 sub_url  https://network.ayucloud.nl/link/9rynkxskxbKvGOz6?clash=1
 time  2025-03-22 11:07:59.973435+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  lqgasuhjw171@gmail.com
 last_checkin  2025-03-22 18:40:12.807131+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-21 18:40:12+08:00  (剩余 1T 29 days, 20:04:26.428775)
+sub_info  0B  1T  2025-04-21 18:40:12+08:00  (剩余 1T 29 days, 19:07:03.967670)
 sub_url  https://cc.dabai.in/link/2T7CifMZ2wL918FJ?sub=3
 time  2025-03-22 18:40:13.898368+08:00
 type  sspanel
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  loijvcmui541@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-23 11:07:53+08:00  (剩余 1G 12:32:06.134650)
+sub_info  0B  1G  2025-03-23 11:07:53+08:00  (剩余 1G 11:34:43.618575)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=5d588750d9bfe1181564d528f46883d3
 time  2025-03-22 11:07:54.327852+08:00
 type  v2board
@@ -42,7 +42,7 @@ invite_code  AsJ0  9997
 last_checkin  2025-03-22 22:35:54.695198+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.19G  2025-03-23 22:35:54+08:00  (剩余 10.19G 23:59:55.894572)
+sub_info  0B  10.19G  2025-03-23 22:35:54+08:00  (剩余 10.19G 23:02:31.553778)
 sub_url  http://175.178.9.20/link/6FTFDFqODb8z1rZm?sub=3
 time  2025-03-22 22:35:55.933261+08:00
 type  sspanel
@@ -54,23 +54,22 @@ email  bbcdgjzjb130@sharklasers.com
 last_checkin  2025-03-22 21:33:56.092198+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.003G  2025-03-23 21:33:55+08:00  (剩余 1.003G 22:58:09.498763)
+sub_info  0B  1.003G  2025-03-23 21:33:55+08:00  (剩余 1.003G 22:00:48.059788)
 sub_url  https://www.duguletian.com/link/y2hkbTXIKKm5hCLd?sub=3
 time  2025-03-22 21:33:56.701256+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com
 buy  pass
-email  xqdvedii670@grr.la
-last_checkin  2025-03-22 22:36:24.926230+08:00
+email  nfhgqylvz623@rgzx.tmmad.com
+last_checkin  2025-03-22 23:33:20.302979+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.079G  2025-03-22 22:36:24+08:00  (剩余 1.079G -1 day, 23:59:57.562548)
-sub_url  https://new.gfw.news/link/pgwE4rb1lQrsn7wb?sub=3
-time  2025-03-22 22:36:25.554837+08:00
+sub_info  0B  1.151G  2025-03-22 23:33:20+08:00  (剩余 1.151G -1 day, 23:59:58.496028)
+sub_url  https://new.gfw.news/link/Pyr3r52wPpQlCkNR?sub=3
+time  2025-03-22 23:33:20.795373+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -84,4 +83,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa71f5e35e0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6dc2dbbdc0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
