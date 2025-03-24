@@ -7,7 +7,7 @@ email  pnuduar4@femailtor.com
 last_checkin  2025-03-25 00:44:27.828148+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.849G  2025-03-25 17:38:14+08:00  (剩余 1.849G 16:53:41.468430)
+sub_info  0B  1.849G  2025-03-25 17:38:14+08:00  (剩余 1.849G 16:00:40.402519)
 sub_url  https://network.ayucloud.nl/link/dvI7y0EwEc34sQi0?clash=1
 time  2025-03-24 17:38:16.082215+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  jdrjnwe452@gmail.com
 last_checkin  2025-03-25 00:44:27.828749+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-23 23:38:13+08:00  (剩余 1T 29 days, 22:53:40.681404)
+sub_info  0B  1T  2025-04-23 23:38:13+08:00  (剩余 1T 29 days, 22:00:42.308261)
 sub_url  https://cc.dabai.in/link/yENZ9Zuzv8vaSLHq?sub=3
 time  2025-03-24 23:38:15.323186+08:00
 type  sspanel
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  eipglsg71@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-25 11:13:27+08:00  (剩余 1G 10:28:52.168994)
+sub_info  0B  1G  2025-03-25 11:13:27+08:00  (剩余 1G 9:35:57.355316)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=293634a69788bedfa59196917b297a0d
 time  2025-03-24 11:13:28.099931+08:00
 type  v2board
@@ -42,12 +42,10 @@ invite_code  ujIR  10000
 last_checkin  2025-03-25 00:45:40.463578+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.977G  10.15G  2025-03-25 00:40:02+08:00  (剩余 8.177G 1:01:46.291816)
+sub_info  0B  10.14G  2025-03-26 00:45:39+08:00  (剩余 10.14G 23:08:07.099793)
 sub_url  http://175.178.9.20/link/qOPgBmicMeOl6BZP?sub=3
 time  2025-03-25 00:45:41.586050+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -56,7 +54,7 @@ email  smiuhhng34@lyx13.xyz
 last_checkin  2025-03-25 00:44:27.832522+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.071G  2025-03-25 21:41:59+08:00  (剩余 1.071G 20:57:28.334194)
+sub_info  0B  1.071G  2025-03-25 21:41:59+08:00  (剩余 1.071G 20:04:28.090446)
 sub_url  https://www.duguletian.com/link/4I7yOOAWPIxYDf8e?sub=3
 time  2025-03-24 21:42:00.872285+08:00
 type  sspanel
@@ -65,13 +63,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com
 buy  pass
-email  qocojykh771@grr.la
-last_checkin  2025-03-25 00:45:09.371082+08:00
+email  hmerpabpp477@rgzx.tmmad.com
+last_checkin  2025-03-25 01:37:39.974782+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.123G  2025-03-25 00:45:09+08:00  (剩余 1.123G -1 day, 23:59:57.394547)
-sub_url  https://new.gfw.news/link/Y9gKq36HN2Kd5Dh8?sub=3
-time  2025-03-25 00:45:10.030799+08:00
+sub_info  0B  1.074G  2025-03-25 01:37:39+08:00  (剩余 1.074G -1 day, 23:59:56.267429)
+sub_url  https://new.gfw.news/link/kOqz77fhfAEIjqGW?sub=3
+time  2025-03-25 01:37:40.513571+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -85,4 +83,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f64e0222ef0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd61c5849a0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
