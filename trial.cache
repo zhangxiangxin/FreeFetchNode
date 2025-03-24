@@ -7,7 +7,7 @@ email  atrdmmsw702@ipiso.tmmad.com
 last_checkin  2025-03-24 04:36:19.810650+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.105G  2025-03-25 04:36:19+08:00  (剩余 1.105G 13:01:08.394222)
+sub_info  0B  1.105G  2025-03-25 04:36:19+08:00  (剩余 1.105G 11:53:17.658530)
 sub_url  https://network.ayucloud.nl/link/Qvr7CdcQM9FzQrj0?clash=1
 time  2025-03-24 04:36:20.737457+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  lqgasuhjw171@gmail.com
 last_checkin  2025-03-24 00:39:54.177454+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-21 18:40:12+08:00  (剩余 1T 28 days, 3:05:04.842039)
+sub_info  0B  1T  2025-04-21 18:40:12+08:00  (剩余 1T 28 days, 1:57:27.179590)
 sub_url  https://cc.dabai.in/link/2T7CifMZ2wL918FJ?sub=3
 time  2025-03-22 18:40:13.898368+08:00
 type  sspanel
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  eipglsg71@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-25 11:13:27+08:00  (剩余 1G 19:38:18.321238)
+sub_info  0B  1G  2025-03-25 11:13:27+08:00  (剩余 1G 18:30:40.324897)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=293634a69788bedfa59196917b297a0d
 time  2025-03-24 11:13:28.099931+08:00
 type  v2board
@@ -42,7 +42,7 @@ invite_code  9OWR  10000
 last_checkin  2025-03-24 00:40:04.596562+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.38G  10.15G  2025-03-25 00:40:02+08:00  (剩余 8.775G 9:04:46.201345)
+sub_info  1.683G  10.15G  2025-03-25 00:40:02+08:00  (剩余 8.472G 7:57:10.241770)
 sub_url  http://175.178.9.20/link/EpsDDrjd7HdLCTmO?sub=3
 time  2025-03-24 00:40:05.963199+08:00
 type  sspanel
@@ -54,7 +54,7 @@ email  pflrmbtx827@mxl001.win
 last_checkin  2025-03-24 12:41:08.277699+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.032G  2025-03-25 12:41:07+08:00  (剩余 1.032G 21:05:58.223331)
+sub_info  0B  1.032G  2025-03-25 12:41:07+08:00  (剩余 1.032G 19:58:22.076966)
 sub_url  https://www.duguletian.com/link/iPtW0zZjL2huLPKg?sub=3
 time  2025-03-24 12:41:08.997989+08:00
 type  sspanel
@@ -63,15 +63,14 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com
 buy  pass
-email  kplxwuutu348@top.co.mom
-last_checkin  2025-03-24 15:35:19.695070+08:00
+email  fyraptp273@top.co.mom
+last_checkin  2025-03-24 16:44:12.502225+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.18G  2025-03-24 15:35:19+08:00  (剩余 1.18G -1 day, 23:59:58.075886)
-sub_url  https://new.gfw.news/link/2a5WT8JSAw4uPUUY?sub=3
-time  2025-03-24 15:35:20.156487+08:00
+sub_info  0B  1.145G  2025-03-24 16:44:12+08:00  (剩余 1.145G -1 day, 23:59:57.324597)
+sub_url  https://new.gfw.news/link/cIF4cjNDMZyevQBz?sub=3
+time  2025-03-24 16:44:13.154084+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -84,4 +83,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab8c14ace0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5a0c474070>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
