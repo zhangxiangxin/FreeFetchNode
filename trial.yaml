@@ -77,6 +77,7 @@ proxy-groups:
   - 🇹🇼 台湾01 - uu加速首页
   - 🇹🇼 台湾02-备用 - uu加速首页
   - 🇹🇼 台湾03-备用 - uu加速首页
+  - 🇹🇼 台湾04-备用 - uu加速首页
   - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
@@ -363,6 +364,7 @@ proxy-groups:
   - 🇹🇼 台湾01 - uu加速首页
   - 🇹🇼 台湾02-备用 - uu加速首页
   - 🇹🇼 台湾03-备用 - uu加速首页
+  - 🇹🇼 台湾04-备用 - uu加速首页
   - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
@@ -431,6 +433,7 @@ proxy-groups:
   - 🇹🇼 台湾01 - uu加速首页
   - 🇹🇼 台湾02-备用 - uu加速首页
   - 🇹🇼 台湾03-备用 - uu加速首页
+  - 🇹🇼 台湾04-备用 - uu加速首页
   - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
   - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
@@ -658,18 +661,18 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2095, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.81.21, headers: {Host: 100-203-2-238.s1.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2052, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.80.248, headers: {Host: 100-183-236-238.s1.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2052, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.30.118, headers: {Host: 100-19-24-187.s1.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 80, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.120.252, headers: {Host: 100-45-209-70.s2.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s5.db-link02.top, port: 2086, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.2.69, headers: {Host: 100-25-31-176.s5.db-link02.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.db-link02.top, port: 8880, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.50.242, headers: {Host: 100-81-251-254.s2.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.db-link01.top, port: 2052, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.186.45, headers: {Host: 100-61-129-27.s3.db-link01.top}}, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 52.24.249.216, port: 443, type: trojan, password: bb5737a0-27c6-36b0-a348-a911a096dd22, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: bb5737a0-27c6-36b0-a348-a911a096dd22, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: bb5737a0-27c6-36b0-a348-a911a096dd22, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.168.236.31, port: 443, type: trojan, password: bb5737a0-27c6-36b0-a348-a911a096dd22, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.248.202, port: 443, type: trojan, password: bb5737a0-27c6-36b0-a348-a911a096dd22, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 8880, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.56.222, headers: {Host: 100-243-125-41.s1.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2095, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.6.234, headers: {Host: 100-160-202-160.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 80, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.162.97, headers: {Host: 100-238-139-67.s1.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 8880, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.184.122, headers: {Host: 100-116-82-69.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.cn-db.top, port: 80, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.224.215, headers: {Host: 100-107-169-31.s1.cn-db.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s3.cn-db.top, port: 2086, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.57.69, headers: {Host: 100-91-66-124.s3.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.db-link01.top, port: 80, type: vmess, uuid: ce13916e-dbb4-3dfc-a502-1b0c0a235198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.148.228, headers: {Host: 100-22-101-58.s2.db-link01.top}}, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 52.24.249.216, port: 443, type: trojan, password: fcccec73-57ae-3886-8018-3e5a1465939f, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: fcccec73-57ae-3886-8018-3e5a1465939f, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: fcccec73-57ae-3886-8018-3e5a1465939f, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.168.236.31, port: 443, type: trojan, password: fcccec73-57ae-3886-8018-3e5a1465939f, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.248.202, port: 443, type: trojan, password: fcccec73-57ae-3886-8018-3e5a1465939f, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 BA 03 - M1NET, server: relay03.m5vip.net, port: 10441, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 BA 04 - M1NET, server: relay04.m5vip.net, port: 10681, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 BA 01 - M1NET, server: relay01.m5vip.net, port: 49166, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
@@ -719,6 +722,7 @@ proxies:
 - {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: ec69e653-d599-4d37-8516-258f1a7cf406, udp: true}
 - {name: 🇹🇼 台湾02-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11123, type: ss, cipher: chacha20-ietf-poly1305, password: ec69e653-d599-4d37-8516-258f1a7cf406, udp: true}
 - {name: 🇹🇼 台湾03-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11133, type: ss, cipher: chacha20-ietf-poly1305, password: ec69e653-d599-4d37-8516-258f1a7cf406, udp: true}
+- {name: 🇹🇼 台湾04-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11143, type: ss, cipher: chacha20-ietf-poly1305, password: ec69e653-d599-4d37-8516-258f1a7cf406, udp: true}
 - {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: ec69e653-d599-4d37-8516-258f1a7cf406, udp: true}
 - {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: ec69e653-d599-4d37-8516-258f1a7cf406, udp: true}
 - {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: ec69e653-d599-4d37-8516-258f1a7cf406, udp: true}
