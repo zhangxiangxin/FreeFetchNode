@@ -21,7 +21,7 @@ email  mnxywcbjr651@gmail.com
 last_checkin  2025-03-29 06:36:33.772318+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-28 06:36:33+08:00  (剩余 1T 29 days, 20:28:31.862633)
+sub_info  0B  1T  2025-04-28 06:36:33+08:00  (剩余 1T 29 days, 19:28:25.795881)
 sub_url  https://cc.dabai.in/link/KeVF0BvgoQBmDUKQ?sub=3
 time  2025-03-29 06:36:35.046423+08:00
 type  sspanel
@@ -29,13 +29,13 @@ type  sspanel
 [uuvpn.cloud#UUVPN]
 api_host  uujiasu.com
 buy  pass
-email  fxcdxxul711@gmail.com
+email  npeoltu260@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-29 11:10:49+08:00  (剩余 1G 1:02:42.219615)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=849909f9d36f7af695ca3a4f37ee72fd
-time  2025-03-28 11:10:50.284674+08:00
+sub_info  0B  1G  2025-03-30 11:08:04+08:00  (剩余 1G 23:59:57.625713)
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=5a93eaa89d38f4a69e3bb861951e8b51
+time  2025-03-29 11:08:05.067550+08:00
 type  v2board
-保存base64/clash订阅失败  netloc 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWQ3M2JjYS1iOTVkLTQzOWEtOGI5Ni1mMWU5ZGUwNjJiYjY@最新官网：uujiasu.com:1080' contains invalid characters under NFKC normalization
+保存base64/clash订阅失败  netloc 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGMyMzQyNi1hZTVkLTQ3YjMtODcxMi1iNmY5YjM1NzI1YWI@最新官网：uujiasu.com:1080' contains invalid characters under NFKC normalization
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc  tmpnator.live  mydefipet.live  smartnator.com
@@ -44,7 +44,7 @@ invite_code  tEJj  10000
 last_checkin  2025-03-29 00:42:56.682732+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.29G  2025-03-29 19:32:48+08:00  (剩余 10.29G 9:24:42.016324)
+sub_info  0B  10.29G  2025-03-29 19:32:48+08:00  (剩余 10.29G 8:24:43.621939)
 sub_url  http://175.178.9.20/link/OXbwPlifL5eb8M8O?sub=3
 time  2025-03-28 19:32:50.813723+08:00
 type  sspanel
@@ -60,18 +60,19 @@ sub_info  0B  1.046G  2025-03-29 22:39:15+08:00  (剩余 1.046G 12:31:14.684696)
 sub_url  https://www.duguletian.com/link/VBbmooYACPtoZrF8?sub=3
 time  2025-03-28 22:39:17.119457+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me
 buy  pass
-email  elggxpc1@youxiang.dev
-last_checkin  2025-03-29 10:08:49.901062+08:00
+email  larhyxhxi991@guerrillamail.org
+last_checkin  2025-03-29 11:08:25.392994+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.108G  2025-03-29 10:08:49+08:00  (剩余 1.108G -1 day, 23:59:51.034385)
-sub_url  https://new.gfw.news/link/WWBEKlzwo9lxVOGM?sub=3
-time  2025-03-29 10:08:50.388976+08:00
+sub_info  0B  1.036G  2025-03-29 11:08:25+08:00  (剩余 1.036G -1 day, 23:59:55.111716)
+sub_url  https://new.gfw.news/link/uqN4iFzhqyjXehRC?sub=3
+time  2025-03-29 11:08:25.876280+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -85,4 +86,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbeed7124a0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe9542401f0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
