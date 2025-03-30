@@ -7,7 +7,7 @@ email  wvlwupgsc729@grr.la
 last_checkin  2025-03-29 15:33:13.444315+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.168G  2025-03-30 15:33:13+08:00  (剩余 1.168G 7:59:17.592274)
+sub_info  59.06M  1.168G  2025-03-30 15:33:13+08:00  (剩余 1.11G 5:16:03.185087)
 sub_url  https://network.ayucloud.nl/link/8vHG3WjfJCIefUl8?clash=1
 time  2025-03-29 15:33:14.408775+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  mnxywcbjr651@gmail.com
 last_checkin  2025-03-30 00:41:58.022974+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-28 06:36:33+08:00  (剩余 1T 28 days, 23:02:39.470339)
+sub_info  0B  1T  2025-04-28 06:36:33+08:00  (剩余 1T 28 days, 20:19:22.514236)
 sub_url  https://cc.dabai.in/link/KeVF0BvgoQBmDUKQ?sub=3
 time  2025-03-29 06:36:35.046423+08:00
 type  sspanel
@@ -30,7 +30,7 @@ api_host  uujiasu.com
 buy  pass
 email  npeoltu260@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-03-30 11:08:04+08:00  (剩余 1G 3:34:02.509629)
+sub_info  0B  1G  2025-03-30 11:08:04+08:00  (剩余 1G 0:50:53.227239)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=5a93eaa89d38f4a69e3bb861951e8b51
 time  2025-03-29 11:08:05.067550+08:00
 type  v2board
@@ -43,7 +43,7 @@ invite_code  tEJj  9998
 last_checkin  2025-03-30 00:41:58.026748+08:00
 name  飞翔吧
 node_n  46
-sub_info  672.8M  10.26G  2025-03-30 16:39:28+08:00  (剩余 9.603G 9:05:18.257330)
+sub_info  673.1M  10.26G  2025-03-30 16:39:28+08:00  (剩余 9.602G 6:22:14.249977)
 sub_url  http://175.178.9.20/link/zTSzX6T4Tonrp5fQ?sub=3
 time  2025-03-29 16:39:29.727430+08:00
 type  sspanel
@@ -55,7 +55,7 @@ email  apgkoit682@pastryofistanbul.com
 last_checkin  2025-03-30 00:41:58.027725+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.06G  2025-03-30 21:35:44+08:00  (剩余 1.06G 14:01:35.411231)
+sub_info  0B  1.06G  2025-03-30 21:35:44+08:00  (剩余 1.06G 11:18:33.645680)
 sub_url  https://www.duguletian.com/link/v97XLrcX0ZZkKyXm?sub=3
 time  2025-03-29 21:35:47.070373+08:00
 type  sspanel
@@ -64,14 +64,15 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com
 buy  pass
-email  jkbjozc22@youxiang.dev
-last_checkin  2025-03-30 07:34:08.528283+08:00
+email  vqmasjevt518@vapelato.com
+last_checkin  2025-03-30 10:17:20.979807+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.022G  2025-03-30 07:34:08+08:00  (剩余 1.022G -1 day, 23:59:56.789285)
-sub_url  https://new.gfw.news/link/vtsR17kSAUQ3vsYS?sub=3
-time  2025-03-30 07:34:09.272175+08:00
+sub_info  0B  1.15G  2025-03-30 10:17:20+08:00  (剩余 1.15G -1 day, 23:59:56.876951)
+sub_url  https://new.gfw.news/link/qBLy3OOJOXPueg2r?sub=3
+time  2025-03-30 10:17:21.753247+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -84,4 +85,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5eb48e4190>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6f8c660a30>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
