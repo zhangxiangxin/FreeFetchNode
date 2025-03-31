@@ -12,7 +12,7 @@ sub_url  https://network.ayucloud.nl/link/8vHG3WjfJCIefUl8?clash=1
 time  2025-03-29 15:33:14.408775+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -21,7 +21,7 @@ email  frbzaxf337@gmail.com
 last_checkin  2025-04-01 00:44:30.475177+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-30 16:43:32+08:00  (剩余 1T 29 days, 15:06:17.224822)
+sub_info  0B  1T  2025-04-30 16:43:32+08:00  (剩余 1T 29 days, 13:58:53.606513)
 sub_url  https://cc.dabai.in/link/WN4sbjMUOuNNJtPP?sub=3
 time  2025-03-31 16:43:34.391225+08:00
 type  sspanel
@@ -31,7 +31,7 @@ api_host  uujiasu.com
 buy  pass
 email  jeubdtc396@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-04-01 11:23:38+08:00  (剩余 1G 9:46:54.245977)
+sub_info  0B  1G  2025-04-01 11:23:38+08:00  (剩余 1G 8:39:19.745837)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=9c4b9ad0cdcf64e0d95e65d3ea25037d
 time  2025-03-31 11:23:39.589444+08:00
 type  v2board
@@ -44,7 +44,7 @@ invite_code  XgVz  10000
 last_checkin  2025-04-01 00:46:49.127994+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.12G  2025-04-02 00:46:47+08:00  (剩余 10.12G 23:10:06.468503)
+sub_info  0B  10.12G  2025-04-02 00:46:47+08:00  (剩余 10.12G 22:02:30.472358)
 sub_url  http://175.178.9.20/link/rdgQiiYBVMy5OaoZ?sub=3
 time  2025-04-01 00:46:50.483786+08:00
 type  sspanel
@@ -56,7 +56,7 @@ email  dvmjgzp422@femailtor.com
 last_checkin  2025-04-01 00:44:30.479033+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.065G  2025-04-01 17:38:25+08:00  (剩余 1.065G 16:01:44.248466)
+sub_info  0B  1.065G  2025-04-01 17:38:25+08:00  (剩余 1.065G 14:54:07.942797)
 sub_url  https://www.duguletian.com/link/EctEISSGdhFQFPRA?sub=3
 time  2025-03-31 17:38:26.693422+08:00
 type  sspanel
@@ -65,13 +65,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com
 buy  pass
-email  dwgohkrg955@pastryofistanbul.com
-last_checkin  2025-04-01 01:37:01.133408+08:00
+email  ydaosci175@bccto.cc
+last_checkin  2025-04-01 02:44:44.998108+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.188G  2025-04-01 01:37:00+08:00  (剩余 1.188G -1 day, 23:59:56.491047)
-sub_url  https://new.gfw.news/link/w5qWSbGk4lJLsRVs?sub=3
-time  2025-04-01 01:37:01.827250+08:00
+sub_info  0B  1.12G  2025-04-01 02:44:44+08:00  (剩余 1.12G -1 day, 23:59:54.620474)
+sub_url  https://new.gfw.news/link/zqWvk7DaPkKTAx5w?sub=3
+time  2025-04-01 02:44:45.501008+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -85,4 +85,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f57ea6ca5c0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc166972ec0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
