@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - uu加速首页, server: gy.tangu.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 348ecb11-0c58-4e49-95f4-a484808fd786, udp: true}
-- {name: 🇭🇰 香港02 - uu加速首页, server: gy.tangu.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 348ecb11-0c58-4e49-95f4-a484808fd786, udp: true}
-- {name: 🇭🇰 香港03 - uu加速首页, server: gy.tangu.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 348ecb11-0c58-4e49-95f4-a484808fd786, udp: true}
-- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 348ecb11-0c58-4e49-95f4-a484808fd786, udp: true}
-- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 348ecb11-0c58-4e49-95f4-a484808fd786, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: gy.tangu.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 75afb9fc-e5da-4dda-96e7-6584b650c85e, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: gy.tangu.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 75afb9fc-e5da-4dda-96e7-6584b650c85e, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: gy.tangu.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 75afb9fc-e5da-4dda-96e7-6584b650c85e, udp: true}
+- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 75afb9fc-e5da-4dda-96e7-6584b650c85e, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 75afb9fc-e5da-4dda-96e7-6584b650c85e, udp: true}
