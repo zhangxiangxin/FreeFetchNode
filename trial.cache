@@ -12,7 +12,7 @@ sub_url  https://network.ayucloud.nl/link/vvgEAjEtjUumKKM7?clash=1
 time  2025-04-03 22:40:03.596041+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(zfjdkjaa970@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -21,17 +21,18 @@ email  idyiani560@gmail.com
 last_checkin  2025-04-04 00:43:47.872602+08:00
 name  大白
 node_n  7
-sub_info  130.7M  1T  2025-05-03 19:34:04+08:00  (剩余 1024G 29 days, 7:48:05.613819)
+sub_info  196.8M  1T  2025-05-03 19:34:04+08:00  (剩余 1024G 29 days, 6:52:24.738014)
 sub_url  https://cc.dabai.in/link/z1nJRokhO6SeaOcf?sub=3
 time  2025-04-03 19:34:06.258955+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [uuvpn.cloud#UUVPN]
 api_host  uujiasu.com
 buy  pass
 email  acvtpmpm140@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-04-05 11:10:06+08:00  (剩余 1G 23:24:03.335464)
+sub_info  0B  1G  2025-04-05 11:10:06+08:00  (剩余 1G 22:28:24.279808)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=39e3fcbb4ca46a7c2e238478b93ca18f
 time  2025-04-04 11:10:07.234875+08:00
 type  v2board
@@ -44,7 +45,7 @@ invite_code  Jo01  10000
 last_checkin  2025-04-04 06:38:30.930422+08:00
 name  飞翔吧
 node_n  46
-sub_info  2.043G  10.13G  2025-04-05 06:38:27+08:00  (剩余 8.088G 18:52:26.773358)
+sub_info  4.299G  10.13G  2025-04-05 06:38:27+08:00  (剩余 5.832G 17:56:47.425931)
 sub_url  http://175.178.9.20/link/zEgWwfZ0Ddzm3igp?sub=3
 time  2025-04-04 06:38:35.188077+08:00
 type  sspanel
@@ -56,23 +57,24 @@ email  ozrziyze280@safsd88nb.icu
 last_checkin  2025-04-04 07:36:20.922778+08:00
 name  独孤乐天
 node_n  4
-sub_info  427.3M  1.031G  2025-04-05 07:36:20+08:00  (剩余 628.7M 19:50:21.143062)
+sub_info  427.3M  1.031G  2025-04-05 07:36:20+08:00  (剩余 628.7M 18:54:40.550679)
 sub_url  https://www.duguletian.com/link/aRb2Weu4sUwHQSiK?sub=3
 time  2025-04-04 07:36:21.469059+08:00
 type  sspanel
 
 [nova.live#Novalive]
 auto_invite  F
-banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de
+banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com
 buy  pass
 email  gwnscean347@safsd88nb.icu
 last_checkin  2025-04-04 11:46:12.297155+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.191G  2025-04-04 11:46:11+08:00  (剩余 1.191G -1 day, 23:59:56.471405)
+sub_info  0B  1.191G  2025-04-04 11:46:11+08:00  (剩余 1.191G -1 day, 23:03:12.568224)
 sub_url  https://new.gfw.news/link/y9iHYWY9lRyn6i1p?sub=3
 time  2025-04-04 11:46:12.920391+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(qtzysufls326@rgzx.tmmad.com)
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -85,4 +87,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff9203c9a80>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc812606380>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
