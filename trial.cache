@@ -21,7 +21,7 @@ email  fjmstoi226@gmail.com
 last_checkin  2025-04-06 00:40:48.258303+08:00
 name  大白
 node_n  7
-sub_info  431.3M  1T  2025-05-05 00:43:14+08:00  (剩余 1024G 28 days, 11:06:25.409803)
+sub_info  432.2M  1T  2025-05-05 00:43:14+08:00  (剩余 1024G 28 days, 9:58:44.699572)
 sub_url  https://cc.dabai.in/link/R7wgS8EAVNNkI1nf?sub=3
 time  2025-04-05 00:43:16.189092+08:00
 type  sspanel
@@ -31,7 +31,7 @@ api_host  uujiasu.com
 buy  pass
 email  czvodlepf298@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-04-07 11:13:12+08:00  (剩余 1G 21:36:23.794060)
+sub_info  0B  1G  2025-04-07 11:13:12+08:00  (剩余 1G 20:28:12.827320)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=fec0fc51a0da59b6678e1e3eeba90fad
 time  2025-04-06 11:13:13.501576+08:00
 type  v2board
@@ -44,13 +44,10 @@ invite_code  c7TR  10000
 last_checkin  2025-04-06 04:34:07.046853+08:00
 name  飞翔吧
 node_n  46
-sub_info  7.163G  10.17G  2025-04-07 04:34:05+08:00  (剩余 3.004G 15:50:52.051599)
+sub_info  8.98G  10.17G  2025-04-07 04:34:05+08:00  (剩余 1.187G 13:49:35.137197)
 sub_url  http://175.178.9.20/link/MwvXJUntr2NXfsdk?sub=3
 time  2025-04-06 04:34:08.180790+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -59,11 +56,10 @@ email  ebvhxolzn77@mxl001.win
 last_checkin  2025-04-06 07:33:31.990117+08:00
 name  独孤乐天
 node_n  4
-sub_info  185.9K  1.047G  2025-04-07 07:33:31+08:00  (剩余 1.047G 18:50:21.000861)
+sub_info  37.32M  1.047G  2025-04-07 07:33:31+08:00  (剩余 1.01G 16:48:37.546985)
 sub_url  https://www.duguletian.com/link/cU0on9i2Tj4lKir3?sub=3
 time  2025-04-06 07:33:32.660927+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
@@ -73,7 +69,7 @@ email  tcdnmvtqc144@guerrillamail.biz
 last_checkin  2025-04-06 00:40:48.263201+08:00
 name  NovaLive
 node_n  5
-sub_info  41.96M  1.174G  2025-04-05 06:38:08+08:00  (剩余 1.133G -2 days, 17:00:46.579722)
+sub_info  41.97M  1.174G  2025-04-05 06:38:08+08:00  (剩余 1.133G -2 days, 15:53:07.307374)
 sub_url  https://new.gfw.news/link/OopBecrnzqqud377?sub=3
 time  2025-04-05 06:38:09.063604+08:00
 type  sspanel
@@ -90,4 +86,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2308a7f3a0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0b1ccd01c0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
