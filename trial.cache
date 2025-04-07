@@ -7,22 +7,22 @@ email  wryfdmxf496@bccto.cc
 last_checkin  2025-04-07 05:32:39.629059+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  2.144G  2.016G  2025-04-07 20:54:52+08:00  (剩余 -131.9M 6:09:26.510913)
+sub_info  2.144G  2.016G  2025-04-07 20:54:52+08:00  (剩余 -131.9M 5:18:34.039412)
 sub_url  https://network.ayucloud.nl/link/FUfZEzIiaIC68bIL?clash=1
 time  2025-04-06 20:54:53.462849+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(bxahajnyt430@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(drloetj830@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  plswcgr615@gmail.com
-last_checkin  2025-04-07 03:32:14.147402+08:00
+email  oxgvzhllw628@gmail.com
+last_checkin  2025-04-07 15:36:08.359764+08:00
 name  大白
 node_n  7
-sub_info  12.17M  1T  2025-05-07 03:32:13+08:00  (剩余 1T 29 days, 12:46:49.869870)
-sub_url  https://cc.dabai.in/link/4Xxf2uvvMDCG6RMJ?sub=3
-time  2025-04-07 03:32:15.385975+08:00
+sub_info  0B  1T  2025-05-07 15:36:08+08:00  (剩余 1T 29 days, 23:59:55.472581)
+sub_url  https://cc.dabai.in/link/JJ0F7alYyWwld6NA?sub=3
+time  2025-04-07 15:36:09.687828+08:00
 type  sspanel
 
 [uuvpn.cloud#UUVPN]
@@ -30,7 +30,7 @@ api_host  uujiasu.com
 buy  pass
 email  bwfrtrdpb990@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-04-08 11:14:06+08:00  (剩余 1G 20:28:42.253464)
+sub_info  0B  1G  2025-04-08 11:14:06+08:00  (剩余 1G 19:37:56.153760)
 sub_url  https://uujiasu.com/api/v1/client/subscribe?token=640e697357fc9648c62df701cfba3464
 time  2025-04-07 11:14:07.393887+08:00
 type  v2board
@@ -43,7 +43,7 @@ invite_code  blX0  10000
 last_checkin  2025-04-07 12:41:21.699575+08:00
 name  飞翔吧
 node_n  46
-sub_info  721.9M  10.15G  2025-04-08 12:41:20+08:00  (剩余 9.444G 21:55:53.654510)
+sub_info  1.602G  10.15G  2025-04-08 12:41:20+08:00  (剩余 8.547G 21:05:12.007369)
 sub_url  http://175.178.9.20/link/r3lF7LiPjgO3GFm0?sub=3
 time  2025-04-07 12:41:22.966446+08:00
 type  sspanel
@@ -55,7 +55,7 @@ email  uhcmnws684@guerrillamail.biz
 last_checkin  2025-04-07 07:32:59.288367+08:00
 name  独孤乐天
 node_n  4
-sub_info  54.18M  1.023G  2025-04-08 07:32:58+08:00  (剩余 993.8M 16:47:31.417885)
+sub_info  89.04M  1.023G  2025-04-08 07:32:58+08:00  (剩余 959M 15:56:51.484141)
 sub_url  https://www.duguletian.com/link/9Lw8tHg1Q7TiLY6f?sub=3
 time  2025-04-07 07:33:00.268904+08:00
 type  sspanel
@@ -68,7 +68,7 @@ email  tcdnmvtqc144@guerrillamail.biz
 last_checkin  2025-04-07 00:40:11.216169+08:00
 name  NovaLive
 node_n  5
-sub_info  51.94M  1.209G  2025-04-05 06:38:08+08:00  (剩余 1.158G -3 days, 15:52:10.862953)
+sub_info  51.95M  1.209G  2025-04-05 06:38:08+08:00  (剩余 1.158G -3 days, 15:01:27.425255)
 sub_url  https://new.gfw.news/link/OopBecrnzqqud377?sub=3
 time  2025-04-05 06:38:09.063604+08:00
 type  sspanel
@@ -85,4 +85,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f53a47d2aa0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f39280a6c50>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
