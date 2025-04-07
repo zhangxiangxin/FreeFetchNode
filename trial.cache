@@ -7,7 +7,7 @@ email  wryfdmxf496@bccto.cc
 last_checkin  2025-04-07 05:32:39.629059+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.271G  2.016G  2025-04-07 20:54:52+08:00  (剩余 762.9M 13:22:10.829894)
+sub_info  1.271G  2.016G  2025-04-07 20:54:52+08:00  (剩余 762.9M 10:40:26.200538)
 sub_url  https://network.ayucloud.nl/link/FUfZEzIiaIC68bIL?clash=1
 time  2025-04-06 20:54:53.462849+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  plswcgr615@gmail.com
 last_checkin  2025-04-07 03:32:14.147402+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-05-07 03:32:13+08:00  (剩余 1T 29 days, 19:59:47.842278)
+sub_info  0B  1T  2025-05-07 03:32:13+08:00  (剩余 1T 29 days, 17:17:43.309569)
 sub_url  https://cc.dabai.in/link/4Xxf2uvvMDCG6RMJ?sub=3
 time  2025-04-07 03:32:15.385975+08:00
 type  sspanel
@@ -29,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  czvodlepf298@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-04-07 11:13:12+08:00  (剩余 1G 3:40:44.948982)
+sub_info  0B  1G  2025-04-07 11:13:12+08:00  (剩余 1G 0:58:46.385219)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=fec0fc51a0da59b6678e1e3eeba90fad
 time  2025-04-06 11:13:13.501576+08:00
 type  v2board
@@ -42,7 +42,7 @@ invite_code  c7TR  9998
 last_checkin  2025-04-07 00:40:30.817276+08:00
 name  飞翔吧
 node_n  46
-sub_info  3.384G  10.16G  2025-04-08 00:40:30+08:00  (剩余 6.778G 17:08:01.804548)
+sub_info  3.396G  10.16G  2025-04-08 00:40:30+08:00  (剩余 6.766G 14:26:03.890502)
 sub_url  http://175.178.9.20/link/Dpn0qsBIfZYikBrp?sub=3
 time  2025-04-07 00:40:32.082347+08:00
 type  sspanel
@@ -54,7 +54,7 @@ email  uhcmnws684@guerrillamail.biz
 last_checkin  2025-04-07 07:32:59.288367+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.023G  2025-04-08 07:32:58+08:00  (剩余 1.023G 23:59:56.335740)
+sub_info  0B  1.023G  2025-04-08 07:32:58+08:00  (剩余 1.023G 21:18:33.873591)
 sub_url  https://www.duguletian.com/link/9Lw8tHg1Q7TiLY6f?sub=3
 time  2025-04-07 07:33:00.268904+08:00
 type  sspanel
@@ -67,11 +67,10 @@ email  tcdnmvtqc144@guerrillamail.biz
 last_checkin  2025-04-07 00:40:11.216169+08:00
 name  NovaLive
 node_n  5
-sub_info  51.89M  1.211G  2025-04-05 06:38:08+08:00  (剩余 1.16G -3 days, 23:05:09.835969)
+sub_info  51.92M  1.209G  2025-04-05 06:38:08+08:00  (剩余 1.158G -3 days, 20:21:09.688938)
 sub_url  https://new.gfw.news/link/OopBecrnzqqud377?sub=3
 time  2025-04-05 06:38:09.063604+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
 更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [dash.m9vip.net#M1NET]
@@ -85,4 +84,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f107275ceb0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd1e3b2fee0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
