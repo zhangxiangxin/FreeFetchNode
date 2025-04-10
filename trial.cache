@@ -23,7 +23,7 @@ email  jegwxbxla968@gmail.com
 last_checkin  2025-04-10 04:39:22.271855+08:00
 name  大白
 node_n  7
-sub_info  51.18M  1T  2025-05-10 04:39:22+08:00  (剩余 1024G 29 days, 7:38:13.238925)
+sub_info  51.18M  1T  2025-05-10 04:39:22+08:00  (剩余 1024G 29 days, 6:56:33.824625)
 sub_url  https://cc.dabai.in/link/GEOTi3QJ5FxuPsm4?sub=3
 time  2025-04-10 04:39:23.394488+08:00
 type  sspanel
@@ -33,7 +33,7 @@ api_host  uujiasu.com
 buy  pass
 email  ptgnnpv827@gmail.com
 name  uu加速首页
-sub_info  27.65M  1G  2025-04-11 11:12:23+08:00  (剩余 996.4M 14:11:11.737209)
+sub_info  28.59M  1G  2025-04-11 11:12:23+08:00  (剩余 995.4M 13:29:28.202459)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=777218dee74c4337cde33b7ef59f21aa
 time  2025-04-10 11:12:24.474952+08:00
 type  v2board
@@ -46,7 +46,7 @@ invite_code  AeZr  10000
 last_checkin  2025-04-10 21:01:16.291631+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.14G  2025-04-11 21:01:14+08:00  (剩余 10.14G 23:59:36.476141)
+sub_info  0B  10.14G  2025-04-11 21:01:14+08:00  (剩余 10.14G 23:18:24.420625)
 sub_url  http://175.178.9.20/link/1gL4cuGwfk0IILyH?sub=3
 time  2025-04-10 21:01:17.544917+08:00
 type  sspanel
@@ -58,7 +58,7 @@ email  ifqmcrt343@guerrillamail.de
 last_checkin  2025-04-10 19:33:03.359350+08:00
 name  独孤乐天
 node_n  4
-sub_info  74.55K  1.017G  2025-04-11 19:33:02+08:00  (剩余 1.017G 22:29:51.503472)
+sub_info  74.55K  1.017G  2025-04-11 19:33:02+08:00  (剩余 1.017G 21:50:08.139250)
 sub_url  https://www.duguletian.com/link/9HGS0rx66d5ZjhnX?sub=3
 time  2025-04-10 19:33:03.927010+08:00
 type  sspanel
@@ -71,7 +71,7 @@ email  tcdnmvtqc144@guerrillamail.biz
 last_checkin  2025-04-10 00:46:36.210946+08:00
 name  NovaLive
 node_n  5
-sub_info  205.7M  1.627G  2025-04-05 06:38:08+08:00  (剩余 1.426G -6 days, 9:36:57.433720)
+sub_info  206M  1.627G  2025-04-05 06:38:08+08:00  (剩余 1.426G -6 days, 8:55:18.582672)
 sub_url  https://new.gfw.news/link/OopBecrnzqqud377?sub=3
 time  2025-04-05 06:38:09.063604+08:00
 type  sspanel
@@ -88,4 +88,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb5182d3c70>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0817fa2320>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
