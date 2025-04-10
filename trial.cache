@@ -23,7 +23,7 @@ email  jegwxbxla968@gmail.com
 last_checkin  2025-04-10 04:39:22.271855+08:00
 name  大白
 node_n  7
-sub_info  51.18M  1T  2025-05-10 04:39:22+08:00  (剩余 1024G 29 days, 9:57:45.884388)
+sub_info  51.18M  1T  2025-05-10 04:39:22+08:00  (剩余 1024G 29 days, 9:06:33.852942)
 sub_url  https://cc.dabai.in/link/GEOTi3QJ5FxuPsm4?sub=3
 time  2025-04-10 04:39:23.394488+08:00
 type  sspanel
@@ -33,11 +33,11 @@ api_host  uujiasu.com
 buy  pass
 email  ptgnnpv827@gmail.com
 name  uu加速首页
-sub_info  16.3M  1G  2025-04-11 11:12:23+08:00  (剩余 1008M 16:30:45.394387)
+sub_info  24.09M  1G  2025-04-11 11:12:23+08:00  (剩余 999.9M 15:39:34.962090)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=777218dee74c4337cde33b7ef59f21aa
 time  2025-04-10 11:12:24.474952+08:00
 type  v2board
-保存base64/clash订阅失败  netloc 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZmY3YTcyNC0wMzJjLTQxMWEtYTJkYS0wNWIzNDVkNWM1NmE@最新官网：uujiasu.com:1080' contains invalid characters under NFKC normalization
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc  tmpnator.live  mydefipet.live  smartnator.com
@@ -46,7 +46,7 @@ invite_code  Gjmc  10000
 last_checkin  2025-04-10 00:46:36.208024+08:00
 name  飞翔吧
 node_n  46
-sub_info  8.09G  10.33G  2025-04-10 21:02:01+08:00  (剩余 2.238G 2:20:13.973758)
+sub_info  8.105G  10.33G  2025-04-10 21:02:01+08:00  (剩余 2.223G 1:29:12.085762)
 sub_url  http://175.178.9.20/link/J4xB6bR1nuZs6G2X?sub=3
 time  2025-04-09 21:02:04.219545+08:00
 type  sspanel
@@ -54,13 +54,13 @@ type  sspanel
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc  psnator.com  xxxhi.cc  wfes.site  mail.shouyou789.com  youxiang.dev  mail.wvwvw.tech  linshiyou.com  mydefipet.live  tmpnator.live  smartnator.com  guerrillamail.biz
-email  nqyybdej486@lyx13.xyz
-last_checkin  2025-04-10 00:46:36.208437+08:00
+email  ifqmcrt343@guerrillamail.de
+last_checkin  2025-04-10 19:33:03.359350+08:00
 name  独孤乐天
 node_n  4
-sub_info  387.9M  1.013G  2025-04-10 19:32:51+08:00  (剩余 649.1M 0:51:15.746215)
-sub_url  https://www.duguletian.com/link/wpuTOA2N05ruQLPo?sub=3
-time  2025-04-09 19:32:52.824332+08:00
+sub_info  0B  1.017G  2025-04-11 19:33:02+08:00  (剩余 1.017G 23:59:56.430270)
+sub_url  https://www.duguletian.com/link/9HGS0rx66d5ZjhnX?sub=3
+time  2025-04-10 19:33:03.927010+08:00
 type  sspanel
 
 [nova.live#Novalive]
@@ -71,7 +71,7 @@ email  tcdnmvtqc144@guerrillamail.biz
 last_checkin  2025-04-10 00:46:36.210946+08:00
 name  NovaLive
 node_n  5
-sub_info  177.5M  1.627G  2025-04-05 06:38:08+08:00  (剩余 1.454G -6 days, 11:56:27.960799)
+sub_info  191.9M  1.627G  2025-04-05 06:38:08+08:00  (剩余 1.44G -6 days, 11:05:00.363407)
 sub_url  https://new.gfw.news/link/OopBecrnzqqud377?sub=3
 time  2025-04-05 06:38:09.063604+08:00
 type  sspanel
@@ -88,4 +88,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9fac672a10>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6568275a80>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
