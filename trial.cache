@@ -23,7 +23,7 @@ email  gmzpbnoj832@gmail.com
 last_checkin  2025-04-12 19:32:41.541135+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-05-12 19:32:41+08:00  (剩余 1T 29 days, 21:56:40.663315)
+sub_info  0B  1T  2025-05-12 19:32:41+08:00  (剩余 1T 29 days, 20:56:47.441621)
 sub_url  https://cc.dabai.in/link/zoDrcRcM0R3ovFw9?sub=3
 time  2025-04-12 19:32:42.835943+08:00
 type  sspanel
@@ -33,7 +33,7 @@ api_host  uujiasu.com
 buy  pass
 email  peodngq744@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-04-13 21:36:08+08:00  (剩余 1G 23:59:57.742728)
+sub_info  7.025M  1G  2025-04-13 21:36:08+08:00  (剩余 1017M 23:00:07.830637)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=347331277d840d76e762ccbaf4a1dc46
 time  2025-04-12 21:36:08.971758+08:00
 type  v2board
@@ -46,7 +46,7 @@ invite_code  fiaA  10000
 last_checkin  2025-04-12 17:38:05.363709+08:00
 name  飞翔吧
 node_n  46
-sub_info  138.6M  10.18G  2025-04-13 17:38:04+08:00  (剩余 10.04G 20:02:02.928648)
+sub_info  138.6M  10.18G  2025-04-13 17:38:04+08:00  (剩余 10.04G 19:01:39.845950)
 sub_url  http://175.178.9.20/link/MUC7Ylwi7evzVvsm?sub=3
 time  2025-04-12 17:38:06.590696+08:00
 type  sspanel
@@ -58,11 +58,10 @@ email  czvjyib41@bookmorpho.cfd
 last_checkin  2025-04-12 21:36:08.393976+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.04G  永不过期  (剩余 1.04G)
+sub_info  0B  1.039G  2025-04-13 21:36:07+08:00  (剩余 1.039G 23:00:07.629645)
 sub_url  https://www.duguletian.com/link/sljtkyQwry28740t?sub=3
 time  2025-04-12 21:36:09.405994+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
 
 [nova.live#Novalive]
 auto_invite  F
@@ -72,7 +71,7 @@ email  tcdnmvtqc144@guerrillamail.biz
 last_checkin  2025-04-12 00:43:53.098255+08:00
 name  NovaLive
 node_n  5
-sub_info  358.3M  1.719G  2025-04-05 06:38:08+08:00  (剩余 1.369G -8 days, 9:01:59.706269)
+sub_info  358.3M  1.719G  2025-04-05 06:38:08+08:00  (剩余 1.369G -8 days, 8:02:06.234896)
 sub_url  https://new.gfw.news/link/OopBecrnzqqud377?sub=3
 time  2025-04-05 06:38:09.063604+08:00
 type  sspanel
@@ -89,4 +88,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9b4c1d32b0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc903a7b2b0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
