@@ -7,12 +7,10 @@ email  lurosuoe319@huiplay.com
 last_checkin  2025-04-17 13:38:54.968960+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.074G  2025-04-18 13:38:54+08:00  (剩余 1.074G 18:57:23.299453)
+sub_info  687M  1.074G  2025-04-18 13:38:54+08:00  (剩余 413M 16:38:01.977380)
 sub_url  https://network.ayucloud.nl/link/IUMeh7tcEsofHONi?clash=1
 time  2025-04-17 13:38:55.950868+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -21,7 +19,7 @@ email  fzhkurroa784@gmail.com
 last_checkin  2025-04-17 11:48:04.027659+08:00
 name  大白
 node_n  7
-sub_info  5.073K  1T  2025-05-17 11:48:03+08:00  (剩余 1T 29 days, 16:14:58.471439)
+sub_info  5.073K  1T  2025-05-17 11:48:03+08:00  (剩余 1T 29 days, 14:47:33.645279)
 sub_url  https://cc.dabai.in/link/6azFC0oU2LHzAuFA?sub=3
 time  2025-04-17 11:48:05.242556+08:00
 type  sspanel
@@ -31,7 +29,7 @@ api_host  uujiasu.com
 buy  pass
 email  snyilxhe880@gmail.com
 name  uu加速首页
-sub_info  140.7M  1G  2025-04-17 22:39:51+08:00  (剩余 883.3M 3:06:34.410491)
+sub_info  161.9M  1G  2025-04-17 22:39:51+08:00  (剩余 862.1M 1:39:19.886147)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=737ef5bb3bd2cd82d983c6ae2a704293
 time  2025-04-16 22:39:52.101683+08:00
 type  v2board
@@ -44,7 +42,7 @@ invite_code  XruN  10000
 last_checkin  2025-04-17 16:43:21.879639+08:00
 name  飞翔吧
 node_n  46
-sub_info  55.38M  10.14G  2025-04-18 16:43:20+08:00  (剩余 10.09G 21:10:14.883828)
+sub_info  99.79M  10.14G  2025-04-18 16:43:20+08:00  (剩余 10.04G 19:42:47.940573)
 sub_url  http://175.178.9.20/link/3EnttLUKJlHaocKe?sub=3
 time  2025-04-17 16:43:23.041254+08:00
 type  sspanel
@@ -52,13 +50,13 @@ type  sspanel
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc  psnator.com  xxxhi.cc  wfes.site  mail.shouyou789.com  youxiang.dev  mail.wvwvw.tech  linshiyou.com  mydefipet.live  tmpnator.live  smartnator.com  guerrillamail.biz
-email  bvrjbbbcb642@lyx13.xyz
-last_checkin  2025-04-17 00:45:43.499595+08:00
+email  sbmfmpd533@pastryofistanbul.com
+last_checkin  2025-04-17 21:00:35.437218+08:00
 name  独孤乐天
 node_n  4
-sub_info  559.3M  1.061G  2025-04-17 21:03:43+08:00  (剩余 526.7M 1:30:39.869218)
-sub_url  https://www.duguletian.com/link/TUNno5xenr2EeLIl?sub=3
-time  2025-04-16 21:03:44.637244+08:00
+sub_info  0B  1.046G  2025-04-18 21:00:34+08:00  (剩余 1.046G 23:59:56.562862)
+sub_url  https://www.duguletian.com/link/Wt9o9ksp7gCkxc3W?sub=3
+time  2025-04-17 21:00:36.018883+08:00
 type  sspanel
 
 [nova.live#Novalive]
@@ -69,7 +67,7 @@ email  tcdnmvtqc144@guerrillamail.biz
 last_checkin  2025-04-17 00:45:43.500827+08:00
 name  NovaLive
 node_n  5
-sub_info  678.9M  2.149G  2025-04-05 06:38:08+08:00  (剩余 1.486G -13 days, 11:05:00.019682)
+sub_info  679M  2.149G  2025-04-05 06:38:08+08:00  (剩余 1.486G -13 days, 9:37:37.485217)
 sub_url  https://new.gfw.news/link/OopBecrnzqqud377?sub=3
 time  2025-04-05 06:38:09.063604+08:00
 type  sspanel
@@ -86,4 +84,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb305364070>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f15aecec5e0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
