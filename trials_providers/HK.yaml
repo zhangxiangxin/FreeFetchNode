@@ -9,11 +9,11 @@ proxies:
 - {name: 🇭🇰 香港 BA 04 - M1NET, server: relay04.m5vip.net, port: 49076, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇭🇰 香港 BA 01 - M1NET, server: relay01.m5vip.net, port: 29880, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇭🇰 香港 BA 02 - M1NET, server: relay02.m5vip.net, port: 23571, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 香港01 - uu加速首页, server: gy.tangu.win, port: 31672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
-- {name: 🇭🇰 香港02 - uu加速首页, server: gy.tangu.win, port: 31675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
-- {name: 🇭🇰 香港03 - uu加速首页, server: gy.tangu.win, port: 31679, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
-- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
-- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: gy.tangu.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: gy.tangu.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: gy.tangu.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
+- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 9d8bb995-79c4-4766-99a5-bfdaa1490b5b, udp: true}
 - {name: 🇭🇰 Game 香港01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 824, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: d880e109098.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9054, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d880e109098.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9063, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d880e109098.download.windowsupdate.com}, udp: true}
