@@ -21,7 +21,7 @@ email  fzhkurroa784@gmail.com
 last_checkin  2025-04-17 11:48:04.027659+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-05-17 11:48:03+08:00  (剩余 1T 29 days, 23:59:49.313770)
+sub_info  0B  1T  2025-05-17 11:48:03+08:00  (剩余 1T 29 days, 23:06:21.725636)
 sub_url  https://cc.dabai.in/link/6azFC0oU2LHzAuFA?sub=3
 time  2025-04-17 11:48:05.242556+08:00
 type  sspanel
@@ -31,7 +31,7 @@ api_host  uujiasu.com
 buy  pass
 email  snyilxhe880@gmail.com
 name  uu加速首页
-sub_info  51.59M  1G  2025-04-17 22:39:51+08:00  (剩余 972.4M 10:51:48.228743)
+sub_info  75.38M  1G  2025-04-17 22:39:51+08:00  (剩余 948.6M 9:58:13.051387)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=737ef5bb3bd2cd82d983c6ae2a704293
 time  2025-04-16 22:39:52.101683+08:00
 type  v2board
@@ -39,14 +39,14 @@ type  v2board
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc  tmpnator.live  mydefipet.live  smartnator.com
-email  wbwjpfpqb417@lyx13.xyz
-invite_code  Af6F  10000
-last_checkin  2025-04-17 11:13:49.991430+08:00
+email  urwzryx608@guerrillamail.net
+invite_code  LRT8  10000
+last_checkin  2025-04-17 12:41:59.308860+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.13G  2025-04-18 11:13:48+08:00  (剩余 10.13G 23:25:30.068677)
-sub_url  http://175.178.9.20/link/AKgQEY0Z03KdE0o1?sub=3
-time  2025-04-17 11:13:52.146657+08:00
+sub_info  0B  10.18G  2025-04-18 12:41:58+08:00  (剩余 10.18G 23:59:55.286026)
+sub_url  http://175.178.9.20/link/hGkQfSZ96q1zJmsb?sub=3
+time  2025-04-17 12:42:00.473901+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -56,10 +56,11 @@ email  bvrjbbbcb642@lyx13.xyz
 last_checkin  2025-04-17 00:45:43.499595+08:00
 name  独孤乐天
 node_n  4
-sub_info  247.9K  1.061G  2025-04-17 21:03:43+08:00  (剩余 1.06G 9:15:41.560736)
+sub_info  247.9K  1.061G  2025-04-17 21:03:43+08:00  (剩余 1.06G 8:22:06.298258)
 sub_url  https://www.duguletian.com/link/TUNno5xenr2EeLIl?sub=3
 time  2025-04-16 21:03:44.637244+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [nova.live#Novalive]
 auto_invite  F
@@ -69,7 +70,7 @@ email  tcdnmvtqc144@guerrillamail.biz
 last_checkin  2025-04-17 00:45:43.500827+08:00
 name  NovaLive
 node_n  5
-sub_info  673.3M  2.149G  2025-04-05 06:38:08+08:00  (剩余 1.492G -13 days, 18:49:58.292308)
+sub_info  673.3M  2.149G  2025-04-05 06:38:08+08:00  (剩余 1.492G -13 days, 17:56:27.485874)
 sub_url  https://new.gfw.news/link/OopBecrnzqqud377?sub=3
 time  2025-04-05 06:38:09.063604+08:00
 type  sspanel
@@ -86,4 +87,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f20e8388250>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f289820ea40>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
