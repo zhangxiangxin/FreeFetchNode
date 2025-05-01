@@ -19,10 +19,10 @@ proxies:
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 317c2943-fc76-3cc7-af2b-8c35a248c6d2, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 317c2943-fc76-3cc7-af2b-8c35a248c6d2, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 317c2943-fc76-3cc7-af2b-8c35a248c6d2, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾01 - uu加速首页, server: gya.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 244a8304-15cc-475d-8df8-9df52e2548b1, udp: true}
-- {name: 🇹🇼 台湾02-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11123, type: ss, cipher: chacha20-ietf-poly1305, password: 244a8304-15cc-475d-8df8-9df52e2548b1, udp: true}
-- {name: 🇹🇼 台湾03-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11133, type: ss, cipher: chacha20-ietf-poly1305, password: 244a8304-15cc-475d-8df8-9df52e2548b1, udp: true}
-- {name: 🇹🇼 台湾04-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11143, type: ss, cipher: chacha20-ietf-poly1305, password: 244a8304-15cc-475d-8df8-9df52e2548b1, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: gya.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 0c52ef2b-26d2-4b3b-a5a3-d338ce3ec586, udp: true}
+- {name: 🇹🇼 台湾02-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11123, type: ss, cipher: chacha20-ietf-poly1305, password: 0c52ef2b-26d2-4b3b-a5a3-d338ce3ec586, udp: true}
+- {name: 🇹🇼 台湾03-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11133, type: ss, cipher: chacha20-ietf-poly1305, password: 0c52ef2b-26d2-4b3b-a5a3-d338ce3ec586, udp: true}
+- {name: 🇹🇼 台湾04-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11143, type: ss, cipher: chacha20-ietf-poly1305, password: 0c52ef2b-26d2-4b3b-a5a3-d338ce3ec586, udp: true}
 - {name: 🇹🇼 台湾 AK 01 - M1NET, server: relay01.m5vip.net, port: 33501, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 AK 03 - M1NET, server: relay03.m5vip.net, port: 35761, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 AK 02 - M1NET, server: relay02.m5vip.net, port: 53989, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}

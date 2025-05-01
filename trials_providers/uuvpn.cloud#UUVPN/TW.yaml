@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - uu加速首页, server: gya.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 244a8304-15cc-475d-8df8-9df52e2548b1, udp: true}
-- {name: 🇹🇼 台湾02-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11123, type: ss, cipher: chacha20-ietf-poly1305, password: 244a8304-15cc-475d-8df8-9df52e2548b1, udp: true}
-- {name: 🇹🇼 台湾03-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11133, type: ss, cipher: chacha20-ietf-poly1305, password: 244a8304-15cc-475d-8df8-9df52e2548b1, udp: true}
-- {name: 🇹🇼 台湾04-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11143, type: ss, cipher: chacha20-ietf-poly1305, password: 244a8304-15cc-475d-8df8-9df52e2548b1, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: gya.tangu.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 0c52ef2b-26d2-4b3b-a5a3-d338ce3ec586, udp: true}
+- {name: 🇹🇼 台湾02-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11123, type: ss, cipher: chacha20-ietf-poly1305, password: 0c52ef2b-26d2-4b3b-a5a3-d338ce3ec586, udp: true}
+- {name: 🇹🇼 台湾03-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11133, type: ss, cipher: chacha20-ietf-poly1305, password: 0c52ef2b-26d2-4b3b-a5a3-d338ce3ec586, udp: true}
+- {name: 🇹🇼 台湾04-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11143, type: ss, cipher: chacha20-ietf-poly1305, password: 0c52ef2b-26d2-4b3b-a5a3-d338ce3ec586, udp: true}
