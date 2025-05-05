@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: df68fdf6-a797-34d6-95e6-5a232bc75018, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: df68fdf6-a797-34d6-95e6-5a232bc75018, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.178.237.21, port: 443, type: trojan, password: ed67259e-a4f9-31bf-8520-d2dec9a2400b, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.24.250, port: 443, type: trojan, password: ed67259e-a4f9-31bf-8520-d2dec9a2400b, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
