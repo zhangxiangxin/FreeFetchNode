@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡03 - uu加速首页, server: gya.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 89742aa8-8f56-48e2-826d-9dc458ddfce5, udp: true}
-- {name: 🇸🇬 新加坡01 - uu加速首页, server: gya.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 89742aa8-8f56-48e2-826d-9dc458ddfce5, udp: true}
-- {name: 🇸🇬 新加坡02 - uu加速首页, server: gya.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 89742aa8-8f56-48e2-826d-9dc458ddfce5, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: gya.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: c9920d01-1513-442e-9f4e-7c1496ea095d, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: gya.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: c9920d01-1513-442e-9f4e-7c1496ea095d, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: gya.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: c9920d01-1513-442e-9f4e-7c1496ea095d, udp: true}
