@@ -6,9 +6,9 @@ proxies:
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: a7a65902-fcbd-3952-ae54-1c033286202a, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: a7a65902-fcbd-3952-ae54-1c033286202a, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: a7a65902-fcbd-3952-ae54-1c033286202a, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03 - uu加速首页, server: gya.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
-- {name: 🇸🇬 新加坡01 - uu加速首页, server: gya.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
-- {name: 🇸🇬 新加坡02 - uu加速首页, server: gya.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: gya.tangu.win, port: 31640, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: gya.tangu.win, port: 31636, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: gya.tangu.win, port: 31738, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
 - {name: 🇸🇬 新加坡 CH 03 - M1NET, server: relay03.m5vip.net, port: 19706, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇸🇬 新加坡 CH 04 - M1NET, server: relay04.m5vip.net, port: 47936, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇸🇬 新加坡 CH 01 - M1NET, server: relay01.m5vip.net, port: 36597, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
