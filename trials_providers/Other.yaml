@@ -10,12 +10,12 @@ proxies:
 - {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 0b844a73-7334-35a0-b2af-c301d736d489, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 0b844a73-7334-35a0-b2af-c301d736d489, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 0b844a73-7334-35a0-b2af-c301d736d489, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 最新官网：uujiasu.com - uu加速首页, server: 最新官网：uujiasu.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
-- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
-- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
-- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
-- {name: 🇬🇧 英国02 - uu加速首页, server: gya.tangu.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
-- {name: 🇻🇳 越南01 - uu加速首页, server: gya.tangu.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: 6cf3d546-f5f6-4c5b-b7cb-88f09f4efd66, udp: true}
+- {name: ℹ️ 最新官网：uujiasu.com - uu加速首页, server: 最新官网：uujiasu.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: fc95e014-f2e3-4020-984a-91099f4f9c75, udp: true}
+- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: fc95e014-f2e3-4020-984a-91099f4f9c75, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: fc95e014-f2e3-4020-984a-91099f4f9c75, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, type: ss, cipher: chacha20-ietf-poly1305, password: fc95e014-f2e3-4020-984a-91099f4f9c75, udp: true}
+- {name: 🇬🇧 英国02 - uu加速首页, server: gya.tangu.win, port: 31648, type: ss, cipher: chacha20-ietf-poly1305, password: fc95e014-f2e3-4020-984a-91099f4f9c75, udp: true}
+- {name: 🇻🇳 越南01 - uu加速首页, server: gya.tangu.win, port: 31660, type: ss, cipher: chacha20-ietf-poly1305, password: fc95e014-f2e3-4020-984a-91099f4f9c75, udp: true}
 - {name: 🇬🇧 英国 BA 02 - M1NET, server: relay02.m5vip.net, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇩🇪 德国 BA 03 - M1NET, server: relay03.m5vip.net, port: 49973, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇱🇺 卢森堡 BT/PT 专用 - M1NET, server: relay02.m5vip.net, port: 12959, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
