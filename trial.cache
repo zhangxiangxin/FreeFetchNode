@@ -23,7 +23,7 @@ email  plwzzfg331@gmail.com
 last_checkin  2025-05-11 00:42:54.963959+08:00
 name  大白
 node_n  7
-sub_info  29.01M  1T  2025-06-09 17:34:17+08:00  (剩余 1T 29 days, 10:57:12.840286)
+sub_info  29.01M  1T  2025-06-09 17:34:17+08:00  (剩余 1T 29 days, 10:00:52.525975)
 sub_url  https://cc.dabai.in/link/JxfGNtA4p7aFEvgR?sub=3
 time  2025-05-10 17:34:18.871221+08:00
 type  sspanel
@@ -33,7 +33,7 @@ api_host  uujiasu.com
 buy  pass
 email  usvjlvz638@gmail.com
 name  uu加速首页
-sub_info  2.463M  1G  2025-05-11 20:57:14+08:00  (剩余 1022M 14:20:08.201619)
+sub_info  2.463M  1G  2025-05-11 20:57:14+08:00  (剩余 1022M 13:23:47.019348)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=645dd7a776095149a39affb0abcac267
 time  2025-05-10 20:57:14.782090+08:00
 type  v2board
@@ -46,7 +46,7 @@ invite_code  0Xty  10000
 last_checkin  2025-05-11 00:42:54.964995+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.5G  10.33G  2025-05-11 14:42:56+08:00  (剩余 8.828G 8:05:49.052911)
+sub_info  1.5G  10.33G  2025-05-11 14:42:56+08:00  (剩余 8.828G 7:09:27.319381)
 sub_url  http://175.178.9.20/link/gjn8s8mOWDLurXEq?sub=3
 time  2025-05-10 14:42:58.959248+08:00
 type  sspanel
@@ -62,18 +62,19 @@ sub_info  2.982M  1.073G  2025-05-11 19:32:57+08:00  (剩余 1.07G 12:55:53.0422
 sub_url  https://www.duguletian.com/link/QUELEza2DR8gJtZB?sub=3
 time  2025-05-10 19:32:58.309380+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  epmhdwf507@gmail.com
-last_checkin  2025-05-11 06:37:05.417629+08:00
+email  emcdhzbnw848@gmail.com
+last_checkin  2025-05-11 07:33:30.839856+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.052G  2025-05-11 06:37:05+08:00  (剩余 1.052G -1 day, 23:59:55.356722)
-sub_url  https://new.gfw.news/link/nbRSFJ0JAAoFb4CN?sub=3
-time  2025-05-11 06:37:06.257547+08:00
+sub_info  0B  1.184G  2025-05-11 07:33:30+08:00  (剩余 1.184G -1 day, 23:59:56.080151)
+sub_url  https://new.gfw.news/link/M2d8CALsrODUOdzk?sub=3
+time  2025-05-11 07:33:31.328823+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -87,4 +88,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1017)')))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1017)')))
