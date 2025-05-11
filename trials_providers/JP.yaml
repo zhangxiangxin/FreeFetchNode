@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, tfo: true, type: vmess, uuid: 4b85e36d-5afb-3523-a25a-7d68514f9750, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, tfo: true, type: vmess, uuid: 4b85e36d-5afb-3523-a25a-7d68514f9750, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 4b85e36d-5afb-3523-a25a-7d68514f9750, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 4b85e36d-5afb-3523-a25a-7d68514f9750, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: fec3fa4c-291d-3681-8ac5-45cea972a248, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: fec3fa4c-291d-3681-8ac5-45cea972a248, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: fec3fa4c-291d-3681-8ac5-45cea972a248, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
@@ -37,5 +37,5 @@ proxies:
 - {name: 🇯🇵 Video 日本B-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 813, tfo: true, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 78f45109385.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Video 日本C-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 4321, tfo: true, type: ss, cipher: aes-128-gcm, password: ay232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 78f45109385.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Web 日本I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9051, tfo: true, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 78f45109385.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28444, type: trojan, password: 31556a7a-56ce-3b2d-8c01-b0fac19a9ce4, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28444, type: trojan, password: 31556a7a-56ce-3b2d-8c01-b0fac19a9ce4, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28444, type: trojan, password: 8973b9b1-8171-3109-b24c-9ed6a6c07e56, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28444, type: trojan, password: 8973b9b1-8171-3109-b24c-9ed6a6c07e56, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
