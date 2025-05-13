@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 00dcecd6-892f-359d-aa73-facad3ebb5b5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 00dcecd6-892f-359d-aa73-facad3ebb5b5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: ed81234f-b46f-38fa-8c0d-9eda91414ad3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: ed81234f-b46f-38fa-8c0d-9eda91414ad3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
