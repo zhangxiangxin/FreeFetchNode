@@ -13,8 +13,8 @@ time  2025-05-03 15:33:04.859301+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -23,7 +23,7 @@ email  dytzidk771@gmail.com
 last_checkin  2025-05-15 00:45:01.660600+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-06-12 23:39:58+08:00  (剩余 1T 28 days, 17:05:43.609491)
+sub_info  0B  1T  2025-06-12 23:39:58+08:00  (剩余 1T 28 days, 16:04:11.766189)
 sub_url  https://cc.dabai.in/link/372dY2EdwqPOQJ8R?sub=3
 time  2025-05-13 23:40:00.204390+08:00
 type  sspanel
@@ -33,7 +33,7 @@ api_host  uujiasu.com
 buy  pass
 email  cwkgflh761@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-05-15 21:03:54+08:00  (剩余 1G 14:29:39.096254)
+sub_info  0B  1G  2025-05-15 21:03:54+08:00  (剩余 1G 13:28:08.081612)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=9c343ac2a860730afedc3886e357feba
 time  2025-05-14 21:03:54.757199+08:00
 type  v2board
@@ -41,15 +41,17 @@ type  v2board
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc  tmpnator.live  mydefipet.live  smartnator.com
-email  gufubggm901@linshiyou.com
-invite_code  e5wa  10000
-last_checkin  2025-05-15 05:32:31.873862+08:00
+email  kfovouk120@bccto.cc
+invite_code  e5wa  9999
+last_checkin  2025-05-15 07:35:55.159314+08:00
 name  飞翔吧
 node_n  46
 sub_info  0B  10.11G  2025-05-16 05:32:30+08:00  (剩余 10.11G 22:58:15.911880)
-sub_url  http://175.178.9.20/link/rh0mZgJhApo33Zlw?sub=3
-time  2025-05-15 05:32:33.162474+08:00
+sub_url  http://175.178.9.20/link/31ElmUlhTVRDC3j3?sub=3
+time  2025-05-15 07:35:56.314121+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -58,7 +60,7 @@ email  rmbwnub865@lyx13.xyz
 last_checkin  2025-05-15 00:45:01.662091+08:00
 name  独孤乐天
 node_n  4
-sub_info  662.9M  1.041G  2025-05-15 10:17:40+08:00  (剩余 403.1M 3:43:25.760017)
+sub_info  662.9M  1.041G  2025-05-15 10:17:40+08:00  (剩余 403.1M 2:41:54.611359)
 sub_url  https://www.duguletian.com/link/8bAkGUE7qU2nTs84?sub=3
 time  2025-05-14 10:17:41.987958+08:00
 type  sspanel
@@ -67,13 +69,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  kzrrvuml696@gmail.com
-last_checkin  2025-05-15 06:34:16.287305+08:00
+email  ovncrkba346@gmail.com
+last_checkin  2025-05-15 07:35:55.668303+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.192G  2025-05-15 06:34:15+08:00  (剩余 1.192G -1 day, 23:59:53.530443)
-sub_url  https://new.gfw.news/link/saDobjdw4HLpadEf?sub=3
-time  2025-05-15 06:34:16.926645+08:00
+sub_info  0B  1.179G  2025-05-15 07:35:55+08:00  (剩余 1.179G -1 day, 23:59:56.937009)
+sub_url  https://new.gfw.news/link/ujOisAcyiJYuqIa4?sub=3
+time  2025-05-15 07:35:56.334160+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
