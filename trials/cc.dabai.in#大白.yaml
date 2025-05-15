@@ -60,13 +60,13 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.cn-db.top, port: 8880, tfo: true, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.96.113, headers: {Host: 100-146-73-92.s5.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 80, tfo: true, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.26.115, headers: {Host: 100-191-128-47.s3.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2052, tfo: true, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.66.202, headers: {Host: 100-47-232-11.s2.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2086, tfo: true, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.6.80, headers: {Host: 100-8-140-158.s1.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s5.db-link01.top, port: 2086, tfo: true, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.94.19, headers: {Host: 100-153-224-77.s5.db-link01.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s4.db-link02.top, port: 8080, tfo: true, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.9.26, headers: {Host: 100-54-40-99.s4.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s5.cn-db.top, port: 2095, tfo: true, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.237.126, headers: {Host: 100-166-123-34.s5.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2086, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.95.53, headers: {Host: 100-30-213-196.s1.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 2052, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.244.69, headers: {Host: 100-255-165-209.s5.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2095, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.19.3, headers: {Host: 100-56-130-152.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2052, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.21.63, headers: {Host: 100-59-176-28.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s5.db-link02.top, port: 2082, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.11.23, headers: {Host: 100-110-104-73.s5.db-link02.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.db-link01.top, port: 2095, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.46.32, headers: {Host: 100-43-194-69.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s1.cn-db.top, port: 8080, type: vmess, uuid: 48836833-3767-34cd-83a7-fa1eef51fb95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.202.88, headers: {Host: 100-187-128-37.s1.cn-db.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -102,22 +102,6 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kkgithub.com,DIRECT
-- DOMAIN-SUFFIX,bgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,dgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,fgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,hgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,igithub.xyz,DIRECT
-- DOMAIN-SUFFIX,jgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,lgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,4git.xyz,DIRECT
-- DOMAIN-SUFFIX,5git.xyz,DIRECT
-- DOMAIN-SUFFIX,6git.xyz,DIRECT
-- DOMAIN-SUFFIX,mgithub.xyz,DIRECT
-- DOMAIN-SUFFIX,ngithub.xyz,DIRECT
-- DOMAIN-SUFFIX,ogithub.xyz,DIRECT
-- DOMAIN-SUFFIX,pgithub.xyz,DIRECT
-- DOMAIN,hub.whtrys.space,DIRECT
 - DOMAIN-SUFFIX,arx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
