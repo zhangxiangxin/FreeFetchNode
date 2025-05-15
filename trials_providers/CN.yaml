@@ -64,4 +64,4 @@ proxies:
 - {name: 🇹🇼 台湾 CH 04 - M1NET, server: relay04.m5vip.net, port: 41114, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 01 - M1NET, server: relay01.m5vip.net, port: 12590, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 02 - M1NET, server: relay02.m5vip.net, port: 17476, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: ceffd0be-b873-3e0a-912a-f123a5e770a1, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: c0a5e63f-b22b-3f5e-9326-d891766cb204, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
