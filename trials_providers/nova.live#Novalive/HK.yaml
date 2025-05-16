@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 5fb4244f-3f1a-3045-bfaa-530ccf170621, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 5c95d838-35e3-336a-93f3-25510f008c61, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
