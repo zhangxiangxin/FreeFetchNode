@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 6a0862cb-7e17-35a4-83da-ea2d14e5b089, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: b9007de8-b40f-3945-b61c-feb95e97d20e, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
