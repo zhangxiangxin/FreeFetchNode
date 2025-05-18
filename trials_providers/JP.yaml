@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, tfo: true, type: vmess, uuid: eee08711-cfd3-34f6-91f1-e4c992024e84, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, tfo: true, type: vmess, uuid: eee08711-cfd3-34f6-91f1-e4c992024e84, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: eee08711-cfd3-34f6-91f1-e4c992024e84, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: eee08711-cfd3-34f6-91f1-e4c992024e84, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 9c3749e2-1fee-3eab-acdd-cf3bd37455b6, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 9c3749e2-1fee-3eab-acdd-cf3bd37455b6, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 9c3749e2-1fee-3eab-acdd-cf3bd37455b6, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
@@ -37,5 +37,5 @@ proxies:
 - {name: 🇯🇵 日本 CH 02 - M1NET, server: relay02.m5vip.net, port: 12401, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇯🇵 日本 CH 03 - M1NET, server: relay03.m5vip.net, port: 26509, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇯🇵 日本 CH 04 - M1NET, server: relay04.m5vip.net, port: 16604, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28450, type: trojan, password: b9007de8-b40f-3945-b61c-feb95e97d20e, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28449, type: trojan, password: b9007de8-b40f-3945-b61c-feb95e97d20e, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.40.60, port: 28450, type: trojan, password: d36e0cbb-31df-38aa-864d-7a3c2faa2950, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 47.245.31.103, port: 28449, type: trojan, password: d36e0cbb-31df-38aa-864d-7a3c2faa2950, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
