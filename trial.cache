@@ -13,7 +13,7 @@ time  2025-05-03 15:33:04.859301+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
@@ -23,7 +23,7 @@ email  hrzvkbdt974@gmail.com
 last_checkin  2025-05-19 00:41:22.262202+08:00
 name  大白
 node_n  7
-sub_info  116.6M  1T  2025-06-16 20:57:42+08:00  (剩余 1T 28 days, 19:22:01.277651)
+sub_info  116.6M  1T  2025-06-16 20:57:42+08:00  (剩余 1T 28 days, 18:15:04.029082)
 sub_url  https://cc.dabai.in/link/QSDyFMVeRAO1A6Pq?sub=3
 time  2025-05-17 20:57:43.826586+08:00
 type  sspanel
@@ -31,11 +31,11 @@ type  sspanel
 [uuvpn.cloud#UUVPN]
 api_host  uujiasu.com
 buy  pass
-email  qgedvmoh772@gmail.com
+email  kqdllqr905@gmail.com
 name  uu加速首页
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=ef5d34f737f1241a97d92b15016cd35e
-time  2025-05-19 01:35:43.390820+08:00
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=6b35cfe63c68231823646c3183b0c27c
+time  2025-05-19 02:42:33.085315+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -46,10 +46,11 @@ invite_code  e1bt  9999
 last_checkin  2025-05-19 00:41:22.265103+08:00
 name  飞翔吧
 node_n  46
-sub_info  718.8M  10.24G  2025-05-19 06:37:23+08:00  (剩余 9.535G 5:01:41.338889)
+sub_info  718.9M  10.24G  2025-05-19 06:37:23+08:00  (剩余 9.535G 3:54:49.955078)
 sub_url  http://175.178.9.20/link/wJgY8JNsc9m8BCYU?sub=3
 time  2025-05-18 06:37:24.989051+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -62,18 +63,19 @@ sub_info  0B  1.062G  2025-05-19 16:40:16+08:00  (剩余 1.062G 15:04:35.348828)
 sub_url  https://www.duguletian.com/link/wiDkwZLlq7pkV7wG?sub=3
 time  2025-05-18 16:40:18.043811+08:00
 type  sspanel
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  gwmqbgo498@gmail.com
-last_checkin  2025-05-19 01:35:41.659706+08:00
+email  fkejsiko384@gmail.com
+last_checkin  2025-05-19 02:42:32.702382+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.174G  2025-05-19 01:35:41+08:00  (剩余 1.174G -1 day, 23:59:56.507857)
-sub_url  https://new.gfw.news/link/K5CFPXfMrctS1NX4?sub=3
-time  2025-05-19 01:35:42.381517+08:00
+sub_info  0B  1.042G  2025-05-19 02:42:32+08:00  (剩余 1.042G -1 day, 23:59:58.091390)
+sub_url  https://new.gfw.news/link/C3Fhyjpkgg4YGswo?sub=3
+time  2025-05-19 02:42:33.233943+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
