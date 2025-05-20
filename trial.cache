@@ -13,8 +13,8 @@ time  2025-05-03 15:33:04.859301+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -23,7 +23,7 @@ email  thlonvvz418@gmail.com
 last_checkin  2025-05-20 00:46:50.991352+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-06-19 00:46:50+08:00  (剩余 1T 29 days, 12:04:27.098011)
+sub_info  0B  1T  2025-06-19 00:46:50+08:00  (剩余 1T 29 days, 11:06:41.704956)
 sub_url  https://cc.dabai.in/link/dkHfTjTl22Upu8zI?sub=3
 time  2025-05-20 00:46:51.978600+08:00
 type  sspanel
@@ -47,7 +47,7 @@ invite_code  rKM9  10000
 last_checkin  2025-05-20 12:42:47.803788+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.17G  2025-05-21 12:42:46+08:00  (剩余 10.17G 23:59:53.538979)
+sub_info  0B  10.17G  2025-05-21 12:42:46+08:00  (剩余 10.17G 23:02:36.865941)
 sub_url  http://175.178.9.20/link/DiT5jxrsJaXV8bRX?sub=3
 time  2025-05-20 12:42:48.948727+08:00
 type  sspanel
@@ -59,7 +59,7 @@ email  qciczbj97@bonusales.com
 last_checkin  2025-05-20 10:20:03.241809+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.026G  2025-05-21 10:20:02+08:00  (剩余 1.026G 21:37:38.994719)
+sub_info  0B  1.026G  2025-05-21 10:20:02+08:00  (剩余 1.026G 20:39:53.212281)
 sub_url  https://www.duguletian.com/link/5aBcS7rdmODyJllx?sub=3
 time  2025-05-20 10:20:03.820535+08:00
 type  sspanel
@@ -68,13 +68,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  iioacgsd950@gmail.com
-last_checkin  2025-05-20 12:42:24.136896+08:00
+email  tobkcdq433@gmail.com
+last_checkin  2025-05-20 13:40:10.153995+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.194G  2025-05-20 12:42:23+08:00  (剩余 1.194G -1 day, 23:59:56.907562)
-sub_url  https://new.gfw.news/link/CP70EsUkIZXWomws?sub=3
-time  2025-05-20 12:42:24.951724+08:00
+sub_info  0B  1.02G  2025-05-20 13:40:09+08:00  (剩余 1.02G -1 day, 23:59:52.632733)
+sub_url  https://new.gfw.news/link/RtzvNzwGNQIb2UsU?sub=3
+time  2025-05-20 13:40:10.736240+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
