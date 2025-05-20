@@ -13,7 +13,7 @@ time  2025-05-03 15:33:04.859301+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
@@ -23,7 +23,7 @@ email  thlonvvz418@gmail.com
 last_checkin  2025-05-20 00:46:50.991352+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-06-19 00:46:50+08:00  (剩余 1T 29 days, 14:26:54.663559)
+sub_info  0B  1T  2025-06-19 00:46:50+08:00  (剩余 1T 29 days, 13:18:24.759120)
 sub_url  https://cc.dabai.in/link/dkHfTjTl22Upu8zI?sub=3
 time  2025-05-20 00:46:51.978600+08:00
 type  sspanel
@@ -42,14 +42,14 @@ type  v2board
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc  tmpnator.live  mydefipet.live  smartnator.com
-email  ctxuhqct572@25ua.com
-invite_code  X8Vd  10000
-last_checkin  2025-05-20 06:40:39.865654+08:00
+email  himodnf27@mxl001.win
+invite_code  Jcda  10000
+last_checkin  2025-05-20 11:28:29.379346+08:00
 name  飞翔吧
 node_n  46
-sub_info  247.6M  10.16G  2025-05-21 06:40:38+08:00  (剩余 9.917G 20:20:47.679764)
-sub_url  http://175.178.9.20/link/n4GDO4hZVR3xw0Ko?sub=3
-time  2025-05-20 06:40:41.110051+08:00
+sub_info  0B  10.17G  2025-05-21 11:28:28+08:00  (剩余 10.17G 23:59:54.433922)
+sub_url  http://175.178.9.20/link/BskVQZFw3So2lobh?sub=3
+time  2025-05-20 11:28:30.560314+08:00
 type  sspanel
 
 [www.duguletian.com#独孤乐天]
@@ -59,7 +59,7 @@ email  qciczbj97@bonusales.com
 last_checkin  2025-05-20 10:20:03.241809+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.026G  2025-05-21 10:20:02+08:00  (剩余 1.026G 23:59:56.216750)
+sub_info  0B  1.026G  2025-05-21 10:20:02+08:00  (剩余 1.026G 22:51:42.698095)
 sub_url  https://www.duguletian.com/link/5aBcS7rdmODyJllx?sub=3
 time  2025-05-20 10:20:03.820535+08:00
 type  sspanel
@@ -68,14 +68,15 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  roenfux870@gmail.com
-last_checkin  2025-05-20 10:19:51.041235+08:00
+email  efnmilt712@gmail.com
+last_checkin  2025-05-20 11:28:21.902350+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.101G  2025-05-20 10:19:50+08:00  (剩余 1.101G -1 day, 23:59:53.240299)
-sub_url  https://new.gfw.news/link/7BHOLdcOq1kjOosx?sub=3
-time  2025-05-20 10:19:51.734087+08:00
+sub_info  0B  1.07G  2025-05-20 11:28:21+08:00  (剩余 1.07G -1 day, 23:59:56.280642)
+sub_url  https://new.gfw.news/link/5mGsF2M4A27Ehxdh?sub=3
+time  2025-05-20 11:28:22.639072+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
