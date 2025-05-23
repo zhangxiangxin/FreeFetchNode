@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 421051d2-09d1-3821-b2ec-14deac514ec2, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: qoi.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 421051d2-09d1-3821-b2ec-14deac514ec2, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: qfb.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 421051d2-09d1-3821-b2ec-14deac514ec2, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000高速 - NovaLive, server: 43.100.9.65, port: 443, type: trojan, password: 9445f063-fe24-32f2-b40c-45887fce84d4, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK001 香港高速 - NovaLive, server: qoi.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 9445f063-fe24-32f2-b40c-45887fce84d4, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK002 香港高速 - NovaLive, server: qfb.smp-paymentservices-apple.com, port: 8443, type: trojan, password: 9445f063-fe24-32f2-b40c-45887fce84d4, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
