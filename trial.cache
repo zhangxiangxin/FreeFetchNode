@@ -11,7 +11,7 @@ sub_info  147.8M  1.104G  2025-05-22 19:34:46+08:00  (剩余 983.2M -1 day, 23:5
 sub_url  https://network.ayucloud.nl/link/ZiFHP98iXIUQJlCx?clash=1
 time  2025-05-21 19:34:48.127995+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
@@ -21,7 +21,7 @@ email  kxuqoaga384@gmail.com
 last_checkin  2025-05-25 00:41:45.788057+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-06-24 00:41:45+08:00  (剩余 1T 29 days, 20:05:03.148958)
+sub_info  0B  1T  2025-06-24 00:41:45+08:00  (剩余 1T 29 days, 19:08:17.206589)
 sub_url  https://cc.dabai.in/link/ClSVvfOOSBnkZuQ6?sub=3
 time  2025-05-25 00:41:46.761746+08:00
 type  sspanel
@@ -29,11 +29,11 @@ type  sspanel
 [uuvpn.cloud#UUVPN]
 api_host  vip.uujiasu.com
 buy  pass
-email  krubsai491@gmail.com
+email  qxdjmwg955@gmail.com
 name  uu加速首页
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=938f8dc92df2a2a5546dfb646f97d681
-time  2025-05-25 04:36:46.615220+08:00
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=2b71c176e57086ec953a9485d705fcb9
+time  2025-05-25 05:33:36.095276+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -44,7 +44,7 @@ invite_code  0jwD  10000
 last_checkin  2025-05-25 04:36:54.530410+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.19G  2025-05-26 04:36:53+08:00  (剩余 10.19G 23:59:51.734446)
+sub_info  0B  10.19G  2025-05-26 04:36:53+08:00  (剩余 10.19G 23:03:25.487561)
 sub_url  http://175.178.9.20/link/F42iqeQSIehAmJ1c?sub=3
 time  2025-05-25 04:36:55.844288+08:00
 type  sspanel
@@ -56,7 +56,7 @@ email  khnljarma930@guerrillamail.de
 last_checkin  2025-05-25 00:41:42.277760+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.044G  2025-05-25 22:37:13+08:00  (剩余 1.044G 18:00:31.052006)
+sub_info  0B  1.044G  2025-05-25 22:37:13+08:00  (剩余 1.044G 17:03:46.455978)
 sub_url  https://www.duguletian.com/link/O0e3r1OxsbhYsUa1?sub=3
 time  2025-05-24 22:37:14.463517+08:00
 type  sspanel
@@ -65,14 +65,15 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  mckxgyk824@gmail.com
-last_checkin  2025-05-25 04:36:41.924170+08:00
+email  yzplity689@gmail.com
+last_checkin  2025-05-25 05:33:28.453487+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.02G  2025-05-25 04:36:41+08:00  (剩余 1.02G -1 day, 23:59:56.499759)
-sub_url  https://new.gfw.news/link/qJAmm3enluEYphkK?sub=3
-time  2025-05-25 04:36:42.431656+08:00
+sub_info  0B  1.16G  2025-05-25 05:33:28+08:00  (剩余 1.16G -1 day, 23:59:56.406174)
+sub_url  https://new.gfw.news/link/1jngz7Wx4faVrhP5?sub=3
+time  2025-05-25 05:33:29.111750+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
