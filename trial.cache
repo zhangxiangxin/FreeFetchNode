@@ -14,7 +14,7 @@ type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcebcaf2020>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f611c7746d0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -23,22 +23,21 @@ email  odpwlikh884@gmail.com
 last_checkin  2025-05-30 18:41:58.921808+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-06-29 18:41:58+08:00  (剩余 1T 29 days, 20:57:40.395725)
+sub_info  0B  1T  2025-06-29 18:41:58+08:00  (剩余 1T 29 days, 20:00:44.607013)
 sub_url  https://cc.dabai.in/link/B4dkwznXbRHRb3tU?sub=3
 time  2025-05-30 18:42:00.136079+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [uuvpn.cloud#UUVPN]
 api_host  vip.uujiasu.com
 buy  pass
-email  icgdpms41@gmail.com
+email  jdnafqxb425@gmail.com
 name  uu加速首页
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=8c09dd57e7cc4254ec1fb9941747bcd9
-time  2025-05-30 21:44:19.316889+08:00
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=967c4321ad2413452cdf9c5efd69d177
+time  2025-05-30 22:41:17.593734+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc  tmpnator.live  mydefipet.live  smartnator.com
@@ -47,7 +46,7 @@ invite_code  1XJ3  9999
 last_checkin  2025-05-30 18:42:09.498008+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.1G  2025-05-31 18:42:09+08:00  (剩余 10.1G 20:57:49.193758)
+sub_info  0B  10.1G  2025-05-31 18:42:09+08:00  (剩余 10.1G 20:00:50.488252)
 sub_url  http://175.178.9.20/link/kV2ak7bybL2BOCcX?sub=3
 time  2025-05-30 18:42:10.813927+08:00
 type  sspanel
@@ -55,27 +54,26 @@ type  sspanel
 [www.duguletian.com#独孤乐天]
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc  psnator.com  xxxhi.cc  wfes.site  mail.shouyou789.com  youxiang.dev  mail.wvwvw.tech  linshiyou.com  mydefipet.live  tmpnator.live  smartnator.com  guerrillamail.biz  femailtor.com
-email  jfgtrcrot205@25ua.com
-last_checkin  2025-05-30 21:04:05.490116+08:00
+email  fonvnrhj980@guerrillamail.com
+last_checkin  2025-05-30 22:41:34.541481+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.025G  2025-05-31 21:04:04+08:00  (剩余 1.025G 23:59:56.931047)
-sub_url  https://www.duguletian.com/link/uRhTcUxCqY8JE8Uf?sub=3
-time  2025-05-30 21:04:06.252901+08:00
+sub_info  0B  1.015G  2025-05-31 22:41:33+08:00  (剩余 1.015G 23:59:56.111419)
+sub_url  https://www.duguletian.com/link/3jcNbo81saQ4b3dt?sub=3
+time  2025-05-30 22:41:35.229239+08:00
 type  sspanel
-更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  jihvodvnt435@gmail.com
-last_checkin  2025-05-30 21:44:17.219703+08:00
+email  imjnkecoj519@gmail.com
+last_checkin  2025-05-30 22:41:14.542150+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.118G  2025-05-30 21:44:16+08:00  (剩余 1.118G -1 day, 23:59:57.283122)
-sub_url  https://new.gfw.news/link/el3YwOBy9J5J6G6W?sub=3
-time  2025-05-30 21:44:17.853669+08:00
+sub_info  0B  1.165G  2025-05-30 22:41:14+08:00  (剩余 1.165G -1 day, 23:59:53.302972)
+sub_url  https://new.gfw.news/link/rKuXpDCXjuL2FhmS?sub=3
+time  2025-05-30 22:41:15.031589+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -89,4 +87,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1017)')))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1017)')))
