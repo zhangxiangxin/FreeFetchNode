@@ -41,4 +41,4 @@ proxies:
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 1b217a0a-a91b-398a-a538-4d3fda9c5dc2, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 1b217a0a-a91b-398a-a538-4d3fda9c5dc2, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 1b217a0a-a91b-398a-a538-4d3fda9c5dc2, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: b94475ca-d9b4-3063-8336-cee373383eb5, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, tfo: true, type: trojan, password: 4d29ead4-59c8-3025-9432-ae6e693676a6, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
