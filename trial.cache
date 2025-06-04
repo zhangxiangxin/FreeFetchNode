@@ -12,7 +12,7 @@ sub_url  https://network.ayucloud.nl/link/1vUPUJux7TwDaMlb?clash=1
 time  2025-06-03 13:41:28.793097+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f475569a680>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a80e272e0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -21,7 +21,7 @@ email  vhxahwz900@gmail.com
 last_checkin  2025-06-04 00:48:23.361075+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-07-03 23:41:35+08:00  (剩余 1T 29 days, 0:38:38.844825)
+sub_info  0B  1T  2025-07-03 23:41:35+08:00  (剩余 1T 28 days, 23:47:46.612941)
 sub_url  https://cc.dabai.in/link/nlqvcKKUih2z4A2i?sub=3
 time  2025-06-03 23:41:36.696301+08:00
 type  sspanel
@@ -29,11 +29,11 @@ type  sspanel
 [uuvpn.cloud#UUVPN]
 api_host  vip.uujiasu.com
 buy  pass
-email  dctjtjh158@gmail.com
+email  mmecpgn957@gmail.com
 name  uu加速首页
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=01709fec3e50b1458395f53b84124896
-time  2025-06-04 23:03:00.897340+08:00
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=472edfd3738ded19cc25282f42fd65ee
+time  2025-06-04 23:53:52.850933+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -44,7 +44,7 @@ invite_code  wPcE  10000
 last_checkin  2025-06-04 16:46:30.011794+08:00
 name  飞翔吧
 node_n  46
-sub_info  1015M  10.12G  2025-06-05 16:46:27+08:00  (剩余 9.132G 17:42:49.772512)
+sub_info  1015M  10.12G  2025-06-05 16:46:27+08:00  (剩余 9.132G 16:52:35.878733)
 sub_url  http://175.178.9.20/link/57ZmJQnogQkUJqPh?sub=3
 time  2025-06-04 16:46:32.082269+08:00
 type  sspanel
@@ -56,7 +56,7 @@ email  fcegjduof632@bccto.cc
 last_checkin  2025-06-04 21:08:28.678253+08:00
 name  独孤乐天
 node_n  4
-sub_info  14.33K  1.009G  2025-06-05 21:08:27+08:00  (剩余 1.009G 22:05:12.263677)
+sub_info  14.33K  1.009G  2025-06-05 21:08:27+08:00  (剩余 1.009G 21:14:39.131807)
 sub_url  https://www.duguletian.com/link/m2SJzeASteSJkikR?sub=3
 time  2025-06-04 21:08:29.325948+08:00
 type  sspanel
@@ -65,13 +65,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  qaisvjk708@gmail.com
-last_checkin  2025-06-04 23:03:10.344676+08:00
+email  ahgbyxfz824@gmail.com
+last_checkin  2025-06-04 23:53:51.620788+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.105G  2025-06-04 23:03:10+08:00  (剩余 1.105G -1 day, 23:59:58.415148)
-sub_url  https://new.gfw.news/link/8HREeN8I7ngQGVy6?sub=3
-time  2025-06-04 23:03:10.870969+08:00
+sub_info  0B  1.147G  2025-06-04 23:53:51+08:00  (剩余 1.147G -1 day, 23:59:51.407920)
+sub_url  https://new.gfw.news/link/Af4vIGWeXShzZgHc?sub=3
+time  2025-06-04 23:53:52.193519+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
