@@ -12,30 +12,30 @@ sub_url  https://network.ayucloud.nl/link/1vUPUJux7TwDaMlb?clash=1
 time  2025-06-03 13:41:28.793097+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0c044dc190>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe3b427a110>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  vhxahwz900@gmail.com
-last_checkin  2025-06-05 00:43:45.199689+08:00
+email  ckeszlaiy5@gmail.com
+last_checkin  2025-06-05 04:32:41.304197+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-07-03 23:41:35+08:00  (剩余 1T 28 days, 20:09:14.428419)
-sub_url  https://cc.dabai.in/link/nlqvcKKUih2z4A2i?sub=3
-time  2025-06-03 23:41:36.696301+08:00
+sub_info  0B  1T  2025-07-05 04:32:41+08:00  (剩余 1T 29 days, 23:59:56.971676)
+sub_url  https://cc.dabai.in/link/ERtBsd3sEmGqgtc3?sub=3
+time  2025-06-05 04:32:42.406678+08:00
 type  sspanel
 
 [uuvpn.cloud#UUVPN]
 api_host  vip.uujiasu.com
 buy  pass
-email  ydhrlhnbf913@gmail.com
+email  owimwfz48@gmail.com
 name  uu加速首页
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=4e958c8e836c23dadd5d1259db567aa4
-time  2025-06-05 03:32:17.516441+08:00
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=6b7e38d64ffa62b7bc1a1c2e4670ce20
+time  2025-06-05 04:32:50.666787+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc  tmpnator.live  mydefipet.live  smartnator.com  guerrillamail.biz
@@ -44,7 +44,7 @@ invite_code  wPcE  10000
 last_checkin  2025-06-04 16:46:30.011794+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.005G  10.12G  2025-06-05 16:46:27+08:00  (剩余 9.118G 13:14:09.330283)
+sub_info  1.006G  10.12G  2025-06-05 16:46:27+08:00  (剩余 9.117G 12:13:39.918994)
 sub_url  http://175.178.9.20/link/57ZmJQnogQkUJqPh?sub=3
 time  2025-06-04 16:46:32.082269+08:00
 type  sspanel
@@ -57,7 +57,7 @@ email  fcegjduof632@bccto.cc
 last_checkin  2025-06-05 00:43:45.202102+08:00
 name  独孤乐天
 node_n  4
-sub_info  14.33K  1.022G  2025-06-05 21:08:27+08:00  (剩余 1.022G 17:36:12.124040)
+sub_info  14.33K  1.022G  2025-06-05 21:08:27+08:00  (剩余 1.022G 16:35:30.624394)
 sub_url  https://www.duguletian.com/link/m2SJzeASteSJkikR?sub=3
 time  2025-06-04 21:08:29.325948+08:00
 type  sspanel
@@ -66,13 +66,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  zsldqlzqm179@gmail.com
-last_checkin  2025-06-05 03:32:15.756182+08:00
+email  lwlskgdyp194@gmail.com
+last_checkin  2025-06-05 04:32:41.525307+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.169G  2025-06-05 03:32:15+08:00  (剩余 1.169G -1 day, 23:59:48.327054)
-sub_url  https://new.gfw.news/link/1RspZT4IvDOE47rG?sub=3
-time  2025-06-05 03:32:16.350454+08:00
+sub_info  0B  1.051G  2025-06-05 04:32:41+08:00  (剩余 1.051G -1 day, 23:59:55.130098)
+sub_url  https://new.gfw.news/link/ibtPUuym3jstQ0SL?sub=3
+time  2025-06-05 04:32:42.051868+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
