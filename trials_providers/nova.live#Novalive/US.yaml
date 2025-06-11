@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: aa709df0-b50a-3de2-9ea2-1432b79dff40, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 447, type: trojan, password: 80d26d67-418c-3027-8677-041dc2eb85a6, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
