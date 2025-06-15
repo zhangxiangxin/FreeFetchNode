@@ -12,7 +12,7 @@ sub_url  https://network.ayucloud.nl/link/Y91Rk5DzkZerZF37?clash=1
 time  2025-06-10 23:39:54.537517+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f928cf698a0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f32247f3e50>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -21,20 +21,19 @@ email  tvsnwsm4@gmail.com
 last_checkin  2025-06-15 00:42:05.912743+08:00
 name  大白
 node_n  7
-sub_info  8.696M  1T  2025-07-14 20:59:25+08:00  (剩余 1T 29 days, 7:18:42.182670)
+sub_info  8.696M  1T  2025-07-14 20:59:25+08:00  (剩余 1T 29 days, 6:14:20.977311)
 sub_url  https://cc.dabai.in/link/ibjSJkyNuAhWxbMQ?sub=3
 time  2025-06-14 20:59:26.753909+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
 [uuvpn.cloud#UUVPN]
 api_host  vip.uujiasu.com
 buy  pass
-email  frhfzyv513@gmail.com
+email  lpyqbqsl821@gmail.com
 name  uu加速首页
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=1b2ea03d95a735cfbfab039b1cd85b8c
-time  2025-06-15 13:40:51.651277+08:00
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=b528e2ea238bbb2092db0705fde9d906
+time  2025-06-15 14:45:07.127011+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -59,7 +58,7 @@ email  nlrgcwj302@965.tmmad.com
 last_checkin  2025-06-15 12:48:38.316437+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.015G  2025-06-16 12:48:37+08:00  (剩余 1.015G 23:07:47.961548)
+sub_info  0B  1.015G  2025-06-16 12:48:37+08:00  (剩余 1.015G 22:03:31.107682)
 sub_url  https://www.duguletian.com/link/5yqPxttgTDI38N8S?sub=3
 time  2025-06-15 12:48:38.902664+08:00
 type  sspanel
@@ -68,14 +67,15 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  udadxdx133@gmail.com
-last_checkin  2025-06-15 13:40:44.132205+08:00
+email  txqzkjidr293@gmail.com
+last_checkin  2025-06-15 14:45:04.258764+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.153G  2025-06-15 13:40:43+08:00  (剩余 1.153G -1 day, 23:59:54.978006)
-sub_url  https://new.gfw.news/link/Jjw5rSRs5S8vPEEY?sub=3
-time  2025-06-15 13:40:44.641229+08:00
+sub_info  0B  1.09G  2025-06-15 14:45:03+08:00  (剩余 1.09G -1 day, 23:59:57.010331)
+sub_url  https://new.gfw.news/link/3liknSaBlABSjRop?sub=3
+time  2025-06-15 14:45:04.759200+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -88,4 +88,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f928cf6acb0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3224613850>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
