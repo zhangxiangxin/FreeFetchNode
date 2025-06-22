@@ -4,15 +4,16 @@ auto_invite  F
 banned_domains  lista.cc  snapmail.cc  555.vtnli.shop  xxxhi.cc  zz.wgfkq.shop  spam4.me  psnator.com  smartnator.com
 buy  pass
 email  qseexkjk239@ipiso.tmmad.com
-last_checkin  2025-06-11 15:37:41.838298+08:00
+last_checkin  2025-06-22 18:40:39.491494+08:00
 name  AyucLouD-Services
 node_n  99
 sub_info  9.179M  1.787G  2025-06-11 23:39:53+08:00  (剩余 1.778G -1 day, 23:59:23.814346)
 sub_url  https://ayucloud.services/link/Y91Rk5DzkZerZF37?clash=1
 time  2025-06-10 23:39:54.537517+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/Y91Rk5DzkZerZF37?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f9944e27280>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n'
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -21,7 +22,7 @@ email  mppwezzh734@gmail.com
 last_checkin  2025-06-22 16:41:58.321587+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-07-22 16:41:58+08:00  (剩余 1T 29 days, 23:04:27.836105)
+sub_info  0B  1T  2025-07-22 16:41:58+08:00  (剩余 1T 29 days, 22:01:15.665555)
 sub_url  https://cc.dabai.in/link/WDdDhSSNsx60OGqG?sub=3
 time  2025-06-22 16:41:59.568551+08:00
 type  sspanel
@@ -29,13 +30,13 @@ type  sspanel
 [uuvpn.cloud#UUVPN]
 api_host  vip.uujiasu.com
 buy  pass
-email  ohzspiwgv132@gmail.com
+email  amhwfsctv241@gmail.com
 name  uu加速首页
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=af39706a3ceeb94813a3744a1a2dad9c
-time  2025-06-22 17:37:33.610538+08:00
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=09c6bfae88e26a99837f5ee507d812e9
+time  2025-06-22 18:40:53.229016+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [2.flybar20.cc]
 banned_domains  tmail.ws  tmpmail.org  tmails.net  disbox.net  moakt.ws  moakt.co  lista.cc  tmpmail.net  bareed.ws  psnator.com  disbox.org  snapmail.cc  xxxhi.cc  tmpnator.live  mydefipet.live  smartnator.com  guerrillamail.biz
@@ -58,7 +59,7 @@ email  krrviou448@jkd.tmmad.com
 last_checkin  2025-06-22 00:44:35.082495+08:00
 name  独孤乐天
 node_n  4
-sub_info  17.99M  1.064G  2025-06-22 20:59:55+08:00  (剩余 1.047G 3:22:23.760373)
+sub_info  18.01M  1.064G  2025-06-22 20:59:55+08:00  (剩余 1.047G 2:19:11.934661)
 sub_url  https://www.duguletian.com/link/eoeZ1j5prBeq5EPH?sub=3
 time  2025-06-21 20:59:56.865984+08:00
 type  sspanel
@@ -67,13 +68,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  bzrpyoum746@gmail.com
-last_checkin  2025-06-22 17:37:34.178303+08:00
+email  fiyubhsr831@gmail.com
+last_checkin  2025-06-22 18:40:42.747581+08:00
 name  NovaLive
 node_n  6
-sub_info  0B  1.029G  2025-06-22 17:37:33+08:00  (剩余 1.029G -1 day, 23:59:53.663276)
-sub_url  https://new.gfw.news/link/XkAs150Sp6ckdLv1?sub=3
-time  2025-06-22 17:37:34.786274+08:00
+sub_info  0B  1.068G  2025-06-22 18:40:42+08:00  (剩余 1.068G -1 day, 23:59:56.812276)
+sub_url  https://new.gfw.news/link/7FP5baR2BaunJFPa?sub=3
+time  2025-06-22 18:40:43.205862+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -87,4 +88,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9957614310>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f87d43380d0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
