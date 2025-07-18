@@ -4,14 +4,13 @@ auto_invite  F
 banned_domains  lista.cc  snapmail.cc  555.vtnli.shop  xxxhi.cc  zz.wgfkq.shop  spam4.me  psnator.com  smartnator.com  mydefipet.live
 buy  pass
 email  owmnuonbz585@teihu.com
-last_checkin  2025-07-18 22:46:18.785159+08:00
+last_checkin  2025-07-19 01:42:33.552979+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.093G  2025-07-19 22:46:18+08:00  (剩余 1.093G 21:55:39.365331)
+sub_info  0B  1.826G  2025-07-19 22:46:18+08:00  (剩余 1.826G 21:03:40.209269)
 sub_url  https://network.ayucloud.nl/link/8Ne6roG9HJdnlVIJ?clash=1
 time  2025-07-18 22:46:19.729208+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -20,7 +19,7 @@ email  dmxahlogp924@gmail.com
 last_checkin  2025-07-19 00:50:34.467737+08:00
 name  大白
 node_n  7
-sub_info  6.947M  1T  2025-08-17 19:37:48+08:00  (剩余 1T 29 days, 18:47:09.546192)
+sub_info  6.947M  1T  2025-08-17 19:37:48+08:00  (剩余 1T 29 days, 17:55:12.858228)
 sub_url  http://cc.dabai.in/link/H0oedaa5moO1STdv?sub=3
 time  2025-07-18 19:37:50.076350+08:00
 type  sspanel
@@ -28,11 +27,11 @@ type  sspanel
 [uuvpn.cloud#UUVPN]
 api_host  vip.uujiasu.com
 buy  pass
-email  reqqumrt696@gmail.com
+email  gyxyrec801@gmail.com
 name  uu加速首页
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=daabb4e67df5af939885ca4c9f2baa2f
-time  2025-07-19 00:50:39.741567+08:00
+sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=00f7bb6fd4c07e73fa17cb8e47f62efb
+time  2025-07-19 01:42:42.832603+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -47,8 +46,8 @@ sub_info  4.018G  10.12G  2025-06-05 16:46:27+08:00  (剩余 6.105G 0:01:19.6119
 sub_url  https://2.flybar20.cc/link/57ZmJQnogQkUJqPh?sub=3
 time  2025-06-04 16:46:32.082269+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fec0fb33c40>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fec0f9542e0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff2dc6db940>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /link/57ZmJQnogQkUJqPh?sub=3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff2c8e5e6e0>: Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -57,7 +56,7 @@ email  kjcterf558@pastryofistanbul.com
 last_checkin  2025-07-19 00:50:34.472586+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.059G  2025-07-19 19:40:05+08:00  (剩余 1.059G 18:49:26.731398)
+sub_info  0B  1.059G  2025-07-19 19:40:05+08:00  (剩余 1.059G 17:57:30.472751)
 sub_url  https://www.duguletian.com/link/q1yWgYrKZxNOFTn2?sub=3
 time  2025-07-18 19:40:07.115212+08:00
 type  sspanel
@@ -66,13 +65,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  zdjtmtsu465@gmail.com
-last_checkin  2025-07-19 00:50:37.810603+08:00
+email  cqbaoej739@gmail.com
+last_checkin  2025-07-19 01:42:42.912766+08:00
 name  NovaLive
 node_n  4
-sub_info  0B  1.138G  2025-07-19 00:50:37+08:00  (剩余 1.138G -1 day, 23:59:57.933214)
-sub_url  https://new.gfw.news/link/vtOQmh4nWSWdY7qC?sub=3
-time  2025-07-19 00:50:38.359208+08:00
+sub_info  0B  1.122G  2025-07-19 01:42:42+08:00  (剩余 1.122G -1 day, 23:59:56.741985)
+sub_url  https://new.gfw.news/link/z8VViUFFjr7EdnUg?sub=3
+time  2025-07-19 01:42:43.439059+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -86,4 +85,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fec0c639360>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff2c8e5fdc0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
