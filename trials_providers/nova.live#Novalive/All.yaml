@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG000 新加坡 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 9c81e514-560a-3269-9234-74ee731cebc5, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡0.5倍 - NovaLive, server: 7nc1ui24.0ripz4lj.aliyungslb.com, port: 443, type: trojan, password: 9c81e514-560a-3269-9234-74ee731cebc5, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: f5bf229a-8517-38ca-ba68-c2220592c57b, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡0.5倍 - NovaLive, server: 7nc1ui24.0ripz4lj.aliyungslb.com, port: 443, type: trojan, password: f5bf229a-8517-38ca-ba68-c2220592c57b, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
