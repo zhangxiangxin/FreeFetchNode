@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 HK010高速 - NovaLive, server: push04.endpoint.smp-paymentservices-apple.com, port: 23452, type: trojan, password: 17ceb8e4-4135-3ccd-8e73-593deb541869, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
