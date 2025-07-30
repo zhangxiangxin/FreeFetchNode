@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 34b65ec3-c007-3bfd-bc6f-8664ae57108e, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 7nc1ui24.0ripz4lj.aliyungslb.com, port: 443, type: trojan, password: 34b65ec3-c007-3bfd-bc6f-8664ae57108e, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: a9bb519e-a547-3831-bf44-21be4f0a1c1b, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 7nc1ui24.0ripz4lj.aliyungslb.com, port: 443, type: trojan, password: a9bb519e-a547-3831-bf44-21be4f0a1c1b, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
