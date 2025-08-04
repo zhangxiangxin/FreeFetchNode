@@ -7,7 +7,7 @@ email  bwzvkkj839@guerrillamail.com
 last_checkin  2025-08-04 07:40:33.464565+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  525.3K  1.242G  2025-08-05 07:40:33+08:00  (剩余 1.242G 19:02:51.681137)
+sub_info  525.3K  1.242G  2025-08-05 07:40:33+08:00  (剩余 1.242G 17:44:39.711751)
 sub_url  https://network.ayucloud.nl/link/huaFvx95V3rns1vu?clash=1
 time  2025-08-04 07:40:34.368421+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  ntbsfaml127@gmail.com
 last_checkin  2025-08-04 10:56:34.899974+08:00
 name  大白
 node_n  7
-sub_info  36.47M  1T  2025-09-02 04:40:17+08:00  (剩余 1T 28 days, 16:02:45.431281)
+sub_info  36.47M  1T  2025-09-02 04:40:17+08:00  (剩余 1T 28 days, 14:44:19.421254)
 sub_url  http://cc.dabai.in/link/5ZGEn4AxZGrfBvrX?sub=3
 time  2025-08-03 04:40:19.207578+08:00
 type  sspanel
@@ -31,22 +31,23 @@ email  wwuzmtf371@pastryofistanbul.com
 last_checkin  2025-08-04 00:46:34.404820+08:00
 name  独孤乐天
 node_n  4
-sub_info  0B  1.083G  2025-08-04 21:07:42+08:00  (剩余 1.083G 8:30:10.396170)
+sub_info  0B  1.083G  2025-08-04 21:07:42+08:00  (剩余 1.083G 7:11:50.050060)
 sub_url  https://www.duguletian.com/link/vQmHiuREqwioLUVB?sub=3
 time  2025-08-03 21:07:44.170078+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  jqvujpcts216@gmail.com
-last_checkin  2025-08-04 12:37:31.689779+08:00
+email  pdpgzrpi528@gmail.com
+last_checkin  2025-08-04 13:55:52.084005+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.038G  2025-08-04 12:37:31+08:00  (剩余 1.038G -1 day, 23:59:56.985870)
-sub_url  https://new.gfw.news/link/EAM2gIfcDZUUoCvn?sub=3
-time  2025-08-04 12:37:32.197186+08:00
+sub_info  0B  1.165G  2025-08-04 13:55:51+08:00  (剩余 1.165G -1 day, 23:59:52.139578)
+sub_url  https://new.gfw.news/link/zDz5hCzwTCIv5IOn?sub=3
+time  2025-08-04 13:55:52.657550+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -60,4 +61,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4f2819b790>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd5a8eb2ef0>: Failed to resolve 'zzy1.tuijianlianmeng.top' ([Errno -2] Name or service not known)"))
