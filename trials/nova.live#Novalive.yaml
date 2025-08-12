@@ -85,9 +85,9 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: 9cd29330-aa16-3640-9e81-d28ecfff9fbc, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 9cd29330-aa16-3640-9e81-d28ecfff9fbc, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 9cd29330-aa16-3640-9e81-d28ecfff9fbc, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: b311e65a-3fc3-3c55-8928-bf2e42e41af1, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: b311e65a-3fc3-3c55-8928-bf2e42e41af1, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: b311e65a-3fc3-3c55-8928-bf2e42e41af1, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1898,8 +1898,8 @@ rules:
 - DOMAIN-SUFFIX,client-api.arkoselabs.com,🤖 ‍AI
 - DOMAIN-SUFFIX,copilot.cloud.microsoft,🤖 ‍AI
 - DOMAIN-SUFFIX,copilot.microsoft.com,🤖 ‍AI
-- DOMAIN-SUFFIX,curosr.com,🤖 ‍AI
-- DOMAIN-SUFFIX,curosr.sh,🤖 ‍AI
+- DOMAIN-SUFFIX,cursor.com,🤖 ‍AI
+- DOMAIN-SUFFIX,cursor.sh,🤖 ‍AI
 - DOMAIN-SUFFIX,events.statsigapi.net,🤖 ‍AI
 - DOMAIN-SUFFIX,featuregates.org,🤖 ‍AI
 - DOMAIN-SUFFIX,gemini.google.com,🤖 ‍AI
