@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: 2696fb5c-032d-33e0-a1e5-2dcc2b0f889d, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 2696fb5c-032d-33e0-a1e5-2dcc2b0f889d, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: b0bdb748-181a-3513-b1fd-7958d43dd528, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: b0bdb748-181a-3513-b1fd-7958d43dd528, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 CH 03 - M1NET, server: relay03.m5vip.net, port: 19706, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇸🇬 新加坡 CH 04 - M1NET, server: relay04.m5vip.net, port: 47936, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇸🇬 新加坡 CH 01 - M1NET, server: relay01.m5vip.net, port: 36597, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
