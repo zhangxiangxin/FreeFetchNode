@@ -74,8 +74,6 @@ proxy-groups:
   - 🇹🇼 Video 台湾D-标准 - AyucLouD-Services
   - 🇹🇼 Video 台湾E-解锁 - AyucLouD-Services
   - 🇹🇼 Web 台湾I-标准 - AyucLouD-Services
-  - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇸🇬 新加坡 CH 03 - M1NET
   - 🇸🇬 新加坡 CH 04 - M1NET
   - 🇸🇬 新加坡 CH 01 - M1NET
@@ -90,7 +88,8 @@ proxy-groups:
   - 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services
   - 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services
   - 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services
-  - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇯🇵 日本 AK 01 - M1NET
   - 🇯🇵 日本 AK 03 - M1NET
   - 🇯🇵 日本 AK 02 - M1NET
@@ -99,8 +98,6 @@ proxy-groups:
   - 🇯🇵 日本 CH 02 - M1NET
   - 🇯🇵 日本 CH 03 - M1NET
   - 🇯🇵 日本 CH 04 - M1NET
-  - 🇯🇵 日本 AWS *3 - 独孤乐天
-  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
   - 🇯🇵 Game 日本01-标准 - AyucLouD-Services
   - 🇯🇵 Game 日本02-标准 - AyucLouD-Services
   - 🇯🇵 Game 日本03-标准 - AyucLouD-Services
@@ -115,6 +112,9 @@ proxy-groups:
   - 🇯🇵 Video 日本B-解锁 - AyucLouD-Services
   - 🇯🇵 Video 日本C-原生 - AyucLouD-Services
   - 🇯🇵 Web 日本I-标准 - AyucLouD-Services
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇺🇸 美国 BA 03 - M1NET
   - 🇺🇸 美国 BA 04 - M1NET
   - 🇺🇸 美国 BA 01 - M1NET
@@ -123,8 +123,6 @@ proxy-groups:
   - 🇺🇸 美国 AK 04 - M1NET
   - 🇺🇸 美国 AK 01 - M1NET
   - 🇺🇸 美国 AK 02 - M1NET
-  - 🇺🇸 美国 AWS *1 - 独孤乐天
-  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
   - 🇺🇸 Game 美国01-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国02-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国03-标准 - AyucLouD-Services
@@ -137,6 +135,8 @@ proxy-groups:
   - 🇺🇸 Web 美国I-标准 - AyucLouD-Services
   - 🇺🇸 Web 美国II-标准 - AyucLouD-Services
   - 🇺🇸 Web 美国III-标准 - AyucLouD-Services
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
   - CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
@@ -357,8 +357,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇸🇬 新加坡 CH 03 - M1NET
   - 🇸🇬 新加坡 CH 04 - M1NET
   - 🇸🇬 新加坡 CH 01 - M1NET
@@ -373,13 +371,14 @@ proxy-groups:
   - 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services
   - 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services
   - 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services
+  - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇯🇵 日本 AK 01 - M1NET
   - 🇯🇵 日本 AK 03 - M1NET
   - 🇯🇵 日本 AK 02 - M1NET
@@ -388,8 +387,6 @@ proxy-groups:
   - 🇯🇵 日本 CH 02 - M1NET
   - 🇯🇵 日本 CH 03 - M1NET
   - 🇯🇵 日本 CH 04 - M1NET
-  - 🇯🇵 日本 AWS *3 - 独孤乐天
-  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
   - 🇯🇵 Game 日本01-标准 - AyucLouD-Services
   - 🇯🇵 Game 日本02-标准 - AyucLouD-Services
   - 🇯🇵 Game 日本03-标准 - AyucLouD-Services
@@ -404,6 +401,9 @@ proxy-groups:
   - 🇯🇵 Video 日本B-解锁 - AyucLouD-Services
   - 🇯🇵 Video 日本C-原生 - AyucLouD-Services
   - 🇯🇵 Web 日本I-标准 - AyucLouD-Services
+  - 🇯🇵 日本 AWS *3 - 独孤乐天
+  - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -418,8 +418,6 @@ proxy-groups:
   - 🇺🇸 美国 AK 04 - M1NET
   - 🇺🇸 美国 AK 01 - M1NET
   - 🇺🇸 美国 AK 02 - M1NET
-  - 🇺🇸 美国 AWS *1 - 独孤乐天
-  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
   - 🇺🇸 Game 美国01-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国02-原生 - AyucLouD-Services
   - 🇺🇸 Game 美国03-标准 - AyucLouD-Services
@@ -432,6 +430,8 @@ proxy-groups:
   - 🇺🇸 Web 美国I-标准 - AyucLouD-Services
   - 🇺🇸 Web 美国II-标准 - AyucLouD-Services
   - 🇺🇸 Web 美国III-标准 - AyucLouD-Services
+  - 🇺🇸 美国 AWS *1 - 独孤乐天
+  - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
   - CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
@@ -525,25 +525,6 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: a5c53e69-50a6-35a2-b177-cdc3aa615a1e, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: a5c53e69-50a6-35a2-b177-cdc3aa615a1e, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: a5c53e69-50a6-35a2-b177-cdc3aa615a1e, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AK 01 - M1NET, server: relay01.m5vip.net, port: 35347, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 日本 AK 03 - M1NET, server: relay03.m5vip.net, port: 14645, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 日本 AK 02 - M1NET, server: relay02.m5vip.net, port: 19561, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 日本 AK 04 - M1NET, server: relay04.m5vip.net, port: 16701, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 日本 CH 01 - M1NET, server: relay01.m5vip.net, port: 40047, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 日本 CH 02 - M1NET, server: relay02.m5vip.net, port: 12401, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 日本 CH 03 - M1NET, server: relay03.m5vip.net, port: 26509, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 日本 CH 04 - M1NET, server: relay04.m5vip.net, port: 16604, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡 CH 03 - M1NET, server: relay03.m5vip.net, port: 19706, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡 CH 04 - M1NET, server: relay04.m5vip.net, port: 47936, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡 CH 01 - M1NET, server: relay01.m5vip.net, port: 36597, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡 CH 02 - M1NET, server: relay02.m5vip.net, port: 54286, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡 BA 03 - M1NET, server: relay03.m5vip.net, port: 29670, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡 BA 02 - M1NET, server: relay02.m5vip.net, port: 37252, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡 BA 04 - M1NET, server: relay04.m5vip.net, port: 26648, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇸🇬 新加坡 BA 01 - M1NET, server: relay01.m5vip.net, port: 38519, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 BA 03 - M1NET, server: relay03.m5vip.net, port: 10441, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 BA 04 - M1NET, server: relay04.m5vip.net, port: 10681, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 BA 01 - M1NET, server: relay01.m5vip.net, port: 49166, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
@@ -552,6 +533,14 @@ proxies:
 - {name: 🇺🇸 美国 AK 04 - M1NET, server: relay04.m5vip.net, port: 35033, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 AK 01 - M1NET, server: relay01.m5vip.net, port: 32699, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 AK 02 - M1NET, server: relay02.m5vip.net, port: 29394, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇸🇬 新加坡 CH 03 - M1NET, server: relay03.m5vip.net, port: 19706, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇸🇬 新加坡 CH 04 - M1NET, server: relay04.m5vip.net, port: 47936, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇸🇬 新加坡 CH 01 - M1NET, server: relay01.m5vip.net, port: 36597, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇸🇬 新加坡 CH 02 - M1NET, server: relay02.m5vip.net, port: 54286, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇸🇬 新加坡 BA 03 - M1NET, server: relay03.m5vip.net, port: 29670, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇸🇬 新加坡 BA 02 - M1NET, server: relay02.m5vip.net, port: 37252, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇸🇬 新加坡 BA 04 - M1NET, server: relay04.m5vip.net, port: 26648, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇸🇬 新加坡 BA 01 - M1NET, server: relay01.m5vip.net, port: 38519, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇭🇰 香港 DU 01 - M1NET, server: relay01.m5vip.net, port: 17643, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇭🇰 香港 DU 02 - M1NET, server: relay02.m5vip.net, port: 12792, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇭🇰 香港 DU 04 - M1NET, server: relay04.m5vip.net, port: 49306, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
@@ -568,33 +557,17 @@ proxies:
 - {name: 🇹🇼 台湾 CH 04 - M1NET, server: relay04.m5vip.net, port: 41114, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 01 - M1NET, server: relay01.m5vip.net, port: 12590, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 02 - M1NET, server: relay02.m5vip.net, port: 17476, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇯🇵 日本 AK 01 - M1NET, server: relay01.m5vip.net, port: 35347, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇯🇵 日本 AK 03 - M1NET, server: relay03.m5vip.net, port: 14645, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇯🇵 日本 AK 02 - M1NET, server: relay02.m5vip.net, port: 19561, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇯🇵 日本 AK 04 - M1NET, server: relay04.m5vip.net, port: 16701, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇯🇵 日本 CH 01 - M1NET, server: relay01.m5vip.net, port: 40047, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇯🇵 日本 CH 02 - M1NET, server: relay02.m5vip.net, port: 12401, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇯🇵 日本 CH 03 - M1NET, server: relay03.m5vip.net, port: 26509, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇯🇵 日本 CH 04 - M1NET, server: relay04.m5vip.net, port: 16604, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇬🇧 英国 BA 02 - M1NET, server: relay02.m5vip.net, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇩🇪 德国 BA 03 - M1NET, server: relay03.m5vip.net, port: 49973, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇱🇺 卢森堡 BT/PT 专用 - M1NET, server: relay02.m5vip.net, port: 12959, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 Game 日本01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9059, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9062, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 819, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本04-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9021, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本05-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 914, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本06-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 909, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本07-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 918, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本08-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 811, type: ss, cipher: aes-128-gcm, password: ay2dsd1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本09-专线 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 1313, type: ss, cipher: aes-128-gcm, password: fjlfjafl231303831, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Game 日本10-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 901, type: ss, cipher: aes-128-gcm, password: ay21d1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Video 日本A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 818, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Video 日本B-解锁 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 813, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Video 日本C-原生 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 4321, type: ss, cipher: aes-128-gcm, password: ay232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇯🇵 Web 日本I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9051, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9037, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 902, type: ss, cipher: aes-128-gcm, password: ayuc211, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 9038, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 19999, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国01-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9873, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国02-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 821, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 903, type: ss, cipher: aes-128-gcm, password: ay2l23ud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
@@ -607,6 +580,12 @@ proxies:
 - {name: 🇺🇸 Web 美国I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国II-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Web 美国III-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9037, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 902, type: ss, cipher: aes-128-gcm, password: ayuc211, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 9038, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 19999, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
@@ -632,6 +611,20 @@ proxies:
 - {name: 🇹🇼 Web 台湾I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9047, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 912, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港II-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 840, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9059, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9062, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 819, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本04-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9021, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本05-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 914, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本06-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 909, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本07-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 918, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本08-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 811, type: ss, cipher: aes-128-gcm, password: ay2dsd1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本09-专线 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 1313, type: ss, cipher: aes-128-gcm, password: fjlfjafl231303831, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Game 日本10-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 901, type: ss, cipher: aes-128-gcm, password: ay21d1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Video 日本A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 818, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Video 日本B-解锁 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 813, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Video 日本C-原生 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 4321, type: ss, cipher: aes-128-gcm, password: ay232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 Web 日本I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9051, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇶🇦 Video 卡塔尔A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 15558, type: ss, cipher: aes-128-gcm, password: 1m23sddsc4532r, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇱🇻 Video 拉脱维亚A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 39172, type: ss, cipher: aes-128-gcm, password: fagecooal&da, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇪🇪 Web 爱沙尼亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 39174, type: ss, cipher: aes-128-gcm, password: fhrtjdxt*&$, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
@@ -680,6 +673,13 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: 54b89113782.download.windowsupdate.com}, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.203.70, port: 443, type: trojan, password: a620f936-bcf5-398a-a665-e3713de1d3d4, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: a620f936-bcf5-398a-a665-e3713de1d3d4, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.124.90, port: 443, type: trojan, password: a620f936-bcf5-398a-a665-e3713de1d3d4, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
 - {name: CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link.in, port: 80, type: vmess, uuid: a8d2c728-6517-39c6-a932-a54faef07a15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.ina0ef0a9c86534529844796dc8c7ff467, headers: {Host: dabaius.webn.cc}}, udp: true}
 - {name: CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: a8d2c728-6517-39c6-a932-a54faef07a15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.inee8fa44c7192bf37ccd9e5b7d4755d91, headers: {Host: ee8fa44c7192bf37ccd9e5b7d4755d91.us1.hhouge12.ggff.net}}, udp: true}
 - {name: CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link.in, port: 80, type: vmess, uuid: a8d2c728-6517-39c6-a932-a54faef07a15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in3fe80db49f22530714f647204ea007e8, headers: {Host: dabaius.webn.cc}}, udp: true}
