@@ -7,7 +7,7 @@ email  pezzrkh743@linshiyou.com
 last_checkin  2025-09-27 09:58:01.741586+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  510.1K  1.083G  2025-09-28 09:58:01+08:00  (剩余 1.083G 21:19:02.358479)
+sub_info  510.1K  1.083G  2025-09-28 09:58:01+08:00  (剩余 1.083G 20:23:05.221074)
 sub_url  https://network.ayucloud.nl/link/E7656luLzIJuESCl?clash=1
 time  2025-09-27 09:58:02.644579+08:00
 type  sspanel
@@ -25,6 +25,7 @@ time  2025-09-27 12:39:04.608028+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
+更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -44,15 +45,15 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  lprlmqjz557@gmail.com
-last_checkin  2025-09-27 12:38:49.768711+08:00
+email  kultpgk125@gmail.com
+last_checkin  2025-09-27 13:34:57.429397+08:00
 name  NovaLive
 node_n  3
-sub_info  0B  1.056G  2025-09-27 12:38:49+08:00  (剩余 1.056G -1 day, 23:59:56.680481)
-sub_url  https://new.gfw.news/link/SYMEWWaRPp1TEZfY?sub=3
-time  2025-09-27 12:38:50.250884+08:00
+sub_info  0B  1.18G  2025-09-27 13:34:57+08:00  (剩余 1.18G -1 day, 23:59:57.894870)
+sub_url  https://new.gfw.news/link/PPWPWLLg5fybsN7A?sub=3
+time  2025-09-27 13:34:58.036046+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
+保存base64/clash订阅失败  string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -65,4 +66,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa3a440f790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe2f84a8610>: Failed to establish a new connection: [Errno 111] Connection refused'))
