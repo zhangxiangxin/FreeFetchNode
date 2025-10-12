@@ -7,22 +7,21 @@ email  lbuncsi870@guerrillamail.net
 last_checkin  2025-10-12 10:14:39.840910+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.165G  2025-10-13 10:14:39+08:00  (剩余 1.165G 23:01:18.928348)
+sub_info  0B  1.165G  2025-10-13 10:14:39+08:00  (剩余 1.165G 22:29:24.781394)
 sub_url  https://network.ayucloud.nl/link/9bgQIT98JwgfjDjE?clash=1
 time  2025-10-12 10:14:40.720534+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 14, column 6372: ... 0[_0xbaecd2(0x205)](/.+(?:ri)[\/: ]([\d.]+)/)||[])[0x1]:(_0x7d89 ... ^ (line: 14)
 
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  zubidkxj61@gmail.com
-last_checkin  2025-10-12 11:13:57.128589+08:00
+email  anaodqje943@gmail.com
+last_checkin  2025-10-12 11:45:15.185874+08:00
 name  大白
 node_n  14
 sub_info  0B  1T  2025-10-18 16:42:15+08:00  (剩余 1T 29 days, 19:41:05.469826)
-sub_url  https://cc.dabai.in/link/RO59AABdIhFPSAvz?sub=3
-time  2025-10-12 11:13:58.080596+08:00
+sub_url  https://cc.dabai.in/link/yJtSXQWTM97nfGgg?sub=3
+time  2025-10-12 11:45:16.133109+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
@@ -45,15 +44,14 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  weotvmhs282@gmail.com
-last_checkin  2025-10-12 11:13:20.068677+08:00
+email  jmtbaaq638@gmail.com
+last_checkin  2025-10-12 11:45:12.510058+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.14G  2025-10-12 11:13:19+08:00  (剩余 1.14G -1 day, 23:59:57.694334)
-sub_url  https://new.gfw.news/link/NKf35skMElfGYR35?sub=3
-time  2025-10-12 11:13:20.598382+08:00
+sub_info  0B  1.029G  2025-10-12 11:45:12+08:00  (剩余 1.029G -1 day, 23:59:44.391735)
+sub_url  https://new.gfw.news/link/svsD2dH9iccG8Qvi?sub=3
+time  2025-10-12 11:45:12.961768+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -66,4 +64,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f24b4285090>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7171d0d390>: Failed to establish a new connection: [Errno 111] Connection refused'))
