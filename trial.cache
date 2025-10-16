@@ -7,23 +7,24 @@ email  wvmccudtx270@guerrillamail.net
 last_checkin  2025-10-16 19:33:43.532101+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.009G  2025-10-17 19:33:43+08:00  (剩余 1.009G 19:54:44.194752)
+sub_info  0B  1.009G  2025-10-17 19:33:43+08:00  (剩余 1.009G 18:49:43.838710)
 sub_url  https://network.ayucloud.nl/link/2Qi5xEXRsPbJ5lor?clash=1
 time  2025-10-16 19:33:44.451189+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  cvjjbsw618@gmail.com
-last_checkin  2025-10-16 23:39:21.677175+08:00
+email  ecvgrsaib125@gmail.com
+last_checkin  2025-10-17 00:44:00.531547+08:00
 name  大白
 node_n  14
 sub_info  0B  1T  2025-10-18 16:42:15+08:00  (剩余 1T 29 days, 19:41:05.469826)
-sub_url  https://cc.dabai.in/link/AnctHURjhhdRffOs?sub=3
-time  2025-10-16 23:39:22.756048+08:00
+sub_url  https://cc.dabai.in/link/OqYOhJsL0j0c01Er?sub=3
+time  2025-10-17 00:44:01.470707+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 保存订阅信息失败  no sub info
 
 [www.duguletian.com#独孤乐天]
@@ -44,15 +45,14 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  pulpszft64@gmail.com
-last_checkin  2025-10-16 23:39:07.831208+08:00
+email  iykmbux94@gmail.com
+last_checkin  2025-10-17 00:43:57.840276+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.04G  2025-10-16 23:39:07+08:00  (剩余 1.04G -1 day, 23:59:55.734111)
-sub_url  https://new.gfw.news/link/2AFVcpKtX5wSeaPq?sub=3
-time  2025-10-16 23:39:08.479870+08:00
+sub_info  0B  1.072G  2025-10-17 00:43:57+08:00  (剩余 1.072G -1 day, 23:59:56.732106)
+sub_url  https://new.gfw.news/link/d2MaLRWo4RgIZe3R?sub=3
+time  2025-10-17 00:43:58.536183+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -65,4 +65,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efd24af8fd0>, 'Connection to zzy1.tuijianlianmeng.top timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbd94c64d60>, 'Connection to zzy1.tuijianlianmeng.top timed out. (connect timeout=30)'))
