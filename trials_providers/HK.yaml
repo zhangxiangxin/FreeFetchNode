@@ -1,7 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.237, port: 443, type: trojan, password: 26d8e297-4fdf-3fc7-ad4b-70f1bbf1f2f4, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 DU 01 - M1NET, server: relay01.m5vip.net, port: 17643, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 香港 DU 02 - M1NET, server: relay02.m5vip.net, port: 12792, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 香港 DU 04 - M1NET, server: relay04.m5vip.net, port: 49306, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 香港 DU 03 - M1NET, server: relay03.m5vip.net, port: 17984, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 香港 BA 03 - M1NET, server: relay03.m5vip.net, port: 32243, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 香港 BA 04 - M1NET, server: relay04.m5vip.net, port: 49076, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 香港 BA 01 - M1NET, server: relay01.m5vip.net, port: 29880, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 香港 BA 02 - M1NET, server: relay02.m5vip.net, port: 23571, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇭🇰 Game 香港01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 824, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: 46ae9114732.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9054, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 46ae9114732.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9063, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 46ae9114732.download.windowsupdate.com}, udp: true}
@@ -13,11 +20,4 @@ proxies:
 - {name: 🇭🇰 Video 香港C-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 9052, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 46ae9114732.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 912, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 46ae9114732.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港II-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 840, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 46ae9114732.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 香港 DU 01 - M1NET, server: relay01.m5vip.net, port: 17643, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 香港 DU 02 - M1NET, server: relay02.m5vip.net, port: 12792, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 香港 DU 04 - M1NET, server: relay04.m5vip.net, port: 49306, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 香港 DU 03 - M1NET, server: relay03.m5vip.net, port: 17984, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 香港 BA 03 - M1NET, server: relay03.m5vip.net, port: 32243, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 香港 BA 04 - M1NET, server: relay04.m5vip.net, port: 49076, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 香港 BA 01 - M1NET, server: relay01.m5vip.net, port: 29880, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 香港 BA 02 - M1NET, server: relay02.m5vip.net, port: 23571, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.237, port: 443, type: trojan, password: f3340928-1087-3161-a7d4-030c9a8de87b, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
