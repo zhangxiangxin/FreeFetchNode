@@ -1,9 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇬🇧 英国 BA 02 - M1NET, server: relay02.m5vip.net, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇩🇪 德国 BA 03 - M1NET, server: relay03.m5vip.net, port: 49973, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇱🇺 卢森堡 BT/PT 专用 - M1NET, server: relay02.m5vip.net, port: 12959, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇶🇦 Video 卡塔尔A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 15558, type: ss, cipher: aes-128-gcm, password: 1m23sddsc4532r, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
 - {name: 🇱🇻 Video 拉脱维亚A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 39172, type: ss, cipher: aes-128-gcm, password: fagecooal&da, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
 - {name: 🇪🇪 Web 爱沙尼亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 39174, type: ss, cipher: aes-128-gcm, password: fhrtjdxt*&$, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
@@ -52,3 +49,6 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
+- {name: 🇬🇧 英国 BA 02 - M1NET, server: relay02.m5vip.net, port: 30982, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇩🇪 德国 BA 03 - M1NET, server: relay03.m5vip.net, port: 49973, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇱🇺 卢森堡 BT/PT 专用 - M1NET, server: relay02.m5vip.net, port: 12959, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
