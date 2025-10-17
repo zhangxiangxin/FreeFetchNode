@@ -7,7 +7,7 @@ email  kbogzxw795@sharklasers.com
 last_checkin  2025-10-18 00:43:06.311008+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.877G  2025-10-18 23:37:54+08:00  (剩余 1.877G 19:00:17.322171)
+sub_info  0B  1.877G  2025-10-18 23:37:54+08:00  (剩余 1.877G 18:05:32.424417)
 sub_url  https://network.ayucloud.nl/link/HoT8r3ckwOX9HHyv?clash=1
 time  2025-10-17 23:37:56.108063+08:00
 type  sspanel
@@ -15,13 +15,13 @@ type  sspanel
 [cc.dabai.in#大白]
 auto_invite  F
 buy  shop=31
-email  opgbbzq193@gmail.com
-last_checkin  2025-10-18 04:37:57.657399+08:00
+email  yeapbvk877@gmail.com
+last_checkin  2025-10-18 05:32:28.034127+08:00
 name  大白
 node_n  14
 sub_info  0B  1T  2025-10-18 16:42:15+08:00  (剩余 1T 29 days, 19:41:05.469826)
-sub_url  https://cc.dabai.in/link/xo5Z1N6qUMKojQwE?sub=3
-time  2025-10-18 04:37:58.382940+08:00
+sub_url  https://cc.dabai.in/link/7H0glJ4yWrlRFDNV?sub=3
+time  2025-10-18 05:32:28.834100+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
@@ -44,15 +44,14 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  mxqdjlfj774@gmail.com
-last_checkin  2025-10-18 04:37:27.927344+08:00
+email  cgwysbuw412@gmail.com
+last_checkin  2025-10-18 05:32:26.516675+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.087G  2025-10-18 04:37:27+08:00  (剩余 1.087G -1 day, 23:59:50.365732)
-sub_url  https://new.gfw.news/link/mO0aJmKp6b1Zqkef?sub=3
-time  2025-10-18 04:37:28.523289+08:00
+sub_info  0B  1.172G  2025-10-18 05:32:26+08:00  (剩余 1.172G -1 day, 23:59:56.764423)
+sub_url  https://new.gfw.news/link/xZjDL9pQWylsuk1q?sub=3
+time  2025-10-18 05:32:27.009815+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -65,4 +64,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1e5a9a1480>, 'Connection to zzy1.tuijianlianmeng.top timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2d6c4483d0>, 'Connection to zzy1.tuijianlianmeng.top timed out. (connect timeout=30)'))
