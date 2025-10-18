@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.237, port: 443, type: trojan, password: 5c11db33-f8ad-3919-b51a-e407d3dbb271, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.237, port: 443, type: trojan, password: 404e4c29-2555-3b44-b451-66d92afab075, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 Game 香港01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 824, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9054, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Game 香港03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9063, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 3633b114776.download.windowsupdate.com}, udp: true}
