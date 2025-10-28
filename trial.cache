@@ -7,11 +7,10 @@ email  fdwbqfkw467@pastryofistanbul.com
 last_checkin  2025-10-28 11:28:00.642313+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.058G  2025-10-29 11:28:00+08:00  (剩余 1.058G 16:45:01.993973)
+sub_info  0B  1.058G  2025-10-29 11:28:00+08:00  (剩余 1.058G 15:55:17.551866)
 sub_url  https://network.ayucloud.nl/link/90K4TpwwJ0JOMwc5?clash=1
 time  2025-10-28 11:28:01.723282+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -28,7 +27,7 @@ type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '邮箱不存在'}
-更新订阅链接/续费续签失败  发送邮箱验证码失败(nrwsrmwu285@youxiang.dev): {'ret': 0, 'msg': '非法请求'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(isbuhoqe45@mxl001.win): {'ret': 0, 'msg': '非法请求'}
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -41,22 +40,21 @@ sub_info  0B  1.083G  2025-08-04 21:07:42+08:00  (剩余 1.083G 5:20:58.844620)
 sub_url  https://www.duguletian.com/link/vQmHiuREqwioLUVB?sub=3
 time  2025-08-03 21:07:44.170078+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7feabf826ce0>: Failed to resolve 'www.duguletian.com' ([Errno -5] No address associated with hostname)"))
-更新旧订阅失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7feabf7ced10>: Failed to resolve 'www.duguletian.com' ([Errno -5] No address associated with hostname)"))
+尝试签到失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1017)')))
+更新旧订阅失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /link/vQmHiuREqwioLUVB?sub=3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1017)')))
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  ubehyxqx746@gmail.com
-last_checkin  2025-10-28 18:42:58.552329+08:00
+email  wuudubgv240@gmail.com
+last_checkin  2025-10-28 19:32:37.454355+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.06G  2025-10-28 18:42:58+08:00  (剩余 1.06G -1 day, 23:59:51.644524)
-sub_url  https://new.gfw.news/link/62FRJ3fVcUNUhp6p?sub=3
-time  2025-10-28 18:42:59.040875+08:00
+sub_info  0B  1.078G  2025-10-28 19:32:37+08:00  (剩余 1.078G -1 day, 23:59:56.974475)
+sub_url  https://new.gfw.news/link/2MLAaYDenV2otCOB?sub=3
+time  2025-10-28 19:32:37.963269+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -69,4 +67,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7feaadfc2740>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faa66daa0e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
