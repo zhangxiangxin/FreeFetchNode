@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 212b9e5b-0529-37bf-a4f7-725d0955cba4, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 000a59f8-ce80-39f6-b85d-3db8e760cb47, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
