@@ -7,11 +7,10 @@ email  bbhxzhkkg883@teihu.com
 last_checkin  2025-11-08 00:43:47.399061+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.193G  2025-11-09 00:43:46+08:00  (剩余 1.193G 21:59:58.958451)
+sub_info  0B  1.193G  2025-11-09 00:43:46+08:00  (剩余 1.193G 20:07:35.466335)
 sub_url  https://network.ayucloud.nl/link/CZqG56wyX9nokjpa?clash=1
 time  2025-11-08 00:43:48.869982+08:00
 type  sspanel
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -28,7 +27,7 @@ type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '邮箱不存在'}
-更新订阅链接/续费续签失败  发送邮箱验证码失败(hqybtfwkp554@snapmail.cc): {'ret': 0, 'msg': '非法请求'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(fnppfjzyj775@guerrillamail.biz): {'ret': 0, 'msg': '非法请求'}
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -48,13 +47,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  sacagdhx820@gmail.com
-last_checkin  2025-11-08 03:32:43.658780+08:00
+email  aliaozjj592@gmail.com
+last_checkin  2025-11-08 04:36:10.837457+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.161G  2025-11-08 03:32:43+08:00  (剩余 1.161G -1 day, 23:59:50.247966)
-sub_url  https://new.gfw.news/link/rxYOxFyi9ox9tvj4?sub=3
-time  2025-11-08 03:32:44.186349+08:00
+sub_info  0B  1.026G  2025-11-08 04:36:10+08:00  (剩余 1.026G -1 day, 23:57:56.167985)
+sub_url  https://new.gfw.news/link/ksIlKUlQfK6DCzr2?sub=3
+time  2025-11-08 04:36:11.379297+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -68,4 +67,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd6c07cb8e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdd5cd98370>: Failed to establish a new connection: [Errno 111] Connection refused'))
