@@ -7,7 +7,7 @@ email  axqzailwb915@guerrillamail.org
 last_checkin  2025-11-12 15:37:50.095589+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.178G  2025-11-13 15:37:49+08:00  (剩余 1.178G 18:30:52.277375)
+sub_info  0B  1.178G  2025-11-13 15:37:49+08:00  (剩余 1.178G 17:49:53.445387)
 sub_url  https://network.ayucloud.nl/link/k52vbydpjUzRwtW6?clash=1
 time  2025-11-12 15:37:51.030936+08:00
 type  sspanel
@@ -27,7 +27,7 @@ type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '邮箱不存在'}
-更新订阅链接/续费续签失败  发送邮箱验证码失败(owppjfxv810@guerrillamail.org): {'ret': 0, 'msg': '非法请求'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(krpfqyk342@huiplay.com): {'ret': 0, 'msg': '非法请求'}
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -41,19 +41,19 @@ sub_url  https://www.duguletian.com/link/vQmHiuREqwioLUVB?sub=3
 time  2025-08-03 21:07:44.170078+08:00
 type  sspanel
 尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n<html xmlns="http://www.w3.org/1999/xhtml">\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\n<title>很抱歉，网站搬新家啦！</title>\n \n<style type="text/css">\nbody {margin: 0px; padding:0px; font-family:"微软雅黑", Arial, "Trebuchet MS", Verdana, Georgia,Baskerville,Palatino,Times; font-size:16px;}\ndiv{margin-left:auto; margin-right:auto;}\na {text-decoration: none; color: #1064A0;}\na:hover {color: #0078D2;}\nimg { border:none; }\nh1,h2,h3,h4 {\n/* display:block;*/\n margin:0;\n font-weight:normal;\n font-family: "微软雅黑", Arial, "Trebuchet MS", Helvetica, Verdana ;\n}\nh1{font-size:44px; color:#0188DE; padding:20px 0px 10px 0px;}\nh2{color:#0188DE; font-size:16px; padding:10px 0px 40px 0px;}\n \n#page{width:910px; padding:20px 20px 40px 20px; margin-top:80px;}\n.button{width:180px; height:28px; margin-left:0px; margin-top:10px; background:#009CFF; border-bottom:4px solid #0188DE; text-align:center;}\n.button a{width:180px; height:28px; display:block; font-size:14px; color:#fff; }\n.button a:hover{ background:#5BBFFF;}\n</style>\n \n</head>\n<body>\n \n<div id="page" style="border-style:dashed;border-color:#e4e4e4;line-height:30px;background:url(sorry.png) no-repeat right;">\n <h1>网站搬新家啦，即将跳转新网址~</h1>\n <h2>The website is moving to a new home. It is about to jump to the new website. </h2>\n <meta http-equiv="refresh" content="5;url=/index.php">\n <font color="#666666">若网页未能自动跳转新网址，请点击下面按钮进行跳转！</font><br /><br />\n <div class="button">\n <a href="/index.php" title="进入新网址">进入新网址</a>\n </div>\n</div>\n<div style="clear:both;padding:10px;text-align:center;margin:5"><a href="/sitemap.xml" target="_blank">XML 地图</a> | <a href="/sitemap.html" target="_blank">sitemap 地图</a></div>\n</body>\n</html>')
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n<html xmlns="http://www.w3.org/1999/xhtml">\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\n<title>很抱歉，网站搬新家啦！</title>\n \n<style type="text/css">\nbody {margin: 0px; padding:0px; font-family:"微软雅黑", Arial, "Trebuchet MS", Verdana, Georgia,Baskerville,Palatino,Times; font-size:16px;}\ndiv{margin-left:auto; margin-right:auto;}\na {text-decoration: none; color: #1064A0;}\na:hover {color: #0078D2;}\nimg { border:none; }\nh1,h2,h3,h4 {\n/* display:block;*/\n margin:0;\n font-weight:normal;\n font-family: "微软雅黑", Arial, "Trebuchet MS", Helvetica, Verdana ;\n}\nh1{font-size:44px; color:#0188DE; padding:20px 0px 10px 0px;}\nh2{color:#0188DE; font-size:16px; padding:10px 0px 40px 0px;}\n \n#page{width:910px; padding:20px 20px 40px 20px; margin-top:80px;}\n.button{width:180px; height:28px; margin-left:0px; margin-top:10px; background:#009CFF; border-bottom:4px solid #0188DE; text-align:center;}\n.button a{width:180px; height:28px; display:block; font-size:14px; color:#fff; }\n.button a:hover{ background:#5BBFFF;}\n</style>\n \n</head>\n<body>\n \n<div id="page" style="border-style:dashed;border-color:#e4e4e4;line-height:30px;background:url(sorry.png) no-repeat right;">\n <h1>网站搬新家啦，即将跳转新网址~</h1>\n <h2>The website is moving to a new home. It is about to jump to the new website. </h2>\n <meta http-equiv="refresh" content="5;url=/index.php">\n <font color="#666666">若网页未能自动跳转新网址，请点击下面按钮进行跳转！</font><br /><br />\n <div class="button">\n <a href="/index.php" title="进入新网址">进入新网址</a>\n </div>\n</div>\n<div style="clear:both;padding:10px;text-align:center;margin:5"><a href="/sitemap.xml" target="_blank">XML 地图</a> | <a href="/sitemap.html" target="_blank">sitemap 地图</a></div>\n</body>\n</html>')
+更新旧订阅失败  (https://www.duguletian.com/link/vQmHiuREqwioLUVB?sub=3): 404 Not Found '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n<html xmlns="http://www.w3.org/1999/xhtml">\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\n<title>很抱歉，网站搬新家啦！</title>\n \n<style type="text/css">\nbody {margin: 0px; padding:0px; font-family:"微软雅黑", Arial, "Trebuchet MS", Verdana, Georgia,Baskerville,Palatino,Times; font-size:16px;}\ndiv{margin-left:auto; margin-right:auto;}\na {text-decoration: none; color: #1064A0;}\na:hover {color: #0078D2;}\nimg { border:none; }\nh1,h2,h3,h4 {\n/* display:block;*/\n margin:0;\n font-weight:normal;\n font-family: "微软雅黑", Arial, "Trebuchet MS", Helvetica, Verdana ;\n}\nh1{font-size:44px; color:#0188DE; padding:20px 0px 10px 0px;}\nh2{color:#0188DE; font-size:16px; padding:10px 0px 40px 0px;}\n \n#page{width:910px; padding:20px 20px 40px 20px; margin-top:80px;}\n.button{width:180px; height:28px; margin-left:0px; margin-top:10px; background:#009CFF; border-bottom:4px solid #0188DE; text-align:center;}\n.button a{width:180px; height:28px; display:block; font-size:14px; color:#fff; }\n.button a:hover{ background:#5BBFFF;}\n</style>\n \n</head>\n<body>\n \n<div id="page" style="border-style:dashed;border-color:#e4e4e4;line-height:30px;background:url(sorry.png) no-repeat right;">\n <h1>网站搬新家啦，即将跳转新网址~</h1>\n <h2>The website is moving to a new home. It is about to jump to the new website. </h2>\n <meta http-equiv="refresh" content="5;url=/index.php">\n <font color="#666666">若网页未能自动跳转新网址，请点击下面按钮进行跳转！</font><br /><br />\n <div class="button">\n <a href="/index.php" title="进入新网址">进入新网址</a>\n </div>\n</div>\n<div style="clear:both;padding:10px;text-align:center;margin:5"><a href="/sitemap.xml" target="_blank">XML 地图</a> | <a href="/sitemap.html" target="_blank">sitemap 地图</a></div>\n</body>\n</html>'
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  qoxvqauhn406@gmail.com
-last_checkin  2025-11-12 21:06:54.692840+08:00
+email  gfrcuqqc216@gmail.com
+last_checkin  2025-11-12 21:47:47.587215+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.189G  2025-11-12 21:06:54+08:00  (剩余 1.189G -1 day, 23:59:57.042516)
-sub_url  https://new.gfw.news/link/Xjv7ZPC1E7C0FnuR?sub=3
-time  2025-11-12 21:06:55.208050+08:00
+sub_info  0B  1.106G  2025-11-12 21:47:47+08:00  (剩余 1.106G -1 day, 23:59:44.101352)
+sub_url  https://new.gfw.news/link/kQHZzgx934dZWxeX?sub=3
+time  2025-11-12 21:47:48.204131+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -67,4 +67,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f53bc2f48b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1b244d4280>: Failed to establish a new connection: [Errno 111] Connection refused'))
