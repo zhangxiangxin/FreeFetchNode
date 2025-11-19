@@ -7,10 +7,11 @@ email  apychvk989@guerrillamail.de
 last_checkin  2025-11-19 10:17:05.744299+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  32.96K  1.072G  2025-11-20 10:17:05+08:00  (剩余 1.072G 16:36:55.337544)
+sub_info  382.4K  1.072G  2025-11-20 10:17:05+08:00  (剩余 1.072G 15:33:49.981546)
 sub_url  https://network.ayucloud.nl/link/9wO0S6AjFvoPPv1n?clash=1
 time  2025-11-19 10:17:06.712775+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -41,19 +42,19 @@ sub_url  https://www.duguletian.com/link/vQmHiuREqwioLUVB?sub=3
 time  2025-08-03 21:07:44.170078+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
-更新旧订阅失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /link/vQmHiuREqwioLUVB?sub=3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
+更新旧订阅失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  agpysij858@gmail.com
-last_checkin  2025-11-19 17:40:11.610298+08:00
+email  cdabead764@gmail.com
+last_checkin  2025-11-19 18:43:15.312233+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.08G  2025-11-19 17:40:10+08:00  (剩余 1.08G -1 day, 23:59:56.353785)
-sub_url  https://new.gfw.news/link/WQSztQkvUGOjdG9J?sub=3
-time  2025-11-19 17:40:12.101674+08:00
+sub_info  0B  1.084G  2025-11-19 18:43:15+08:00  (剩余 1.084G -1 day, 23:59:57.505282)
+sub_url  https://new.gfw.news/link/GHa9DpXod0egmXIe?sub=3
+time  2025-11-19 18:43:15.813960+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
@@ -67,4 +68,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1a9a3308b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3bd41d3310>: Failed to establish a new connection: [Errno 111] Connection refused'))
