@@ -115,11 +115,11 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 673bdf0a-cce8-3e97-89bb-00a1c19664ef, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 673bdf0a-cce8-3e97-89bb-00a1c19664ef, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 673bdf0a-cce8-3e97-89bb-00a1c19664ef, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 673bdf0a-cce8-3e97-89bb-00a1c19664ef, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 673bdf0a-cce8-3e97-89bb-00a1c19664ef, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 8ec31682-4fbc-36ab-8eab-2de7a102c82f, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 8ec31682-4fbc-36ab-8eab-2de7a102c82f, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 8ec31682-4fbc-36ab-8eab-2de7a102c82f, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: 8ec31682-4fbc-36ab-8eab-2de7a102c82f, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 8ec31682-4fbc-36ab-8eab-2de7a102c82f, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1913,11 +1913,11 @@ rules:
 - DOMAIN,api.groq.com,🤖 ‍AI
 - DOMAIN,api.together.xyz,🤖 ‍AI
 - DOMAIN,bard.google.com,🤖 ‍AI
+- DOMAIN,notebooklm.google.com,🤖 ‍AI
 - DOMAIN,console.groq.com,🤖 ‍AI
 - DOMAIN,copilot-proxy.githubusercontent.com,🤖 ‍AI
 - DOMAIN,gemini.google.com,🤖 ‍AI
 - DOMAIN,generativelanguage.googleapis.com,🤖 ‍AI
-- DOMAIN,notebooklm.google.com,🤖 ‍AI
 - DOMAIN,sydney.bing.com,🤖 ‍AI
 - DOMAIN-SUFFIX,ai.azure.com,🤖 ‍AI
 - DOMAIN-SUFFIX,auth0.com,🤖 ‍AI
@@ -1936,7 +1936,6 @@ rules:
 - DOMAIN-SUFFIX,identrust.com,🤖 ‍AI
 - DOMAIN-SUFFIX,intercom.io,🤖 ‍AI
 - DOMAIN-SUFFIX,intercomcdn.com,🤖 ‍AI
-- DOMAIN-SUFFIX,jetbrains.ai,🤖 ‍AI
 - DOMAIN-SUFFIX,makersuite.google.com,🤖 ‍AI
 - DOMAIN-SUFFIX,meta.ai,🤖 ‍AI
 - DOMAIN-SUFFIX,mistral.ai,🤖 ‍AI
@@ -1945,6 +1944,7 @@ rules:
 - DOMAIN-SUFFIX,perplexity.ai,🤖 ‍AI
 - DOMAIN-SUFFIX,sora.com,🤖 ‍AI
 - DOMAIN-SUFFIX,x.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,jetbrains.ai,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
