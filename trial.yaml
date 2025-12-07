@@ -52,6 +52,7 @@ proxy-groups:
   - 🇭🇰 Video 香港C-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港I-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港II-标准 - AyucLouD-Services
+  - 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇹🇼 台湾 AK 01 - M1NET
   - 🇹🇼 台湾 AK 03 - M1NET
   - 🇹🇼 台湾 AK 02 - M1NET
@@ -88,6 +89,8 @@ proxy-groups:
   - 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services
   - 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services
   - 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services
+  - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇯🇵 日本 AK 01 - M1NET
   - 🇯🇵 日本 AK 03 - M1NET
   - 🇯🇵 日本 AK 02 - M1NET
@@ -112,6 +115,7 @@ proxy-groups:
   - 🇯🇵 Web 日本I-标准 - AyucLouD-Services
   - 🇯🇵 日本 AWS *3 - 独孤乐天
   - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇺🇸 美国 BA 03 - M1NET
   - 🇺🇸 美国 BA 04 - M1NET
   - 🇺🇸 美国 BA 01 - M1NET
@@ -134,6 +138,7 @@ proxy-groups:
   - 🇺🇸 Web 美国III-标准 - AyucLouD-Services
   - 🇺🇸 美国 AWS *1 - 独孤乐天
   - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
+  - 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
@@ -273,6 +278,7 @@ proxy-groups:
   - 🇭🇰 Video 香港C-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港I-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港II-标准 - AyucLouD-Services
+  - 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -326,6 +332,7 @@ proxy-groups:
   - 🇭🇰 Video 香港C-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港I-标准 - AyucLouD-Services
   - 🇭🇰 Web 香港II-标准 - AyucLouD-Services
+  - 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇹🇼 台湾 AK 01 - M1NET
   - 🇹🇼 台湾 AK 03 - M1NET
   - 🇹🇼 台湾 AK 02 - M1NET
@@ -368,6 +375,8 @@ proxy-groups:
   - 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services
   - 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services
   - 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services
+  - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -398,6 +407,7 @@ proxy-groups:
   - 🇯🇵 Web 日本I-标准 - AyucLouD-Services
   - 🇯🇵 日本 AWS *3 - 独孤乐天
   - 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天
+  - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -426,6 +436,7 @@ proxy-groups:
   - 🇺🇸 Web 美国III-标准 - AyucLouD-Services
   - 🇺🇸 美国 AWS *1 - 独孤乐天
   - 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天
+  - 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
   - CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
@@ -671,6 +682,11 @@ proxies:
 - {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: e9ad6222-4e9f-3a2c-ae94-47d37276f649, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: e9ad6222-4e9f-3a2c-ae94-47d37276f649, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: e9ad6222-4e9f-3a2c-ae94-47d37276f649, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: e9ad6222-4e9f-3a2c-ae94-47d37276f649, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: e9ad6222-4e9f-3a2c-ae94-47d37276f649, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
 - {name: CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link.in, port: 80, type: vmess, uuid: a8d2c728-6517-39c6-a932-a54faef07a15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.ina0ef0a9c86534529844796dc8c7ff467, headers: {Host: dabaius.webn.cc}}, udp: true}
 - {name: CF优选2-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link.in, port: 80, type: vmess, uuid: a8d2c728-6517-39c6-a932-a54faef07a15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.inee8fa44c7192bf37ccd9e5b7d4755d91, headers: {Host: ee8fa44c7192bf37ccd9e5b7d4755d91.us1.hhouge12.ggff.net}}, udp: true}
 - {name: CF优选1-🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link.in, port: 80, type: vmess, uuid: a8d2c728-6517-39c6-a932-a54faef07a15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in3fe80db49f22530714f647204ea007e8, headers: {Host: dabaius.webn.cc}}, udp: true}
