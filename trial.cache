@@ -3,8 +3,8 @@ auth_path  user
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc  555.vtnli.shop  xxxhi.cc  zz.wgfkq.shop  spam4.me  psnator.com  smartnator.com  mydefipet.live  wwobs.com  bccto.cc  jkd.tmmad.com  bonusales.com  rgzx.tmmad.com  lyx13.xyz  vapeuccino.com  femailtor.com  tomystudio.com  mxl001.win  lplso.tmmad.com  51788.top  965.tmmad.com  ipiso.tmmad.com  jkb.tmmad.com  adtgng.tmmad.com  mail.wvwvw.tech  deomail.top  wfes.site  25ua.com  x866.cc  huiplay.com  mail.shouyou789.com  bookmorpho.cfd  tmpnator.live  grr.la  guerrillamail.com  guerrillamail.biz  xdanae.com  12316hfk.com  vapelato.com  JKD.TMMAD.COM  lushenticbag.com  vapesculpt.com
 buy  pass
-email  ircqfkbtn116@sharklasers.com
-last_checkin  2025-12-08 19:37:59.493320+08:00
+email  fklgdvqp910@linshiyou.com
+last_checkin  2025-12-08 21:50:50.960772+08:00
 name  AyucLouD-Services
 node_n  105
 sub_info  1.119G  1.84G  2025-11-23 18:38:33+08:00  (剩余 738.5M -1 day, 23:58:37.168206)
@@ -13,7 +13,7 @@ time  2025-11-22 18:38:34.624734+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  未找到订阅链接
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -50,14 +50,15 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  nmnanon192@gmail.com
-last_checkin  2025-12-08 21:08:25.138602+08:00
+email  iwgpscif396@gmail.com
+last_checkin  2025-12-08 21:49:38.352227+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.023G  2025-12-08 21:08:24+08:00  (剩余 1.023G -1 day, 23:59:49.304586)
-sub_url  https://new.gfw.news/link/NcIY8vHnEVhWoIC5?sub=3
-time  2025-12-08 21:08:25.607632+08:00
+sub_info  0B  1.145G  2025-12-08 21:49:38+08:00  (剩余 1.145G -1 day, 23:59:55.781760)
+sub_url  https://new.gfw.news/link/8if0vpSnPd7l8o0B?sub=3
+time  2025-12-08 21:49:38.843219+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -70,4 +71,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by NewConnectionError("HTTPSConnection(host='zzy1.tuijianlianmeng.top', port=443): Failed to establish a new connection: [Errno 111] Connection refused"))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NewConnectionError("HTTPSConnection(host='zzy1.tuijianlianmeng.top', port=443): Failed to establish a new connection: [Errno 111] Connection refused"))
