@@ -11,9 +11,9 @@ sub_info  1.119G  1.84G  2025-11-23 18:38:33+08:00  (剩余 738.5M -1 day, 23:58
 sub_url  https://network.ayucloud.nl/link/ckUJxhAUjnZ4yB2X?clash=1
 time  2025-11-22 18:38:34.624734+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  发送邮箱验证码失败(etvwvhh346@moakt.cc): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(vgkgwvm751@teml.net): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -44,19 +44,19 @@ sub_url  https://www.duguletian.com/link/vQmHiuREqwioLUVB?sub=3
 time  2025-08-03 21:07:44.170078+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='www.duguletian.com', port=443): Failed to resolve 'www.duguletian.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /link/vQmHiuREqwioLUVB?sub=3 (Caused by NameResolutionError("HTTPSConnection(host='www.duguletian.com', port=443): Failed to resolve 'www.duguletian.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='www.duguletian.com', port=443): Failed to resolve 'www.duguletian.com' ([Errno -2] Name or service not known)"))
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  euflulzt281@gmail.com
-last_checkin  2025-12-31 21:06:59.341149+08:00
+email  verzzwhsa49@gmail.com
+last_checkin  2025-12-31 21:51:29.164042+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.146G  2025-12-31 21:06:59+08:00  (剩余 1.146G -1 day, 23:59:54.692603)
-sub_url  https://new.gfw.news/link/qWDAaocx91FLFglR?sub=3
-time  2025-12-31 21:06:59.845180+08:00
+sub_info  0B  1.091G  2025-12-31 21:51:28+08:00  (剩余 1.091G -1 day, 23:59:57.055654)
+sub_url  https://new.gfw.news/link/0wbIK711vfw85Tb7?sub=3
+time  2025-12-31 21:51:29.638147+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
