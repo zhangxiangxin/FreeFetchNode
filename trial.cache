@@ -45,21 +45,20 @@ sub_url  https://www.duguletian.com/link/vQmHiuREqwioLUVB?sub=3
 time  2025-08-03 21:07:44.170078+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='www.duguletian.com', port=443): Failed to resolve 'www.duguletian.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='www.duguletian.com', port=443): Failed to resolve 'www.duguletian.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='www.duguletian.com', port=443): Max retries exceeded with url: /link/vQmHiuREqwioLUVB?sub=3 (Caused by NameResolutionError("HTTPSConnection(host='www.duguletian.com', port=443): Failed to resolve 'www.duguletian.com' ([Errno -2] Name or service not known)"))
 
 [nova.live#Novalive]
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  jserhov202@gmail.com
-last_checkin  2026-01-01 01:39:21.128468+08:00
+email  raehqkwy382@gmail.com
+last_checkin  2026-01-01 02:49:09.221858+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.126G  2026-01-01 01:39:20+08:00  (剩余 1.126G -1 day, 23:59:55.323333)
-sub_url  https://new.gfw.news/link/zjSIpbu0rZyBE9fT?sub=3
-time  2026-01-01 01:39:21.594015+08:00
+sub_info  0B  1.13G  2026-01-01 02:49:08+08:00  (剩余 1.13G -1 day, 23:59:56.699761)
+sub_url  https://new.gfw.news/link/vvspANOMJch2Klgt?sub=3
+time  2026-01-01 02:49:09.821670+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
