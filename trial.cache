@@ -54,10 +54,11 @@ email  fsmkclxzj405@gmail.com
 last_checkin  2026-02-04 21:40:59.954674+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.084G  2026-02-04 21:40:59+08:00  (剩余 1.084G -1 day, 23:59:57.369287)
+sub_info  96.91M  1.084G  2026-02-04 21:40:59+08:00  (剩余 1013M -1 day, 22:34:06.426090)
 sub_url  https://new.gfw.news/link/mMBqhjPHIhZfWdQC?sub=3
 time  2026-02-04 21:41:00.505385+08:00
 type  sspanel
+更新订阅链接/续费续签失败  注册失败(rzwteaw189@gmail.com): HTTPSConnectionPool(host='nova.live', port=443): Read timed out. (read timeout=30)
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
