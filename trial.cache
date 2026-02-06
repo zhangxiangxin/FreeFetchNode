@@ -30,8 +30,8 @@ time  2025-10-19 07:33:00.157569+08:00
 type  sspanel
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 23: <head ><style>*{margin: 0; padding: 0;}</style><meta ... ^ (line: 2)
 保存订阅信息失败  no sub info
-尝试签到失败  {'ret': 0, 'msg': '邮箱不存在'}
-更新订阅链接/续费续签失败  获取邮箱验证码超时(heqmqnpsa537@442587.xyz)
+尝试签到失败  HTTPSConnectionPool(host='cc.dabai.in', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(fwdvrvxrt444@gmail.com): HTTPSConnectionPool(host='cc.dabai.in', port=443): Read timed out. (read timeout=30)
 
 [www.duguletian.com#独孤乐天]
 auto_invite  F
@@ -51,13 +51,13 @@ type  sspanel
 auto_invite  F
 banned_domains  nespressopixie.com  snapmail.cc  muatoc.com  miteon.com  xxxhi.cc  lista.cc  xiaoyaoemail.cc  jkd.tmmad.com  555.anztyy.shop  smartnator.com  psnator.com  mydefipet.live  tmpnator.live  442587.xyz  zz.witvc.shop  mail.wvwvw.tech  lyx13.xyz  x866.cc  mxl001.win  zz.wgfkq.shop  edu.chqu.school  51788.top  wfes.site  jkb.tmmad.com  ipiso.tmmad.com  lplso.tmmad.com  mail.shouyou789.com  965.tmmad.com  lpl1so.tmmad.com  qwer.usphms.shop  tmpmail.org  tmails.net  guerrillamail.net  femailtor.com  spam4.me  disbox.org  oakon.com  5949o.com  youxiang.dev  linshiyou.com  tmpeml.com  guerrillamail.de  tmail.ws  bccto.cc  disbox.net  sharklasers.com  end.tw  guerrillamail.org  nqmo.com  moakt.ws  questtechsystems.com  bookmorpho.cfd  yzm.de  rgzx.tmmad.com  tmpmail.net  cefcayman.com  moakt.co  teihu.com  teml.net  bestpestrepeller.com  safsd88nb.icu  tmpbox.net  adomixhd.com  bareed.ws  signsetcetc.com  guerrillamail.com  grr.la  guerrillamail.biz  fdhtrs66.net  jsglassworks.com  moakt.cc  brookeandbilly.com  hwe6fgh8.icu  uuf.me  qabq.com  careandcompare.com  jacobpetier.com  guerrillamailblock.com  directservbms.com  pastryofistanbul.com  vapesculpt.com  25ua.com  justbesharp.com  overseashopper.com  vapelato.com  vapechroma.com  huiplay.com  vapenano.com  vrpiss.com  jamieandjessica.com  7clink.com  cyberconect.com  12316hfk.com  12316wxc.com  12316deu.com
 buy  pass
-email  gvchdspi381@gmail.com
-last_checkin  2026-02-07 01:08:39.210925+08:00
+email  ivslcxve255@gmail.com
+last_checkin  2026-02-07 02:03:54.254338+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.132G  2026-02-07 01:08:38+08:00  (剩余 1.132G -1 day, 23:59:57.239536)
-sub_url  https://new.gfw.news/link/bQCEm9tppFJtixl5?sub=3
-time  2026-02-07 01:08:39.832512+08:00
+sub_info  0B  1.146G  2026-02-07 02:03:53+08:00  (剩余 1.146G -1 day, 23:59:54.945937)
+sub_url  https://new.gfw.news/link/Z5Em9IP8gqTIsLSF?sub=3
+time  2026-02-07 02:03:54.788108+08:00
 type  sspanel
 
 [dash.m9vip.net#M1NET]
