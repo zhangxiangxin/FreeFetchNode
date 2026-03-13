@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: bb1de272-90c7-3fc3-a68d-8f4d1405ca20, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: bb1de272-90c7-3fc3-a68d-8f4d1405ca20, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: bb1de272-90c7-3fc3-a68d-8f4d1405ca20, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: bb1de272-90c7-3fc3-a68d-8f4d1405ca20, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: bb1de272-90c7-3fc3-a68d-8f4d1405ca20, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: dfcd11e1-4bf9-3371-9cc4-18dcad69a471, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: dfcd11e1-4bf9-3371-9cc4-18dcad69a471, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: dfcd11e1-4bf9-3371-9cc4-18dcad69a471, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: vd0ee3cg.cs53rvhb.aliyunglsb.com, port: 443, type: trojan, password: dfcd11e1-4bf9-3371-9cc4-18dcad69a471, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: dfcd11e1-4bf9-3371-9cc4-18dcad69a471, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
