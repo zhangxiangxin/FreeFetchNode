@@ -4,17 +4,16 @@ auto_invite  F
 banned_domains  lista.cc  snapmail.cc  555.vtnli.shop  xxxhi.cc  zz.wgfkq.shop  spam4.me  psnator.com  smartnator.com  mydefipet.live  wwobs.com  bccto.cc  jkd.tmmad.com  bonusales.com  rgzx.tmmad.com  lyx13.xyz  vapeuccino.com  femailtor.com  tomystudio.com  mxl001.win  lplso.tmmad.com  51788.top  965.tmmad.com  ipiso.tmmad.com  jkb.tmmad.com  adtgng.tmmad.com  mail.wvwvw.tech  deomail.top  wfes.site  25ua.com  x866.cc  huiplay.com  mail.shouyou789.com  bookmorpho.cfd  tmpnator.live  grr.la  guerrillamail.com  guerrillamail.biz  xdanae.com  12316hfk.com  vapelato.com  JKD.TMMAD.COM  lushenticbag.com  vapesculpt.com
 buy  pass
 email  kgenywo889@guerrillamail.de
-last_checkin  2026-04-16 14:16:47.883845+08:00
+last_checkin  2026-04-17 03:40:54.337434+08:00
 name  AyucLouD-Services
 node_n  105
 sub_info  1.119G  1.84G  2025-11-23 18:38:33+08:00  (剩余 738.5M -1 day, 23:58:37.168206)
 sub_url  https://network.ayucloud.nl/link/ckUJxhAUjnZ4yB2X?clash=1
 time  2025-11-22 18:38:34.624734+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 8, column 28: <title>nameless13.com | 522: Connection timed out</title> ^ (line: 8)
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ovumkuf113@drmail.in): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [cc.dabai.in#大白]
 auto_invite  F
@@ -55,10 +54,11 @@ email  hhjaqiis698@gmail.com
 last_checkin  2026-04-17 01:51:51.382263+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.047G  2026-04-17 01:51:51+08:00  (剩余 1.047G -1 day, 23:59:57.651907)
+sub_info  220.6K  1.047G  2026-04-17 01:51:51+08:00  (剩余 1.047G -1 day, 22:10:19.256245)
 sub_url  https://new.gfw.news/link/dsB35f6gtG2y40Qr?sub=3
 time  2026-04-17 01:51:51.945010+08:00
 type  sspanel
+更新订阅链接/续费续签失败  注册失败(dohrvfeb641@gmail.com): HTTPSConnectionPool(host='nova.live', port=443): Read timed out. (read timeout=30)
 
 [dash.m9vip.net#M1NET]
 api_host  zzy1.tuijianlianmeng.top
@@ -71,4 +71,4 @@ sub_url  https://zzy1.tuijianlianmeng.top/api/v1/client/subscribe?token=e42c3929
 time  2025-02-17 15:32:55.495244+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by ConnectTimeoutError(<HTTPSConnection(host='zzy1.tuijianlianmeng.top', port=443) at 0x7ff81c9879d0>, 'Connection to zzy1.tuijianlianmeng.top timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='zzy1.tuijianlianmeng.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e42c39299058d37d343abdacb81a5382 (Caused by ConnectTimeoutError(<HTTPSConnection(host='zzy1.tuijianlianmeng.top', port=443) at 0x7f9220c27340>, 'Connection to zzy1.tuijianlianmeng.top timed out. (connect timeout=30)'))
