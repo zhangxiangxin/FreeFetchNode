@@ -42,4 +42,4 @@ proxies:
 - {name: 🇹🇼 台湾 CH 04 - M1NET, server: relay04.m5vip.net, port: 41114, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 01 - M1NET, server: relay01.m5vip.net, port: 12590, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 02 - M1NET, server: relay02.m5vip.net, port: 17476, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: b812f1b1-af51-3ac0-b0e9-bb54a02a9cfd, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 103.219.195.108, port: 447, type: trojan, password: 25ef84a2-2c7a-3c74-9e05-7b40af1e18c1, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
