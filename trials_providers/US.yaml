@@ -21,7 +21,7 @@ proxies:
 - {name: 🇺🇸 美国 AK 04 - M1NET, server: relay04.m5vip.net, port: 35033, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 AK 01 - M1NET, server: relay01.m5vip.net, port: 32699, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 AK 02 - M1NET, server: relay02.m5vip.net, port: 29394, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: 3f9e9ea9-e716-322e-a555-7e4c0f3398ed, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: baa43198-a05a-3b57-9f5a-6be81fb49c8b, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: CF优选1-🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link.in, port: 80, type: vmess, uuid: a8d2c728-6517-39c6-a932-a54faef07a15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.ina0ef0a9c86534529844796dc8c7ff467, headers: {Host: dabaius.webn.cc}}, udp: true}
