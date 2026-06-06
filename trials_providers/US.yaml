@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: a0abe639-635c-391b-b579-2dbc63c62715, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.208.190.99, port: 447, type: trojan, password: be8d982e-2a57-3393-8409-e577cf2acf69, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 Game 美国01-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9873, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国02-原生 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 821, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
 - {name: 🇺🇸 Game 美国03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 903, type: ss, cipher: aes-128-gcm, password: ay2l23ud1, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
