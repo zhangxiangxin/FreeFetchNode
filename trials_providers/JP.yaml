@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 9e201a11-ac1b-3c35-ae5d-f3c29cf1b336, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: c60a7a0a-d5f2-3138-8ba1-a365f8de93ef, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 Game 日本01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9059, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 9062, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
 - {name: 🇯🇵 Game 日本03-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 819, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
