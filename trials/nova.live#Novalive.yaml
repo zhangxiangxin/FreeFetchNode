@@ -115,11 +115,11 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 8443, type: trojan, password: af7b1540-33b4-3aae-842f-d9cd7e85931b, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: af7b1540-33b4-3aae-842f-d9cd7e85931b, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: af7b1540-33b4-3aae-842f-d9cd7e85931b, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 194.231.149.6, port: 443, type: trojan, password: af7b1540-33b4-3aae-842f-d9cd7e85931b, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: af7b1540-33b4-3aae-842f-d9cd7e85931b, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 8443, type: trojan, password: 58e2bdb6-1221-3c3f-826f-5fc67107dd3a, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 58e2bdb6-1221-3c3f-826f-5fc67107dd3a, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 58e2bdb6-1221-3c3f-826f-5fc67107dd3a, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 194.231.149.6, port: 443, type: trojan, password: 58e2bdb6-1221-3c3f-826f-5fc67107dd3a, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: 58e2bdb6-1221-3c3f-826f-5fc67107dd3a, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -197,37 +197,6 @@ rules:
 - DOMAIN,proxy.yaoyaoling.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
-- DOMAIN,dl.google.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,googletraveladservices.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,🛩️ ‍墙内
-- DOMAIN,origin-a.akamaihd.net,🛩️ ‍墙内
-- DOMAIN,fairplay.l.qq.com,🛩️ ‍墙内
-- DOMAIN,livew.l.qq.com,🛩️ ‍墙内
-- DOMAIN,vd.l.qq.com,🛩️ ‍墙内
-- DOMAIN,errlog.umeng.com,🛩️ ‍墙内
-- DOMAIN,msg.umeng.com,🛩️ ‍墙内
-- DOMAIN,msg.umengcloud.com,🛩️ ‍墙内
-- DOMAIN,tracking.miui.com,🛩️ ‍墙内
-- DOMAIN,app.adjust.com,🛩️ ‍墙内
-- DOMAIN,bdtj.tagtic.cn,🛩️ ‍墙内
-- DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
-- DOMAIN-SUFFIX,synology.me,🛩️ ‍墙内
-- DOMAIN-SUFFIX,DiskStation.me,🛩️ ‍墙内
-- DOMAIN-SUFFIX,i234.me,🛩️ ‍墙内
-- DOMAIN-SUFFIX,myDS.me,🛩️ ‍墙内
-- DOMAIN-SUFFIX,DSCloud.biz,🛩️ ‍墙内
-- DOMAIN-SUFFIX,DSCloud.me,🛩️ ‍墙内
-- DOMAIN-SUFFIX,DSCloud.mobi,🛩️ ‍墙内
-- DOMAIN-SUFFIX,DSmyNAS.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,DSmyNAS.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,DSmyNAS.org,🛩️ ‍墙内
-- DOMAIN-SUFFIX,FamilyDS.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,FamilyDS.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,FamilyDS.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,sigmob.cn,💩 ‍广告
 - DOMAIN,open.e.kuaishou.com,💩 ‍广告
 - DOMAIN,open.e.kuaishou.cn,💩 ‍广告
