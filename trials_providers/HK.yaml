@@ -20,4 +20,4 @@ proxies:
 - {name: 🇭🇰 香港 BA 04 - M1NET, server: relay04.m5vip.net, port: 49076, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇭🇰 香港 BA 01 - M1NET, server: relay01.m5vip.net, port: 29880, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇭🇰 香港 BA 02 - M1NET, server: relay02.m5vip.net, port: 23571, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 8443, type: trojan, password: e7ab03d3-1bbb-3221-9ae9-09faec616998, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 8443, type: trojan, password: 39ea706f-f115-3b72-90d0-53b5ca19dda4, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
