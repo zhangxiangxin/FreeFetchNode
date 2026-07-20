@@ -25,4 +25,4 @@ proxies:
 - {name: 🇯🇵 日本 CH 04 - M1NET, server: relay04.m5vip.net, port: 16604, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: f118468d-56cc-39a0-9ea4-1541ef6e6928, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 6c3d4d0d-8cdb-3bb5-890f-07c7c32e3c12, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 663ecf4e-aec7-3786-8319-24384382f752, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
