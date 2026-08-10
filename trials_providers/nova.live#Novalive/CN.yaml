@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 8443, type: trojan, password: 658c282a-9e4c-3d80-b179-1184664e3669, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 8443, type: trojan, password: 6771a856-2bd4-34f5-8045-e87023f3a4a2, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
