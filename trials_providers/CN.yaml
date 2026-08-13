@@ -17,6 +17,7 @@ proxies:
 - {name: 🇹🇼 台湾 CH 04 - M1NET, server: relay04.m5vip.net, port: 41114, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 01 - M1NET, server: relay01.m5vip.net, port: 12590, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇹🇼 台湾 CH 02 - M1NET, server: relay02.m5vip.net, port: 17476, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 8443, type: trojan, password: 7b9f0f05-fe87-34bd-a8ca-722d6bb3bfdf, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Game 台湾01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 919, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 825, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
 - {name: 🇹🇼 Game 台湾03-专线 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 834, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
@@ -42,4 +43,3 @@ proxies:
 - {name: 🇹🇼 Web 台湾I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9047, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 912, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
 - {name: 🇭🇰 Web 香港II-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 840, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 65f08115763.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 8443, type: trojan, password: 875ea9d2-6378-3590-9a87-da9684e1cae8, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
