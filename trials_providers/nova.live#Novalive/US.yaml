@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: 105ed445-9e5b-3d50-955f-7fbb4c459414, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: 4ac269e4-e506-3504-be4f-7708a6336343, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
