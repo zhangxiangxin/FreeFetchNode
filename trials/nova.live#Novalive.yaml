@@ -115,11 +115,11 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 2053, type: trojan, password: 57c77f4e-3790-3d89-b445-4bc71f333f85, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 57c77f4e-3790-3d89-b445-4bc71f333f85, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 57c77f4e-3790-3d89-b445-4bc71f333f85, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 443, type: trojan, password: 57c77f4e-3790-3d89-b445-4bc71f333f85, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: 57c77f4e-3790-3d89-b445-4bc71f333f85, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 2053, type: trojan, password: 9855a92a-e634-363b-a712-1a6b9e804dca, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 9855a92a-e634-363b-a712-1a6b9e804dca, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: 9855a92a-e634-363b-a712-1a6b9e804dca, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 443, type: trojan, password: 9855a92a-e634-363b-a712-1a6b9e804dca, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: 9855a92a-e634-363b-a712-1a6b9e804dca, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
