@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: 1f2c633f-b30f-3e4d-a600-d41b47b7f20a, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: ec8e5fc2-4ea9-382f-93fe-a6d1ca31359a, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AK 01 - M1NET, server: relay01.m5vip.net, port: 35347, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇯🇵 日本 AK 03 - M1NET, server: relay03.m5vip.net, port: 14645, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇯🇵 日本 AK 02 - M1NET, server: relay02.m5vip.net, port: 19561, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
