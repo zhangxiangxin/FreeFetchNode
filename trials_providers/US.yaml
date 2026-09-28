@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: 5619b4d9-0561-3dd1-9f36-96008df57f6a, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: f5ad84c1-53ba-3dd5-89a0-7c110ba1009f, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 BA 03 - M1NET, server: relay03.m5vip.net, port: 10441, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 BA 04 - M1NET, server: relay04.m5vip.net, port: 10681, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
 - {name: 🇺🇸 美国 BA 01 - M1NET, server: relay01.m5vip.net, port: 49166, type: ss, cipher: chacha20-ietf-poly1305, password: 9b79fe90-a513-47cc-bee3-cf04fdb63cdb, udp: true}
