@@ -13,11 +13,9 @@ proxy-groups:
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
@@ -27,7 +25,6 @@ proxy-groups:
   use: &id001
   - HK
   - SG
-  - JP
   - US
 - name: 👆🏻 ‍指定
   type: select
@@ -57,11 +54,9 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -80,15 +75,10 @@ proxy-groups:
   tolerance: 100
   use: &id003
   - SG
-- name: 🇯🇵 ‍日本
-  type: url-test
-  tolerance: 100
-  use: &id004
-  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 300
-  use: &id005
+  use: &id004
   - US
 - name: 👆🏻🇭🇰 ‍香港
   type: select
@@ -96,12 +86,9 @@ proxy-groups:
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
   use: *id003
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  use: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id005
+  use: *id004
 proxy-providers:
   HK:
     type: http
@@ -117,15 +104,6 @@ proxy-providers:
     url: https://raw.kgithub.com/zhangxiangxin/FreeFetchNode/main/trials_providers/nova.live#Novalive/SG.yaml
     interval: 180
     path: trials_providers/nova.live#Novalive/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/zhangxiangxin/FreeFetchNode/main/trials_providers/nova.live#Novalive/JP.yaml
-    interval: 180
-    path: trials_providers/nova.live#Novalive/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -2750,6 +2728,7 @@ rules:
 - DOMAIN-SUFFIX,compileheart.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,connect.facebook.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,conoha.jp,✈️ ‍起飞
+- DOMAIN-SUFFIX,console.typesafe.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,contests.twilio.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cool18.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,coolaler.com,✈️ ‍起飞
@@ -3306,6 +3285,7 @@ rules:
 - DOMAIN-SUFFIX,g.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,g0v.social,✈️ ‍起飞
 - DOMAIN-SUFFIX,g6hentai.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,ga.jspm.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,gab.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gabocorp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gagaoolala.com,✈️ ‍起飞

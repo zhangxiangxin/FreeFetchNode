@@ -13,11 +13,9 @@ proxy-groups:
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
@@ -28,9 +26,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-  - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
 - name: 👆🏻 ‍指定
   type: select
@@ -60,11 +56,9 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -86,21 +80,13 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id005
+  proxies: &id004
   - 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive
 - name: 👆🏻🇭🇰 ‍香港
   type: select
@@ -108,18 +94,13 @@ proxy-groups:
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id005
+  proxies: *id004
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 2053, type: trojan, password: a2b67f4e-cdb3-3245-9668-4fc4ef98deeb, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000 日本 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 178.239.125.119, port: 447, type: trojan, password: a2b67f4e-cdb3-3245-9668-4fc4ef98deeb, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG000 新加坡 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.160.193.245, port: 443, type: trojan, password: a2b67f4e-cdb3-3245-9668-4fc4ef98deeb, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 443, type: trojan, password: a2b67f4e-cdb3-3245-9668-4fc4ef98deeb, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: a2b67f4e-cdb3-3245-9668-4fc4ef98deeb, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 152.175.1.82, port: 2053, type: trojan, password: 37f6c63a-7552-3b16-8b91-b476415e7bc4, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 443, type: trojan, password: 37f6c63a-7552-3b16-8b91-b476415e7bc4, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: 209.248.57.66, port: 8443, type: trojan, password: 37f6c63a-7552-3b16-8b91-b476415e7bc4, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -2731,6 +2712,7 @@ rules:
 - DOMAIN-SUFFIX,compileheart.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,connect.facebook.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,conoha.jp,✈️ ‍起飞
+- DOMAIN-SUFFIX,console.typesafe.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,contests.twilio.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cool18.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,coolaler.com,✈️ ‍起飞
@@ -3287,6 +3269,7 @@ rules:
 - DOMAIN-SUFFIX,g.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,g0v.social,✈️ ‍起飞
 - DOMAIN-SUFFIX,g6hentai.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,ga.jspm.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,gab.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gabocorp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gagaoolala.com,✈️ ‍起飞
