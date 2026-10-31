@@ -98,9 +98,9 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: 976ff487-022d-3e45-b85d-da55076913ce, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 976ff487-022d-3e45-b85d-da55076913ce, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 58627, type: trojan, password: 976ff487-022d-3e45-b85d-da55076913ce, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: 8d92bd2b-4550-3ce8-bc0c-8f074ce23519, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 8d92bd2b-4550-3ce8-bc0c-8f074ce23519, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 58627, type: trojan, password: 8d92bd2b-4550-3ce8-bc0c-8f074ce23519, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -2427,6 +2427,7 @@ rules:
 - DOMAIN-SUFFIX,brookings.edu,✈️ ‍起飞
 - DOMAIN-SUFFIX,brutaltgp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bsky.app,✈️ ‍起飞
+- DOMAIN-SUFFIX,bsky.chat,✈️ ‍起飞
 - DOMAIN-SUFFIX,bsky.network,✈️ ‍起飞
 - DOMAIN-SUFFIX,bsky.social,✈️ ‍起飞
 - DOMAIN-SUFFIX,bt4g.org,✈️ ‍起飞
