@@ -98,9 +98,9 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: a02b2fcc-490b-340c-b487-cccbdd15e1a0, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: a02b2fcc-490b-340c-b487-cccbdd15e1a0, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 58627, type: trojan, password: a02b2fcc-490b-340c-b487-cccbdd15e1a0, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: 4d009e27-e56c-3415-b99d-9a4cc4612829, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 4d009e27-e56c-3415-b99d-9a4cc4612829, sni: upos-hz-mirrorakam.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 58627, type: trojan, password: 4d009e27-e56c-3415-b99d-9a4cc4612829, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -2143,6 +2143,7 @@ rules:
 - DOMAIN-SUFFIX,api.recaptcha.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,api.shuaiapi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,api.steampowered.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,api.themoviedb.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,apiary.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,apigee.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,apk.support,✈️ ‍起飞
@@ -5587,6 +5588,7 @@ rules:
 - DOMAIN-SUFFIX,torproject.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrentgalaxy.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrentkitty.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,torrentleech.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrentprivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrentproject.se,✈️ ‍起飞
 - DOMAIN-SUFFIX,torrenty.org,✈️ ‍起飞
@@ -6192,6 +6194,7 @@ rules:
 - DOMAIN-SUFFIX,youtubegaming.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,youtubekids.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,youversion.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,youversionapi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,youwin.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,youxu.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,yt.be,✈️ ‍起飞
