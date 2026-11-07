@@ -98,9 +98,9 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: f88bf379-65b2-36e4-9b1d-6cef83bd03cc, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: f88bf379-65b2-36e4-9b1d-6cef83bd03cc, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 31999, type: trojan, password: f88bf379-65b2-36e4-9b1d-6cef83bd03cc, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: 037cf4ab-5ec3-3b57-8c24-85fd038852b0, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 037cf4ab-5ec3-3b57-8c24-85fd038852b0, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 31999, type: trojan, password: 037cf4ab-5ec3-3b57-8c24-85fd038852b0, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1884,37 +1884,6 @@ rules:
 - DOMAIN-SUFFIX,perplexity.ai,🤖 ‍AI
 - DOMAIN-SUFFIX,sora.com,🤖 ‍AI
 - DOMAIN-SUFFIX,x.ai,🤖 ‍AI
-- DOMAIN-SUFFIX,*.tokenplus.app,🛩️ ‍墙内
-- DOMAIN-SUFFIX,c.pki.goog,🛩️ ‍墙内
-- DOMAIN-SUFFIX,cdn-china.ampproject.org,🛩️ ‍墙内
-- DOMAIN-SUFFIX,cdn.ampproject.org,🛩️ ‍墙内
-- DOMAIN-SUFFIX,checkin.gstatic.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ci.android.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,clientservices.googleapis.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,cn.investing.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,connectivitycheck.gstatic.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,crl.pki.goog,🛩️ ‍墙内
-- DOMAIN-SUFFIX,dl.google.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,firebase-settings.crashlytics.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,fonts.googleapis.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,fonts.gstatic.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,g0.gstatic.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,g1.gstatic.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,g2.gstatic.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,i.pki.goog,🛩️ ‍墙内
-- DOMAIN-SUFFIX,imasdk.googleapis.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,o.pki.goog,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ocsp.pki.goog,🛩️ ‍墙内
-- DOMAIN-SUFFIX,redirector.gvt1.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,safebrowsing.googleapis.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ssl.gstatic.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,static.typepad.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,tools.google.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,update.googleapis.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,www.ampproject.org,🛩️ ‍墙内
-- DOMAIN-SUFFIX,www.gov.tw,🛩️ ‍墙内
-- DOMAIN-SUFFIX,www.gstatic.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,www.typepad.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,*.pimg.tw,✈️ ‍起飞
 - DOMAIN-SUFFIX,*.sf.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,*.tuzaijidi.com,✈️ ‍起飞
