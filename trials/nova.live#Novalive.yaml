@@ -98,9 +98,9 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: f06785b3-25ff-3ddb-98e1-1946b327e69e, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: f06785b3-25ff-3ddb-98e1-1946b327e69e, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 31999, type: trojan, password: f06785b3-25ff-3ddb-98e1-1946b327e69e, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: 6ea49b71-3ac0-3fb3-be25-1e8367b23fe8, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 6ea49b71-3ac0-3fb3-be25-1e8367b23fe8, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 31999, type: trojan, password: 6ea49b71-3ac0-3fb3-be25-1e8367b23fe8, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
