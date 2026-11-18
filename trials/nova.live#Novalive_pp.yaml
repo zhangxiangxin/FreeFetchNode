@@ -12,10 +12,8 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
@@ -24,7 +22,6 @@ proxy-groups:
   tolerance: 100
   use: &id001
   - HK
-  - SG
   - US
 - name: 👆🏻 ‍指定
   type: select
@@ -53,10 +50,8 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -70,40 +65,23 @@ proxy-groups:
   tolerance: 100
   use: &id002
   - HK
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  tolerance: 100
-  use: &id003
-  - SG
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 300
-  use: &id004
+  use: &id003
   - US
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  use: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id004
+  use: *id003
 proxy-providers:
   HK:
     type: http
     url: https://raw.kgithub.com/zhangxiangxin/FreeFetchNode/main/trials_providers/nova.live#Novalive/HK.yaml
     interval: 180
     path: trials_providers/nova.live#Novalive/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/zhangxiangxin/FreeFetchNode/main/trials_providers/nova.live#Novalive/SG.yaml
-    interval: 180
-    path: trials_providers/nova.live#Novalive/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
