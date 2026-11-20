@@ -83,8 +83,8 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: c5a4f880-fecc-3d21-9074-480f54a13054, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 28004, type: trojan, password: c5a4f880-fecc-3d21-9074-480f54a13054, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 32118, type: trojan, password: 27e053c0-7058-37c1-a234-e864c6b6451e, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 28004, type: trojan, password: 27e053c0-7058-37c1-a234-e864c6b6451e, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -2881,6 +2881,7 @@ rules:
 - DOMAIN-SUFFIX,dtiblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,dtic.mil,✈️ ‍起飞
 - DOMAIN-SUFFIX,dubox.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,duck.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,duck.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,duckduckgo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,duckmylife.com,✈️ ‍起飞
@@ -3231,9 +3232,9 @@ rules:
 - DOMAIN-SUFFIX,gabocorp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gagaoolala.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,galenwu.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,game735.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gamer.com.tw,✈️ ‍起飞
 - DOMAIN-SUFFIX,gamez.com.tw,✈️ ‍起飞
+- DOMAIN-SUFFIX,gamma.app,✈️ ‍起飞
 - DOMAIN-SUFFIX,ganjing.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ganjingworld.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gaoming.net,✈️ ‍起飞
@@ -5184,6 +5185,7 @@ rules:
 - DOMAIN-SUFFIX,sotwe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,soubory.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,soulcaliburhentai.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,soulogic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,soundcloud.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,soundofhope.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,soundon.fm,✈️ ‍起飞
