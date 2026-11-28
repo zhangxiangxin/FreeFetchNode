@@ -98,9 +98,9 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 16918, type: trojan, password: 38ba784d-2393-31c6-9fa9-ee19a109840d, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 38ba784d-2393-31c6-9fa9-ee19a109840d, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 14043, type: trojan, password: 38ba784d-2393-31c6-9fa9-ee19a109840d, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK000 香港 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: trapping.manned.unengaged.aliyungslb.com, port: 16918, type: trojan, password: 1237a372-ceee-33c0-b723-43d178d1f244, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG001 新加坡 0.5倍率 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: parasail.undertook.barcode.aliyungslb.com, port: 55590, type: trojan, password: 1237a372-ceee-33c0-b723-43d178d1f244, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 美国 低保慢速节点 升级请买官网套餐 永久官网地址 nova.live 需要翻墙 - NovaLive, server: try.ditto.refocus.aliyungslb.com, port: 14043, type: trojan, password: 1237a372-ceee-33c0-b723-43d178d1f244, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -564,7 +564,6 @@ rules:
 - DOMAIN-SUFFIX,switchadhub.com,💩 ‍广告
 - DOMAIN-SUFFIX,sycbbs.com,💩 ‍广告
 - DOMAIN-SUFFIX,synacast.com,💩 ‍广告
-- DOMAIN-SUFFIX,sysdig.com,💩 ‍广告
 - DOMAIN-SUFFIX,talkingdata.com,💩 ‍广告
 - DOMAIN-SUFFIX,talkingdata.net,💩 ‍广告
 - DOMAIN-SUFFIX,tansuotv.com,💩 ‍广告
@@ -6547,6 +6546,7 @@ rules:
 - DOMAIN,wmsjsteam.com,🛩️ ‍墙内
 - DOMAIN,dl.steam.clngaa.com,🛩️ ‍墙内
 - DOMAIN,dl.steam.ksyna.com,🛩️ ‍墙内
+- DOMAIN,gstore.val.manlaxy.com,🛩️ ‍墙内
 - DOMAIN,st.dl.bscstorage.net,🛩️ ‍墙内
 - DOMAIN,st.dl.eccdnx.com,🛩️ ‍墙内
 - DOMAIN,st.dl.pinyuncloud.com,🛩️ ‍墙内
@@ -6555,6 +6555,7 @@ rules:
 - DOMAIN,steampowered.com.8686c.com,🛩️ ‍墙内
 - DOMAIN,steamstatic.com.8686c.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,foxmail.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gcloudsvcs.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,gtimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,idqqimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,igamecj.com,🛩️ ‍墙内
@@ -6857,6 +6858,12 @@ rules:
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cmbchina.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,95516.com,🛩️ ‍墙内
+- DOMAIN,cn.download.nvidia.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,made-in-china.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,micstatic.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,focuschina.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,vemic.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,trademessenger.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
 - IP-CIDR,8.209.32.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,8.209.40.0/21,🛩️ ‍墙内,no-resolve
